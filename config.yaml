@@ -1,0 +1,34 @@
+BaseUrl: "http://lac.lisafast.ca/"
+ContentDir: "content"
+LayoutDir: "layouts"
+PublishDir: "public"
+BuildDrafts: true
+languageCode: "en-us"
+Title: "Lac Notre-Dame and Usher Lake Association"
+PluralizeListTitles: False
+googleAnalytics: ""
+menu:
+ 
+Params:
+  Author: ""
+  Banner: ""
+  DateForm: "2006-01-02"
+  disqusShortname: ""
+  GoogleAnalyticsUserID: ""
+  Github: ""
+  Search: ""
+  ShowRelatedPost: True
+  Slogan: ""
+  SyntaxHighlightTheme: "monokai.min.css"
+  Theme: ""
+  Twitter: ""
+taxonomies:
+  tag: "tags"
+permalinks:
+  post: /post/:year/:slug/
+MetadataFormat: "yaml"
+theme: "bootstrapfour"
+sitemap:
+  changefreq: "monthly"
+  priority: 0.5
+  filename: "sitemap.xml"

@@ -1,0 +1,23 @@
+{
+  "name": "bootstrapfour",
+  "version": "1.0.0",
+  "description": "A Bootstrap v4 theme for the Hugo static site generator.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vation-ca/hugo-theme-bootstrapfour.git"
+  },
+  "scripts": {
+    "build:css": "node-sass --output-style expanded --precision 6 source/scss/style.scss static/css/style.css.tmp && cleancss --level 1 static/css/style.css.tmp -o static/css/style.css",
+    "build": "npm run build:css && npm run clean",
+    "clean": "rm static/css/style.css.tmp"
+  },
+  "keywords": "hugo",
+  "author": "Steve Hume",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.1.0",
+    "clean-css-cli": "^4.1.11",
+    "@fortawesome/fontawesome-free-webfonts": "latest",
+    "node-sass": "^4.9.0"
+  }
+}

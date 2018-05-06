@@ -1,0 +1,14 @@
+<nav aria-label="Pager navigation for Posts">
+    <ul class="pagination">
+        {{ if .Prev }}
+        <li class="page-item"><a class="page-link" href="{{ .Prev.Permalink }}"><span aria-hidden="true">&larr;</span> Older</a></li>
+        {{ else }}
+        <li class="page-item disabled"><a class="page-link" href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+        {{ end }}
+        {{ if .Next }}
+        <li class="page-item"><a class="page-link" href="{{ .Next.Permalink }}">Newer <span aria-hidden="true">&rarr;</span></a></li>
+        {{ else }}
+        <li class="page-item disabled"><a class="page-link" href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+        {{ end }}
+    </ul>
+</nav>

@@ -1,0 +1,8 @@
+
+// starting with reference: node_modules/bootstrap/scss/bootstrap.scss
+// import components we use from bootstrap using this import
+
+// local bootstrap overrides
+@import 'source/scss/main';
+@import 'source/scss/bootstrap';
+@import 'source/scss/fontawesome';
