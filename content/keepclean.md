@@ -35,10 +35,12 @@ type = "single"
 * Wash your boat & equipment before you put in. 
 
 ## Help your guests keep the water clean
-[Add this printable page to your guest binder (english)](/assets/docs/LacND_Binder_page-en.png)
-Print this page (Francais) 
+
+* [Add this printable page to your guest binder (English)](/assets/docs/LacND_Binder_page-en.png)
+* Print this page (Francais - coming soon) 
 
 ## Cut and remove your Milfoil
 The Lake Association encourages residents to cut milfoil themselves and remove the cuttings. Milfoil bits may also drift in that have been cut up by boat motors, and lake residents are encouraged to remove them from the lake (they make good compost). 
  
 * Cutting tools – Some residents have purchased Weed shears and/or Aquatic Weed Eradicator cutters for personal use or shared use from this site: https://canadianpond.ca/product/aquatic-weed-rakes-cutters/  
+* [Steps you can take to reduce milfoil](./lnd-milfoil.md)
