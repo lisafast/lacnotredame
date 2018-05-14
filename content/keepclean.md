@@ -10,7 +10,7 @@ date = "2017-12-29T13:10:52-05:00"
 type = "single"
 +++
 
-## Help us keep the Lakes clean with these tips
+## Tips to keep our lakes clean
 
 ### It’s not a garden – don't dump ashes, fertilizer, or anything at all into the lake. 
 
