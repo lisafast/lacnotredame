@@ -15,14 +15,15 @@ nobc = true
 
 The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
 
-===
+***
 ## 2018 Lake Association Meeting 
 Join us at our Annual General Meeting to share ideas and issues about the lakes, water quality and the watershed. 
 
 * August 11th, 2018
 * Time: 10:00 am
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC (not yet confirmed, check back)
-===
+
+***
 
 ## [Water testing results](/water/qualityreports/)
 
