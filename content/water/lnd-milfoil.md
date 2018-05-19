@@ -4,11 +4,10 @@ title = "Eurasian Milfoil"
 description="Eurasian milfoil weed in Lac Notre-Dame - what to do and history"
 language = "en"
 tags = [
-    "water",
-    "about"
+    "water"
 ]
 date = "2017-05-01T13:10:52-05:00"
-type = "single"
+type = "article"
 +++
 
 ## Eurasian watermilfoil - an invasive species

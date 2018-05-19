@@ -8,7 +8,7 @@ tags = [
     "water"
 ]
 date = "2017-05-01T13:10:52-05:00"
-type = "single"
+type = "article"
 +++
 
 ## Area and roads 

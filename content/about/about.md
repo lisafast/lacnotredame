@@ -4,11 +4,10 @@ title = "Lac Notre-Dame and Usher Lake Association"
 description="About Lac Notre-Dame and Usher Lake Association"
 language = "en"
 tags = [
-    "mission",
-    "about"
+    "mission"
 ]
 date = "2017-12-29T13:10:52-05:00"
-type = "single"
+type = "info"
 +++
 # The Association and what we do
 <img src="/assets/img/still_horiz_2770.jpg" class="img-responsive img-rounded mrgn-bttm-md mrgn-tp-md" alt="view of still water of lake" />

@@ -4,11 +4,10 @@ title = "Water testing results"
 description="Lac Notre Dame water testing results"
 language = "en"
 tags = [
-    "water",
-    "about"
+    "water"   
 ]
 date = "2017-05-01T13:10:52-05:00"
-type = "single"
+type = "article"
 +++
 
 Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and tests the water on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. 
@@ -39,7 +38,7 @@ Water transparency is an indicator of lake health - clear, more transparent wate
 
 The Association water testing locations are marked on Map XXXX. Note these locations are not the same as the Municipality of La Peche's test locations. 
 
-[Results for E-coli, phosphates and salts from 2005 to 2011 (PDF)](/assets/docs/Lacs_Notre-Dame_Usher-Water_Testing_Results_to_2011.pdf)
+[Results for E-coli, phosphates and salts from 2005 to 2011 (PDF)](/assets/docs/water/Lacs_Notre-Dame_Usher_Water_Testing_Results_to_2011.pdf)
 
 Full reports including other minerals, alkalinity and nitrites 
 * [May 2005](/assets/docs/water/Water_report_May_05.pdf)

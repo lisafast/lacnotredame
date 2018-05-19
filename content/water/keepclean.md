@@ -4,10 +4,10 @@ title = "Keep our water clean"
 description="Protecting water quality"
 language = "en"
 tags = [
-    "clean"
+    "water"
 ]
 date = "2017-12-29T13:10:52-05:00"
-type = "single"
+type = "article"
 +++
 
 ## Tips to keep our lakes clean
@@ -36,11 +36,11 @@ type = "single"
 
 ## Help your guests keep the water clean
 
-* [Add this printable page to your guest binder (English)](/assets/docs/LacND_Binder_page-en.png)
+* [Add this printable page to your guest binder (English)](/assets/docs/LacND_Binder_Page-en.pdf)
 * Print this page (Francais - coming soon) 
 
 ## Cut and remove your Milfoil
 The Lake Association encourages residents to cut milfoil themselves and remove the cuttings. Milfoil bits may also drift in that have been cut up by boat motors, and lake residents are encouraged to remove them from the lake (they make good compost). 
  
 * Cutting tools – Some residents have purchased Weed shears and/or Aquatic Weed Eradicator cutters for personal use or shared use from this site: https://canadianpond.ca/product/aquatic-weed-rakes-cutters/  
-* [Steps you can take to reduce milfoil](./lnd-milfoil.md)
+* [Steps you can take to reduce milfoil](/water/lnd-milfoil/)
