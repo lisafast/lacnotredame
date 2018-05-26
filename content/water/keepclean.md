@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Keep our water clean"
+title = "Tips to keep our water clean"
 description="Protecting water quality"
 language = "en"
 tags = [
@@ -9,8 +9,6 @@ tags = [
 date = "2017-12-29T13:10:52-05:00"
 type = "article"
 +++
-
-## Tips to keep our lakes clean
 
 ### It’s not a garden – don't dump ashes, fertilizer, or anything at all into the lake. 
 
@@ -28,19 +26,19 @@ type = "article"
 
 ### It’s not a speedway – boat wakes increase erosion.
 
-* Let’s all slow down & not make waves. 
+* Let’s all slow down close to shore to reduce waves. 
 
-### It’s easy to contaminate. Milfoil was brought in on someone’s boat – we worry Zebra mussels are next.
+### Milfoil was brought in on someone’s boat – we worry Zebra mussels are next.
 
 * Wash your boat & equipment before you put in. 
 
-## Help your guests keep the water clean
+### Help your guests keep the water clean
 
 * [Add this printable page to your guest binder (English)](/assets/docs/LacND_Binder_Page-en.pdf)
 * Print this page (Francais - coming soon) 
 
-## Cut and remove your Milfoil
+### Cut and remove your Milfoil
 The Lake Association encourages residents to cut milfoil themselves and remove the cuttings. Milfoil bits may also drift in that have been cut up by boat motors, and lake residents are encouraged to remove them from the lake (they make good compost). 
  
-* Cutting tools – Some residents have purchased Weed shears and/or Aquatic Weed Eradicator cutters for personal use or shared use from this site: https://canadianpond.ca/product/aquatic-weed-rakes-cutters/  
-* [Steps you can take to reduce milfoil](/water/lnd-milfoil/)
+* * [Steps you can take to reduce milfoil](/water/lnd-milfoil/) 
+
