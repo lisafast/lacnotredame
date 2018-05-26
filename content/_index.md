@@ -34,13 +34,13 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
-We all enjoy the lake's beautiful clean water. To keep them clean, each of us can keep soap, fertilizer and other contaminants out of the water, and preserve the natural shoreline. We've pulled together a handy sheet of tips to share with all lake residents and guests.  
+We all enjoy the beautiful clean water. To keep it clean, each of us can keep soap, fertilizer and other contaminants out of the lakes, and preserve the natural shoreline. We've pulled together a handy sheet of tips to share.  
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests. 
 
-Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it can form a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish populations. It's an invasive species, brought in on someone's boat or fishing equipment. Each tiny piece broken off by waves or boats can turn into a new plant. Remove any you cut, and keep your boat out of weedy areas.  
+Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it can form a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It's an invasive species, brought in on someone's boat or fishing equipment. Each tiny piece broken off by waves or boats can turn into a new plant. There are ways to reduce the spread.  
 
-* [Handling Eurasian Milfoil in Lac Notre-Dame et Usher](/water/lnd-milfoil/) 
+* [Steps you can take to reduce Eurasian Milfoil in Lac Notre-Dame et Usher](/water/lnd-milfoil/) 
 
 ## [About the Lake Association](/about/)
 
