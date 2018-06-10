@@ -10,7 +10,7 @@ date = "2017-05-01T13:10:52-05:00"
 type = "article"
 +++
 
-Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and tests the water on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. 
+Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. Your association membership fees pay for the water testing. 
 
 ## 2017 water testing results summary
 
