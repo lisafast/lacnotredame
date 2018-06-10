@@ -22,7 +22,7 @@ Nitrogen and nitrates occur naturally in soil and water, but lawn and garden fer
 
 * 2017 Nitrogen levels in August: ranged from 0.19 to 0.52 mg/L. 
 
-E.coli is a bacterium that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli is a level below 4 CFU - Colony Forming Units in 100 ml of water. 
+E.coli is a bacterium that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). 
 
 * 2017 E-coli levels in Lac Notre Dame were good - at or below 4 CFU/100ml
 * In Usher Lake in late August, there was evidence of contamination. Levels ranged from 15 to 25 - well above the target range of less than 4 CFU/100 ml. 
