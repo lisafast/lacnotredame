@@ -21,19 +21,19 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
-* Not a member? Join the Association at the meeting or by email us about joining at info@lacnotredame.org 
+* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or by email us about joining at info@lacnotredame.org 
 
 ***
 
 ## [Water testing results](/water/qualityreports/)
 
-The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! Your membership fees fund the testing. 
+The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! 
 
-2017 Summary: In August of 2017, at the end of a very rainy summer, all measurements were at or below the target levels for a healthy lake - except for some higher e-coli bacteria counts in samples at Usher Lake. These results may be from beavers in the area, or from human activity. 
+***2017 Summary:*** In August of 2017, at the end of a very rainy summer, all measurements were at or below the target levels for a healthy lake - except for some higher e-coli bacteria counts in samples at Usher Lake. These results may be from beavers in the area, or from human activity. 
 
 * [See detailed recent and historical water quality reports](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of water testing locations](/map/maps/)
-
+* Association membership fees fund the testing. 
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
@@ -47,7 +47,7 @@ Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it ca
 
 ## [About the Lake Association](/about/)
 
-Join the Association to help protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
+Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
 * See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join the Association at our Annual meeting or email us about joining at info@lacnotredame.org - membership is $10 per year
