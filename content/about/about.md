@@ -13,9 +13,22 @@ type = "info"
 <img src="/assets/img/still_horiz_2770.jpg" class="img-responsive img-rounded mrgn-bttm-md mrgn-tp-md" alt="view of still water of lake" />
  The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
 
-## Annual general meetings - Minutes
+## Annual general meetings
 
 People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and to pay your membership fees to support the association's work. Fees were reduced from $20 per year per person to $10 per year per household in 2017. 
+
+***
+## 2018 Lake Association Meeting 
+Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. 
+
+* August 18th, 2018
+* Time: 10:00 am
+* Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
+* Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
+* Current members will be sent an email notification of the meeting
+* Not a member? Join the Association at the meeting or by email us about joining at info@lacnotredame.org 
+
+***
 
 Minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances. 
 
@@ -65,6 +78,8 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 * Director Dave Hayward
 * Director Erin Jamison (Usher Lake)
 * Director Marie Maissoneuve (volunteered in August 2017)
+
+Contact us by email at info@lacnotredame.org
 
 [Constitution(PDF)](/assets/docs/Association_Constitution.pdf) and [Bylaws(PDF)](/assets/docs/Association_By-Laws_en.pdf)
 
