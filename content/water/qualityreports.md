@@ -12,26 +12,26 @@ type = "article"
 
 Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and tests the water on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. 
 
-## Latest water testing results
+## 2017 water testing results summary
 
-Phosphate run-off from fertilizers, detergents and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Target levels for Phosphorus in an uncontaminated lake are below .005 mg/L. Our lakes have so far been relatively uncontaminated, although levels occasionally creep up above the target.  
+**Phosphate** run-off from fertilizers, detergents and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Target levels for Phosphorus in an uncontaminated lake are below .005 mg/L. Our lakes have so far been relatively uncontaminated, although levels occasionally creep up above the target.  
 
 * 2017 Phosphorus levels in August: 0.006 to 0.017 mg/L - fairly close to the target range. 
 
-Nitrogen and nitrates occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Target levels for nitrogen in drinking water are 0.02 mg/L. Levels in our lakes are higher than those targets. 
+**Nitrogen and nitrates** occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Target levels for nitrogen in drinking water are 0.02 mg/L. Levels in our lakes are higher than those targets. 
 
 * 2017 Nitrogen levels in August: ranged from 0.19 to 0.52 mg/L. 
 
-E.coli is a bacterium that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). 
+**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). 
 
 * 2017 E-coli levels in Lac Notre Dame were good - at or below 4 CFU/100ml
 * In Usher Lake in late August, there was evidence of contamination. Levels ranged from 15 to 25 - well above the target range of less than 4 CFU/100 ml. 
 
-Water transparency is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
+**Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
 * 2017 water transparency testis in July recorded near location 13 were 3.75 meters. A similar reading of 3.75 was measured in late September. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
 
-## Historical water testing data
+## Detailed water testing results for all years
 
 Association volunteer Carol Doré collects water samples at specific locations where water enters and exits the lakes, as marked on the [map of water testing locations](/map/maps/). Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
 
