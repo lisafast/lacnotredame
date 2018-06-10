@@ -45,11 +45,11 @@ Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it ca
 
 * [Steps you can take to reduce Eurasian Milfoil in Lac Notre-Dame et Usher](/water/lnd-milfoil/) 
 
-## [About the Lake Association](/about/)
+## [About the Lake Association](/about/about/)
 
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
-* See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
+* See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join the Association at our Annual meeting or email us about joining at info@lacnotredame.org - membership is $10 per year
 
 
