@@ -20,6 +20,9 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Time: 10:00 am
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
+* Current members will be sent an email notification of the meeting
+* Not a member? Join the Association at the meeting or by email us about joining at info@lacnotredame.org 
+
 ***
 
 ## [Water testing results](/water/qualityreports/)
@@ -47,4 +50,6 @@ Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it ca
 Join the Association to help protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
 * See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
+* Join the Association at our Annual meeting or email us about joining at info@lacnotredame.org - membership is $10 per year
+
 
