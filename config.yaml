@@ -1,4 +1,4 @@
-BaseUrl: "http://lac.lisafast.ca/"
+BaseUrl: "http://lacnotredame.org/"
 ContentDir: "content"
 LayoutDir: "layouts"
 PublishDir: "public"
@@ -14,14 +14,9 @@ Params:
   Banner: ""
   DateForm: "2006-01-02"
   disqusShortname: ""
-  GoogleAnalyticsUserID: ""
-  Github: ""
   Search: ""
   ShowRelatedPost: True
   Slogan: ""
-  SyntaxHighlightTheme: "monokai.min.css"
-  Theme: ""
-  Twitter: ""
 taxonomies:
   tag: "tags"
 permalinks:
