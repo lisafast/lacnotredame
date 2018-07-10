@@ -20,7 +20,8 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
-* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or send an email to info@lacnotredame.org to join  
+* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or fill out this membership form and email it to info@lacnotredame.org
+*  [Membership form - Formulaire d’adhésion](/assets/docs/Adhesion_membership_form_June 2018)
 
 ***
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
