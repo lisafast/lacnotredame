@@ -11,7 +11,6 @@ nobc = true
 +++
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 
-
 ***
 ## 2018 Lake Association Meeting 
 Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. 
@@ -21,9 +20,12 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
-* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or by email us about joining at info@lacnotredame.org 
+* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or send an email to info@lacnotredame.org to join  
 
 ***
+## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
+
+The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked. 
 
 ## [Water testing results](/water/qualityreports/)
 
@@ -32,8 +34,8 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 ***2017 Summary:*** In August of 2017, at the end of a very rainy summer, all measurements were at or below the target levels for a healthy lake - except for some higher e-coli bacteria counts in samples at Usher Lake. These results may be from beavers in the area, or from human activity. 
 
 * [See detailed recent and historical water quality reports](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
-* [Map of water testing locations](/map/maps/)
-* Association membership fees fund the testing. 
+* [Map of lake with water testing locations](/map/maps/)
+* Association membership fees fund the water testing. 
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
