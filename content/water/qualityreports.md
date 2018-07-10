@@ -29,13 +29,13 @@ Carol Doré has been volunteering as the Association water tester for years. Tha
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
-* 2017 water transparency testis in July recorded near location 13 were 3.75 meters. A similar reading of 3.75 was measured in late September. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
+* 2017 water transparency tests in July recorded near location 13 were 3.75 meters. A similar reading of 3.75 was measured in late September. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
 
 ## Detailed water testing results for all years
 
-Association volunteer Carol Doré collects water samples at specific locations where water enters and exits the lakes, as marked on the [map of water testing locations](/map/maps/). Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
-
-[View all results for E-coli, phosphates and salts from 2005 to 2017 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
+Association volunteer Carol Doré collects water samples at specific locations where water enters and exits the lakes, as marked on the [map](/map/maps/). Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
+[Map of numbered locations where water samples are collected](/map/maps/)
+[View all results for E-coli, phosphates and salts from 2005 to 2017 by test location (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
 ## 2014 ABV-7 Report and recommendations 
  
