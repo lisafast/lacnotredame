@@ -1,4 +1,4 @@
-BaseUrl: "http://lacnotredame.org/"
+BaseUrl: "https://lacnotredame.org/"
 ContentDir: "content"
 LayoutDir: "layouts"
 PublishDir: "public"
