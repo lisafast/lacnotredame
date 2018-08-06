@@ -20,8 +20,7 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
-* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or fill out this membership form and email it to info@lacnotredame.org
-*  [Membership form - Formulaire d’adhésion](/assets/docs/Adhesion_membership_form_June 2018.rtf)
+* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or email us at info@lacnotredame.org about joining.
 
 ***
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
@@ -32,7 +31,7 @@ The map shows all inlets and outlets into the lakes. Lots are marked. Water test
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! 
 
-***2017 Summary:*** In August of 2017, at the end of a very rainy summer, all measurements were at or below the target levels for a healthy lake - except for some higher e-coli bacteria counts in samples at Usher Lake. These results may be from beavers in the area, or from human activity. 
+***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 4.5 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Testing results not in yet.  
 
 * [See detailed recent and historical water quality reports](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -40,13 +39,13 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
-We all enjoy the beautiful clean water. To keep it clean, each of us can keep soap, fertilizer and other contaminants out of the lakes, and preserve the natural shoreline. We've pulled together a handy sheet of tips to share.  
+Keep our water clean. We've pulled together a handy sheet of tips to share and are delivering them dock to dock this summer of 2018. Share them with your renters - binder page version available.   
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests. 
 
-Eurasian milfoil weed appeared in the lake over ten years ago. Some years, it can form a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It's an invasive species, brought in on someone's boat or fishing equipment. Each tiny piece broken off by waves or boats can turn into a new plant. There are ways to reduce the spread.  
+Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment. Each tiny piece broken off by waves or boats can turn into a new plant.   
 
-* [Steps you can take to reduce Eurasian Milfoil in Lac Notre-Dame et Usher](/water/lnd-milfoil/) 
+* [Reduce Eurasian Milfoil in Lac Notre-Dame et Usher - cutters, tips](/water/lnd-milfoil/) 
 
 ## [About the Lake Association](/about/about/)
 
