@@ -18,9 +18,10 @@ Originating in Europe, Eurasian watermilfoil is an invasive aquatic plant that u
 
    * Milfoil bits may also drift in that have been cut up by boat motors, and lake residents are encouraged to remove them from the lake - use them as compost far from shore.
    
-2. Cutting does seem to help, as long as you remove the cuttings. Lake residents who have been consistently cutting the weeds for a few years notice that fewer and fewer appear. Try not to stir up the bottom as you cut - that just moves food into the water for the weeds. Raking is not advised at all. 
+2. Cutting does seem to help, as long as you remove the cuttings. Lake residents who have been consistently cutting the weeds for a few years notice that fewer and fewer appear. Try not to stir up the bottom as you cut - that moves food into the water for the weeds. Raking is not advised at all other than raking your cuttings off the surface of the water.  
 
-    * Cutting tools – Some residents have purchased Weed shears and/or Aquatic Weed Eradicator cutters for personal use or shared use from this site: https://canadianpond.ca/product/aquatic-weed-rakes-cutters/
+    * Cutting tools – Some residents have purchased Weed shears and/or Aquatic Weed Eradicator cutters for personal use or shared use from this site: https://canadianpond.ca/product/aquatic-weed-rakes-cutters/ . 
+    * Lee Valley Tools in Ottawa also carries the cutter and rake - http://www.leevalley.com/en/garden/page.aspx?p=76919&cat=2,44821
    
 3. Stop sediment from entering the lake - it feeds the weeds. Maintain the natural vegetation along the shoreline or restore degraded shorelines to reduce sediment inflow. Rehabilitate your shoreline with native plants like Red Osier Dogwood, Pussy Willow, Sweet Gale and Blue Flag iris, as outlined in the Ottawa River Keeper Guide below. 
 
