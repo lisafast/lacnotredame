@@ -20,7 +20,8 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
-* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or email us at info@lacnotredame.org about joining.
+* Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or use this form to join or renew
+* [Renew or join with this form (PDF with payment instructions] (/assets/docs/minutes/Association10August2018.pdf)
 
 ***
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
@@ -47,11 +48,11 @@ Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface
 
 * [Reduce Eurasian Milfoil in Lac Notre-Dame et Usher - cutters, tips](/water/lnd-milfoil/) 
 
-## [About the Lake Association](/about/about/)
+## [Join the Lake Association](/about/about/)
 
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
-* Join the Association at our Annual meeting or email us about joining at info@lacnotredame.org - membership is $10 per year
+* Join the Association at our Annual meeting or use the [membership form](/assets/docs/minutes/Association10August2018.pdf) to mail a cheque or e-transfer
 
 
