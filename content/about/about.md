@@ -9,9 +9,14 @@ tags = [
 date = "2017-12-29T13:10:52-05:00"
 type = "info"
 +++
+## Join or renew your membership
+* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water - we'll send an acknowledgement by email. 
+* To renew by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0
+* [Join with Membership Form (PDF, with payment details)] (/assets/docs/minutes/Association10August2018.pdf)for new members 
+
 # The Association and what we do
-<img src="/assets/img/still_horiz_2770.jpg" class="img-responsive img-rounded mrgn-bttm-md mrgn-tp-md" alt="view of still water of lake" />
  The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
+
 
 ## Annual general meetings
 
@@ -70,12 +75,12 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 3.4	The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
-* President Jane Hayward
+* President Lisa Fast
 * Vice-president Robert Boucher
-* Treasurer Lisa Fast
+* Treasurer Jane Hayward
 * Director Dave Hayward
 * Director Erin Jamison (Usher Lake)
-* Director Marie Maissoneuve (volunteered in August 2017)
+* Director Marie Maissoneuve 
 
 Contact us by email at info@lacnotredame.org
 
