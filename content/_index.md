@@ -21,7 +21,7 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
 * Not a member? Join the Association by paying your annual membership fee of $10 at the meeting or use this form to join or renew
-* [Renew or join with this form (PDF with payment instructions] (/assets/docs/minutes/Association10August2018.pdf)
+    * Renew or join with this form [PDF with payment instructions] (/assets/docs/Association10Aug2018.pdf)
 
 ***
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
@@ -32,7 +32,7 @@ The map shows all inlets and outlets into the lakes. Lots are marked. Water test
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! 
 
-***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 4.5 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Testing results not in yet.  
+***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 5.0 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Testing results not in yet.  
 
 * [See detailed recent and historical water quality reports](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -53,6 +53,6 @@ Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
-* Join the Association at our Annual meeting or use the [membership form](/assets/docs/minutes/Association10August2018.pdf) to mail a cheque or e-transfer
+* Join the Association at our Annual meeting or use the [membership form](/assets/docs/Association10Aug2018.pdf) to mail a cheque or e-transfer
 
 

@@ -12,7 +12,7 @@ type = "info"
 ## Join or renew your membership
 * To renew by e-transfer, send $10 to info@lacnotredame.org, password: water - we'll send an acknowledgement by email. 
 * To renew by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0
-* [Join with Membership Form (PDF, with payment details)] (/assets/docs/minutes/Association10August2018.pdf)for new members 
+* [Join with Membership Form (PDF, with payment details)] (/assets/docs/Association10Aug2018.pdf)for new members 
 
 # The Association and what we do
  The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
