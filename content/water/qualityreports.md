@@ -25,11 +25,11 @@ Carol Doré has been volunteering as the Association water tester for years. Tha
 **E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). 
 
 * 2017 E-coli levels in Lac Notre Dame were good - at or below 4 CFU/100ml
-* In Usher Lake in late August, there was evidence of contamination. Levels ranged from 15 to 25 - well above the target range of less than 4 CFU/100 ml. 
+* In Usher Lake in late August 2017, there was evidence of contamination. Levels ranged from 15 to 25 - well above the target range of less than 4 CFU/100 ml. 
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
-* 2018: water transparency tests on August 3 were measured at 4.7 meter. This is an improvement over 2017's measurements of 3.75 meters. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
+* 2018 update: water transparency tests on August 10 were measured at 5 meters. This is an improvement over 2017's measurements of 3.75 meters. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
 
 ## Detailed water testing results for all years
 
