@@ -1,3 +1,14 @@
++++
+draft = false
+title = "2018 Annual General Meeting"
+description="AGM Lac Notre-Dame and Usher Lake Association"
+language = "en"
+tags = [
+    "agm"
+]
+date = "2017-12-29T13:10:52-05:00"
+type = "info"
++++
 # Proposed Agenda for 2018 Annual General Meeting of the Notre Dame and Usher Lakes Association
 Annual General Meeting - Rupert Community Hall, August 18, 2018, 10:00 am
 
@@ -8,7 +19,7 @@ Mandate of the association:
 Move
 Seconded
 
-## [Approval of previous year’s minutes] (http://lacnotredame.org/assets/docs/minutes/AGM_Minutes_2017.pdf)
+## [Approval of previous year’s minutes] (https://lacnotredame.org/assets/docs/minutes/AGM_Minutes_2017.pdf)
 Move
 Seconded
 
@@ -36,10 +47,10 @@ Move to accept Treasurer's report
 Seconded
 
 ## Water testing report
-[Results of 2017 water testing and 2018 plan] (http://lacnotredame.org/water/qualityreports/)
+[Results of 2017 water testing and 2018 plan] (https://lacnotredame.org/water/qualityreports/)
 
 ## Board report 
-* Clean water tip cards distributed in July-August, new web site http://lacnotredame.org/, 
+* Clean water tip cards distributed in July-August, new web site https://lacnotredame.org/, 
 * Water tip cards distributed to lake owners - tips and binder page is posted on the site https://lacnotredame.org/water/keepclean/
 * New website - map, water quality reports, anything missing? 
 * Milfoil report - levels are very low this year, cutting, levels, buoys, [Quebec investment$8M to research prevention](https://www.cbc.ca/news/canada/montreal/zombie-plant-quebec-investment-1.4751909)
@@ -69,7 +80,5 @@ The Board requests new members. We meet 2-3 times per year plus the AGM. Article
 ## Move to adjourn
 Moved
 Seconded
-
-
 
 
