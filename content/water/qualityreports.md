@@ -35,6 +35,7 @@ Carol Doré has been volunteering as the Association water tester for years. Tha
 
 Association volunteer Carol Doré collects water samples at specific locations where water enters and exits the lakes, as marked on the [map](/map/maps/). Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
 * [Map of numbered locations where water samples are collected](/map/maps/)
+
 * [View all results for E-coli, phosphates and salts from 2005 to 2017 by test location (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
 ## 2014 ABV-7 Report and recommendations 
