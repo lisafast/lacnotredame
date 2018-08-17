@@ -56,6 +56,8 @@ Seconded
 * Milfoil report - levels are very low this year, cutting, levels, buoys, [Quebec investment$8M to research prevention](https://www.cbc.ca/news/canada/montreal/zombie-plant-quebec-investment-1.4751909)
 * Canada Geese have arrived on your lawn and our lake - they come for the grass and stay to breed. Naturalize your shoreline, reduce the grass.  https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/managing-conflicts-nuisance-wildlife/frequently-asked-questions.html
 
+<img src="/assets/img/geese.jpg" class="img-fluid py-3" alt="Canada geese in front of a cottage on Lac Notre Dame, ignoring the pinwheels and barriers" />
+
 ## Proposed program for 2018: 
 * Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network http://www.mddelcc.gouv.qc.ca/eau/rsvl/index.htm
 * Maintain Facebook page now that new web site is up?
