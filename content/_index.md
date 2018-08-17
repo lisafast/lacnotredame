@@ -59,4 +59,8 @@ Join the Association to help fund water testing, protect the quality of our wate
   * Renew by sending $10 to info@lacnotredame.org via e-transfer with password: water, we will email an acknowledgement
   * Mail a cheque with the [membership form](/assets/docs/Association10Aug2018.pdf) to Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0
 
+The lake dragon (on Chemin du Domaines)
+
+<img src="/assets/img/dragon.jpg" class="img-fluid py-3" alt="photo of log painted like a dragon" />
+
 
