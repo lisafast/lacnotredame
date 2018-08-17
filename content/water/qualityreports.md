@@ -12,24 +12,24 @@ type = "article"
 
 Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. Your association membership fees pay for the water testing. 
 
-## 2017 water testing results summary
+## 2018 water testing results summary
 
 **Phosphate** run-off from fertilizers, detergents and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Target levels for Phosphorus in an uncontaminated lake are below .005 mg/L. Our lakes have so far been relatively uncontaminated, although levels occasionally creep up above the target.  
 
-* 2017 Phosphorus levels in August: 0.006 to 0.017 mg/L - fairly close to the target range. 
+* 2018 Phosphorus levels in August: Lac Notre Dame is at 0.005 to 0.009 mg/L - fairly close to the target range and slightly better than 2017. Usher Lake is a little higher at the inlets - around 0.01 fairly consistently but lower at Usher out. 
 
-**Nitrogen and nitrates** occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Target levels for nitrogen in drinking water are 0.02 mg/L. Levels in our lakes are higher than those targets. 
+**Nitrogen and nitrates** occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Target levels for nitrogen in drinking water are 0.02 mg/L. Levels in our lakes are higher than those drinking water targets. 
 
-* 2017 Nitrogen levels in August: ranged from 0.19 to 0.52 mg/L. 
+* 2018 Nitrogen levels in August: ranged from 0.25 to 0.39 on Lac Notre Dame which is fairly normal for the lake. In Usher Lake, levels are 0.36 to 0.51, again consistent with previous years. 
 
-**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). 
+**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 CFU. 
 
-* 2017 E-coli levels in Lac Notre Dame were good - at or below 4 CFU/100ml
-* In Usher Lake in late August 2017, there was evidence of contamination. Levels ranged from 15 to 25 - well above the target range of less than 4 CFU/100 ml. 
+* 2018 E-coli levels in Lac Notre Dame on August 13th were normal or slightly above in a few locations and very high (370) at location 6 (in front of Ch. des Generations). An additional sample has been collected for that location - results are not yet available. Caution is advised for swimming at that location. 
+* In Usher Lake, there is continuing evidence of contamination at the culvert and the associated inlet at location 11 (50 CFU), although the good news is the sample at the outlet was within the target range (less than 10 CFU). 
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
-* 2018 update: water transparency tests on August 10 were measured at 5 meters. This is an improvement over 2017's measurements of 3.75 meters. Water levels in the lake were very high in 2017 due to record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
+* 2018: water transparency tests on August 10 were measured at 5 meters. Water levels are high. This is an improvement over 2017's measurements of 3.75 meters with record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
 
 ## Detailed water testing results for all years
 
