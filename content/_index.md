@@ -33,9 +33,9 @@ The map shows all inlets and outlets into the lakes. Lots are marked. Water test
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! 
 
-***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 5.0 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Testing results not in yet.  
+***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 5.0 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Water chemistry tests show some high e-coli at location 6 (new sample has been collected) and in Usher. Nitrogen and phosphate levels are normal.   
 
-* [See detailed recent and historical water quality reports](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+* [See summary of recent reports and all water data back to 2005](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
 * Association membership fees fund the water testing. 
 
