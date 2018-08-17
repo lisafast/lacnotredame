@@ -47,17 +47,17 @@ Move to accept Treasurer's report
 Seconded
 
 ## Water testing report
-[Results of 2017 water testing and 2018 plan] (https://lacnotredame.org/water/qualityreports/)
+[Results of 2017 and 2018 water testing - e-coli concern] (https://lacnotredame.org/water/qualityreports/)
 
 ## Board report 
 * Clean water tip cards distributed in July-August, new web site https://lacnotredame.org/, 
 * Water tip cards distributed to lake owners - tips and binder page is posted on the site https://lacnotredame.org/water/keepclean/
 * New website - map, water quality reports, anything missing? 
 * Milfoil report - levels are very low this year, cutting, levels, buoys, [Quebec investment$8M to research prevention](https://www.cbc.ca/news/canada/montreal/zombie-plant-quebec-investment-1.4751909)
-* Canada Geese have arrived on your lawn and our lake - they come for the grass and stay to breed, naturalize your shoreline https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/managing-conflicts-nuisance-wildlife/frequently-asked-questions.html
+* Canada Geese have arrived on your lawn and our lake - they come for the grass and stay to breed. Naturalize your shoreline, reduce the grass.  https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/managing-conflicts-nuisance-wildlife/frequently-asked-questions.html
 
 ## Proposed program for 2018: 
-* Understand full costs, responsibilities and benefits of joining Quebec's- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network http://www.mddelcc.gouv.qc.ca/eau/rsvl/index.htm
+* Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network http://www.mddelcc.gouv.qc.ca/eau/rsvl/index.htm
 * Maintain Facebook page now that new web site is up?
 * Buy a Lake Association cutter and rake that people could borrow for their property?
 Move to accept proposed program
