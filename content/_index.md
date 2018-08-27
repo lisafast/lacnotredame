@@ -13,16 +13,9 @@ nobc = true
 
 ***
 ## 2018 Lake Association Meeting 
-Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. 
-
-* August 18th, 2018
-* Time: 10:00 am
-* Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC 
-* Review and approval of the [Minutes of the 2017 Annual General Meeting ](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
-* Current members will be sent an email notification of the meeting
-* [Agenda](/about/2018boardreport/)
-* Join the Association by paying your annual membership fee of $10 at the meeting or see this form to join or renew
-    * Renew or join with this form [PDF with payment instructions] (/assets/docs/Association10Aug2018.pdf)
+The meeting was on August 18th at Rupert Hall, to discuss ideas and concerns about the lakes, water quality and the watershed. 
+* [Agenda - will be edited into the minutes of the meeting](/about/2018boardreport/)
+* Geese driving you crazy? Cathie K. sent in these ideas for fencing - [How to keep geese off your waterfront property (PDF)](http://lacducardinal.ca/articles/Geese.pdf)
 
 ***
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
@@ -33,9 +26,11 @@ The map shows all inlets and outlets into the lakes. Lots are marked. Water test
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carol Doré has collected samples for testing for over 10 years. Say Thank You when you see her! 
 
-***2018 Update:*** Water clarity tests show a return to our more usual clarity levels of above 5.0 metres. Very low levels of Eurasian Milfoil in the lake so far (early August). Water chemistry tests show some high e-coli at location 6 (new sample has been collected) and in Usher. Nitrogen and phosphate levels are normal.   
+***2018 Update:***  August 13th water chemistry tests showed high e-coli in one sample at location 6 and at Usher inlets. E-coli results were back to normal a few days later when a new set of samples were tested from a range of points around location 6 in front of Generations & Symons.  Nitrogen and phosphate levels are normal. Water clarity tests show a return to our more usual clarity levels of above 5.0 metres. 
 
-* [See summary of recent reports and all water data back to 2005](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+Very low levels of Eurasian Milfoil in the lake in early August, and by mid-August, the area marked by buoys has almost no milfoil at all - native plants have re-established themselves there.  
+
+* [See recent reports and all water data back to 2005](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
 * Association membership fees fund the water testing. 
 
@@ -54,12 +49,11 @@ Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas. 
 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
-* Join or renew your membership 3 ways: 
-  * In person at our Annual meeting
+* Join or renew your membership: 
   * Renew by sending $10 to info@lacnotredame.org via e-transfer with password: water, we will email an acknowledgement
   * Mail a cheque with the [membership form](/assets/docs/Association10Aug2018.pdf) to Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0
 
-The lake dragon (on Chemin du Domaines)
+The lake dragon on Chemin du Domaines
 
 <img src="/assets/img/dragon.jpg" class="img-fluid py-3" alt="photo of log painted like a dragon" />
 
