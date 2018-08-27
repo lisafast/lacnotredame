@@ -18,25 +18,29 @@ Carol Doré has been volunteering as the Association water tester for years. Tha
 
 * 2018 Phosphorus levels in August: Lac Notre Dame is at 0.005 to 0.009 mg/L - fairly close to the target range and slightly better than 2017. Usher Lake is a little higher at the inlets - around 0.01 fairly consistently but lower at Usher out. 
 
-**Nitrogen and nitrates** occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Target levels for nitrogen in drinking water are 0.02 mg/L. Levels in our lakes are higher than those drinking water targets. 
+**Nitrogen and nitrates** occur naturally in soil and water, but lawn and garden fertilizers leaching into the water can make it unsafe for drinking and upset the natural ecosystem. Our water testing reports measure Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Guidelines suggest levels between 0.100 to 0.500.  
 
-* 2018 Nitrogen levels in August: ranged from 0.25 to 0.39 on Lac Notre Dame which is fairly normal for the lake. In Usher Lake, levels are 0.36 to 0.51, again consistent with previous years. 
+* 2018 TKN Nitrogen levels in August: ranged from 0.25 to 0.39 on Lac Notre Dame which is fairly normal for the lake. In Usher Lake, levels are 0.36 to 0.51, again consistent with previous years. 
 
-**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 CFU. 
+**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU. 
 
-* 2018 E-coli levels in Lac Notre Dame on August 13th were normal or slightly above in a few locations and very high (370) at location 6 (in front of Ch. des Generations). An additional sample has been collected for that location - results are not yet available. Caution is advised for swimming at that location. 
+* 2018 E-coli levels in Lac Notre Dame on August 13th were normal or slightly above in a few locations and very high in one sample (370) at location 6 (in front of Ch. des Generations). E-coli results were back to normal a few days later when a new set of six samples were tested from a range of points around that location. 
+
+Very low levels of Eurasian Milfoil in the lake in early August, and by mid-August, the area marked by buoys has almost no milfoil at all - native plants have re-established themselves there.
 * In Usher Lake, there is continuing evidence of contamination at the culvert and the associated inlet at location 11 (50 CFU), although the good news is the sample at the outlet was within the target range (less than 10 CFU). 
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
 * 2018: water transparency tests on August 10 were measured at 5 meters. Water levels are high. This is an improvement over 2017's measurements of 3.75 meters with record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
 
-## Detailed water testing results for all years
+## All detailed water testing results
 
-Association volunteer Carol Doré collects water samples at specific locations where water enters and exits the lakes, as marked on the [map](/map/maps/). Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
-* [Map of numbered locations where water samples are collected](/map/maps/)
+* [All results for E-coli, phosphates and nitrogen from 2005 to 2018 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
-* [View all results for E-coli, phosphates and salts from 2005 to 2017 by test location (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
+Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
+
+* [Map of water testing locations](/map/maps/).
+
 
 ## 2014 ABV-7 Report and recommendations 
  
@@ -50,7 +54,7 @@ Eutrophication is the gradual process of a lake becoming too rich in nutrients l
 
 The protocol of the Ministry of Sustainable Development, Environment and Parks (MDDEP) (currently MDDELCC) and the Laurentian Regional Environment Council (CRE Laurentides) (2007) was used to characterize the riparian strip. With respect to the assessment of water quality, ABV des 7 collected and analyzed data on total phosphorus and Escherichia coli (E. coli) provided by the Notre-Dame Lakes Association. and Usher (2005 to 2011 and 2013) as well as by the municipality (2008 to 2013). In addition, ABV des 7 collected and analyzed data on the concentration and dissolved oxygen saturation, pH, depth and conductivity of water acquired during field visits on 17 July 2014. L ABV des 7 subsequently identified and mapped the water-milfoil meadows on 3 September 2014.
 
-## Detailed reports including other minerals, alkalinity and nitrites 
+## Old detailed reports including other minerals, alkalinity and nitrites 
 
 * [May 2005](/assets/docs/water/Water_report_May_05.pdf)
 * [July 2005](/assets/docs/water/Water_report_July_05.pdf)
