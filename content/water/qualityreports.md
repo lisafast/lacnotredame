@@ -25,13 +25,14 @@ Carol Doré has been volunteering as the Association water tester for years. Tha
 **E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU. 
 
 * 2018 E-coli levels in Lac Notre Dame on August 13th were normal or slightly above in a few locations and very high in one sample (370) at location 6 (in front of Ch. des Generations). E-coli results were back to normal a few days later when a new set of six samples were tested from a range of points around that location. 
-
-Very low levels of Eurasian Milfoil in the lake in early August, and by mid-August, the area marked by buoys has almost no milfoil at all - native plants have re-established themselves there.
-* In Usher Lake, there is continuing evidence of contamination at the culvert and the associated inlet at location 11 (50 CFU), although the good news is the sample at the outlet was within the target range (less than 10 CFU). 
+* In Usher Lake, there is continuing evidence of contamination at the culvert and the associated inlet at location 11 (50 CFU), although the good news is the sample at the outlet was within the target range (less than 10 CFU). By late October, the contamination at location 11 had fallen to 20 CFU, but that level is still higher than the target of less than 10 CFU. 
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. In the dry summer of 2015 (only 40mm of rain), an excellent 7m measurement was recorded.
 
 * 2018: water transparency tests on August 10 were measured at 5 meters. Water levels are high. This is an improvement over 2017's measurements of 3.75 meters with record-level rainfall (249.8mm). The rain brought in a lot of sediment, and high water levels eroded the shoreline as well. 
+
+**Eurasian Milfoil**
+Suprisingly low levels of Eurasian Milfoil in the lake in early August. The area marked by buoys had almost no milfoil at all - native plants re-established themselves there. By late August, with continuing warmer temperatures and lower water levels, milfoil plants started growing more rapidly. Even by mid September, there was less overall milfoil density than usual, with greater density of native plants. We continue to encourage people to cut milfoil near your shore and remove the cuttings.  
 
 ## All detailed water testing results
 
