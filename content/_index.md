@@ -5,13 +5,21 @@ description="Homepage of the Lac Notre-Dame and Usher Lake Association in La Pec
 language = "en"
 tags = [
 ]
+keywords = [
+    "Lac Notre-Dame",
+    "Lac Usher",
+    "water quality",
+    "Eurasian Milfoil"
+]
 date = "2018-05-01T13:10:52-05:00"
-type = "single"
+lastmod = "2018-11-23T13:10:52-05:00"
+type = "webpage"
 nobc = true
 +++
+<div>
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
+</div>
 
-***
 ## 2018 Lake Association Meeting 
 The meeting was on August 18th at Rupert Hall, to discuss ideas and concerns about the lakes, water quality and the watershed. 
 * [Agenda - will be edited into the minutes of the meeting](/about/2018boardreport/)

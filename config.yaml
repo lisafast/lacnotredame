@@ -11,12 +11,15 @@ menu:
  
 Params:
   Author: ""
-  Banner: ""
+  Banner: "Lac Notre-Dame and Usher Lake Association"
   DateForm: "2006-01-02"
   disqusShortname: ""
   Search: ""
   ShowRelatedPost: True
   Slogan: ""
+  ISO8601: "2006-01-02T15:04:05Z07:00"
+  copyright: "lacnotredame.org"
+  logo: "/lacnotredame-logo.png"
 taxonomies:
   tag: "tags"
 permalinks:

@@ -20,7 +20,7 @@ Originating in Europe, Eurasian watermilfoil is an invasive aquatic plant that u
    
    Lake Association bouys warn of milfoil at or below the surface - stay clear!
    
-   <img src="/assets/img/buoy.jpg" class="img-fluid py-3" alt="pic of buoy on lake" />
+   <img src="/assets/img/Buoy.jpg" class="img-fluid py-3" alt="pic of buoy on lake" />
 
 2. Cutting does seem to help, as long as you remove the cuttings. Lake residents who have been consistently cutting the weeds for a few years notice that fewer and fewer appear. Try not to stir up the bottom as you cut - that moves food into the water for the weeds. Raking is not advised at all other than raking your cuttings off the surface of the water.  
 
