@@ -1,19 +1,19 @@
 <div class="container">
-	<div class="row align-items-center ">				
-		<div class="d-inline px-2">
+	<div class="d-flex flex-row justify-content-between">				
+		<div class="d-inline-flex px-2 order-0" tabindex="-1">
 			<a class="float-left" href="{{ .Site.BaseURL }}">	
-				<img class="img-fluid"  tabindex="-1" src="{{ .Site.BaseURL }}lacnotredame-logo.png" alt="Lac Notre-Dame and Usher Lake Association logo"></img>						   
+				<img class="img-fluid" style="max-height: 60px;;" src="{{ .Site.BaseURL }}lacnotredame-logo.png" alt="Lac Notre-Dame and Usher Lake Association logo">						   
 			</a>
 		</div>
-		<div class="d-inline px-2">				
+		<div class="d-inline-flex px-2 order-1 order-md-1">				
 			<p class="h4 text-left">{{ .Site.Title }}</p>
 			<p class="h6 text-left">{{ .Site.Params.Slogan }}</p>					
 		</div>		
-		<div class="col text-right">
+		<div class="d-inline-flex order-2 order-md-2">
 			<section id="wb-srch">
 				<h2  class="sr-only sr-only-focusable">Search this site input</h2>
 				<iframe src="https://duckduckgo.com/search.html?width=200&site=lacnotredame.org&prefill=search%20lacnotredame.org"
-				 style="overflow:hidden;margin:0;padding:0;width:258px;height:40px;" frameborder="0"></iframe>	
+				 style="overflow:hidden;margin:0;padding:0;max-width:258px;height:40px;border:0;"></iframe>	
 			</section>
 		</div>
 	</div> 
