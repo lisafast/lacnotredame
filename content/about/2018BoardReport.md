@@ -20,14 +20,18 @@ Mandate of the association:
 
 ## Constitution of the meeting - quorum based on registered members
 
-As the new president, Lisa Fast opened the meeting, and thanked Jane Hayward for her work as president for the previous three years.  There were 21 members present at the meeting.  
+As the new president, Lisa Fast opened the meeting, and thanked Jane Hayward for her work as president for the previous three years.  There were 21 members present at the meeting. 
+
 Moved by Lisa Fast
+
 Seconded by Jane Hayward
 
 ## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/AGM_Minutes_2017.pdf)
 
 Minutes of the previous year's meeting were approved. 
+
 Moved by Robert Boucher 
+
 Seconded by Dave Hayward
 
 ## Approve agenda for 2018 meeting
@@ -47,7 +51,11 @@ Seconded Bryan Watkinson
 * Quebec corporation report for last year and this year is outstanding - $35 x 2 will be required, plus any arrears chargest. 
 * Water testing expenses will no longer be covered by the Museum of Nature. We expect that to be our largest annual expense of approximately $500.
 
-### Your membership fees support the following
+Move to accept Treasurer's report by Bryan Watkinson
+
+Seconded by Danielle Lévesque
+
+### Your membership fees support the following:
 
 * Water testing $400-$500 per year
 * Buoys and signs (not every year)
@@ -55,18 +63,6 @@ Seconded Bryan Watkinson
 * Reserve funds to prepare for potential invasive species or milfoil surge; consultation with experts like ABV-7 report
 * Quebec non-profit corporation fees ($35/year)
 * Domain name fees for the web site every two years
-Move to accept Treasurer's report by Bryan Watkinson
-Seconded by Danielle Lévesque
-
-## Water testing report was presented by Carol Doré and Lisa Fast
-
-[Results of 2017 and 2018 water testing - e-coli concern](https://lacnotredame.org/water/qualityreports/)
-* Thank you to Carole Doré for her continued volunteer work on water testing.
-* Water testing results summaries are now published on the web site when they are received by Lisa Fast, and all of the years of data are available for comparison and viewing.  
-* Discussion of E-coli levels in Lac Notre Dame on August 13th that were normal or slightly above in a few locations and very high in one sample (370) at location 6 (in front of Ch. des Generations). E-coli results for that location were back to normal a few days later when a new set of six samples were tested from a range of points around that location. 
-  * It is possible the Canada Geese in the are contributed to or were the source of the contamination. There is evidence that geese feces can contaminate surface water. [Free-living Canada Geese and antimicrobial resistance: ](https://wwwnc.cdc.gov/eid/article/11/6/04-0717_article)
-  * Action plan: if e-coli levels had continued to be high in subsequent tests, we would have brought them to the Municipality for assistance and advice.  
-
 
 ## Board report
 
@@ -80,7 +76,17 @@ Seconded by Danielle Lévesque
 
 <img src="/assets/img/geese.jpg" class="img-fluid py-3" alt="Canada geese in front of a cottage on Lac Notre Dame. Residents installed pinwheels and ropes in an attempt to prevent their entry from the water, but unfortunately the geese have become acclimated to these barriers." />
 
-## Proposed program for 2018
+### Water testing report was presented by Carol Doré and Lisa Fast
+
+[Results of 2017 and 2018 water testing - e-coli concern](https://lacnotredame.org/water/qualityreports/)
+* Thank you to Carole Doré for her continued volunteer work on water testing.
+* Water testing results summaries are now published on the web site when they are received by Lisa Fast, and all of the years of data are available for comparison and viewing.  
+* Discussion of E-coli levels in Lac Notre Dame on August 13th that were normal or slightly above in a few locations and very high in one sample (370) at location 6 (in front of Ch. des Generations). E-coli results for that location were back to normal a few days later when a new set of six samples were tested from a range of points around that location. 
+  * It is possible the Canada Geese in the are contributed to or were the source of the contamination. There is evidence that geese feces can contaminate surface water. [Free-living Canada Geese and antimicrobial resistance: ](https://wwwnc.cdc.gov/eid/article/11/6/04-0717_article)
+  * Action plan: if e-coli levels had continued to be high in subsequent tests, we would have brought them to the Municipality for assistance and advice.  
+
+
+## Proposed Association program for 2018
 
 * Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- [Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network](http://www.mddelcc.gouv.qc.ca/eau/rsvl/index.htm)
 * Decide whether to maintain Facebook page now that new web site is up
@@ -96,9 +102,11 @@ Seconded - Nathalie Byk
   * Quite a few members of the Lake Association are particularly interested in working with the Bishop's Manor Association on this issue, they agreed to support the Bishop's Manor Association in the efforts to find a boat launch solution outside of the Lake Association meetings.
   * The board and members agreed to use our email list to notify our members via email of any planned meetings so that they can work together with the Bishop's Manor Association.
   * A motion was passed to support the Bishop's Manor Association in these efforts
+  
   Moved by Lynn
+  
   Seconded by Nathalie
-  Supported by a majority
+  
 
 ## Current board and election of new members
 
@@ -118,4 +126,5 @@ Two new members were nominated and acclaimed - Jim Bickford and André François
 ## Move to adjourn
 
 Moved Morag Hutcheson
+
 Seconded Bryan Watkinson
