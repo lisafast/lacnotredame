@@ -22,18 +22,13 @@ nobc = true
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2018 Lake Association Meeting
+## Goose watch
 
-The meeting was on August 18th at Rupert Hall, to discuss ideas and concerns about the lakes, water quality and the watershed.
+At our meeting in August 2018, we shared concerns about the growing flock of Canada Geese on the lake. In addition to their mess on our docks and rafts, geese can introduce e-coli into the water. Some steps you can take: 
 
-* [Agenda - will be edited into the minutes of the meeting](/about/2018boardreport/)
-* Geese driving you crazy? Cathie K. sent in these ideas for fencing - [How to keep geese off your waterfront property (PDF)](http://lacducardinal.ca/articles/Geese.pdf)
-
-***
-
-## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
-
-The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+* The geese will return to nest when the snow and ice go out. If you see them on a neighbour's property or your own, you could try to scare them away or prevent the hatch. Let us know by email at info@lacnotredame.org if you want help with this process. 
+* Geese love grass. If you have a lawn, put up a goose fence early in the spring near the shore or plant tall grass, trees or shrubs.  
+* See [Environment Canada's Handbook on Managing Geese](https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/publications/handbook-managing-cackling-geese-southern/chapter-3.html#_toc07010201) for ideas on scaring, preventing the hatch, and fences. 
 
 ## [Water testing results](/water/qualityreports/)
 
@@ -57,10 +52,15 @@ Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface
 
 * [Reduce Eurasian Milfoil in Lac Notre-Dame et Usher - cutters, tips](/water/lnd-milfoil/)
 
+## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
+
+The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+
 ## [Join the Lake Association](/about/about/)
 
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas.
 
+* Join us August 10th, 2019 for our Annual Meeting - usually at Rupert Hall - date and location will be published here 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership:
   * Renew by sending $10 to info@lacnotredame.org via e-transfer with password: water, we will email an acknowledgement
