@@ -13,12 +13,13 @@ type = "article"
 
 ## Join or renew your membership
 
-* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water - we'll send an acknowledgement by email.
+* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water and include your email address in the message - we'll send an acknowledgement by email.
 * To renew or join by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0 with this [membership form (PDF, with payment details)](/assets/docs/Association10Aug2018.pdf)for new members
 
 # The Association and what we do
 
- The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
+The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
+ * View the [Association listing in the Registraire des entreprise Québec] https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=add8a161-ea7f-44f2-af3d-fa262962b915&T1.CodeService=S00436)
 
 ## Annual general meetings
 
@@ -26,20 +27,20 @@ People from around the lakes attend the Annual General Meeting (AGM) to discuss 
 
 ***
 
-## 2018 Lake Association Meeting
+## 2019 Lake Association Meeting
 
 Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed.
 
-* August 18th, 2018
+* Tentative date: August 10th, 2019
 * Time: 10:00 am
-* Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC
-* Review and approval of the [Minutes of the 2017 Annual General Meeting](/assets/docs/minutes/AGM_Minutes_2017.pdf) will take place at the start of this year's meeting
+* Tentative location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC
+* Review and approval of the [Minutes of the 2018 Annual General Meeting](./2018BoardReport.md) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
 * Not a member? Join the Association at the meeting, pay an Association Board member or email us at info@lacnotredame.org
 
 ***
 
-Minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
+Approved minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
 
 * [2017 Annual General Meeting minutes (English PDF)](/assets/docs/minutes/AGM_Minutes_2017.pdf)
 * [2016 AGM (English)](/assets/docs/minutes/AGM_Minutes_2016.pdf)
@@ -81,9 +82,10 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
 * President Lisa Fast
-* Vice-president Robert Boucher
-* Treasurer Jane Hayward
-* Director Dave Hayward
+* Treasurer Dave Hayward
+* Director Robert Boucher
+* Director André François Giroux
+* Director Jim Bickford
 * Director Erin Jamison (Usher Lake)
 * Director Marie Maissoneuve
 
