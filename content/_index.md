@@ -22,12 +22,13 @@ nobc = true
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## Goose watch
+## Canada Goose Action Plan
 
-At our meeting in August 2018, we shared concerns about the growing flock of Canada Geese on the lake. In addition to their mess on our docks and rafts, geese can introduce e-coli into the water. Some steps you can take: 
+At our meeting in August 2018, we shared concerns about the growing flock of Canada Geese on the lake. In addition to their mess on our docks and rafts, geese can introduce e-coli into the water. Here's what we will do:  
 
-* The geese will return to nest when the snow and ice go out. If you see them on a neighbour's property or your own, you could try to scare them away or prevent the hatch. Let us know by email at info@lacnotredame.org if you want help with this process. 
-* Geese love grass. If you have a lawn, put up a goose fence early in the spring near the shore or plant tall grass, trees or shrubs.  
+* We will prepare and deliver a handout focused on naturalizing your shore line. Natural shorelines with tall grass, trees and shrubs prevent the geese from feeding on your lawn (if you have one), and also protect the lake from erosion and run-off.  
+* The geese will return to nest when the snow and ice go out. If you see them on a neighbour's property or your own, you could try to scare them away or prevent the hatch. 
+* Contact us by email at info@lacnotredame.org if you want help with the nests or geese on your property. 
 * See [Environment Canada's Handbook on Managing Geese](https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/publications/handbook-managing-cackling-geese-southern/chapter-3.html#_toc07010201) for ideas on scaring, preventing the hatch, and fences. 
 
 ## [Water testing results](/water/qualityreports/)
