@@ -20,9 +20,9 @@ Mandate of the association:
 
 ## Constitution of the meeting - quorum based on registered members
 
-As the new president, Lisa Fast opened the meeting, and thanked Jane Hayward for her work as president for the previous three years.  There were 21 members present at the meeting. 
+As the new president, Lisa Fast opened the meeting, and thanked Jane Hayward for her work as president for the previous three years.  Quorum requires at least 25% of members be present - there were 21 members present at the meeting - quorum was reached.  
 
-Moved by Lisa Fast
+Move to open the meeting by Lisa Fast
 
 Seconded by Jane Hayward
 
@@ -98,14 +98,12 @@ Seconded - Nathalie Byk
 ## Members open issues
 
 * Marc Desrochers, President of the Bishop's Manor Association led a discussion of the challenges property-owners face in getting their boats in and out of the water in the spring and fall. Not all property owners on the lakes are members of the Bishop's Manor Association, but all property owners face these challenges, particularly since the Municipality installed cement blocks to prevent launching from the causeway on Ch. Du Manoir.  
-  * Lisa Fast, President of the Lake Association maintained that the Lake Association mandate prevents the Board from devoting funds or time to this effort, since the mandate is not to provide access to boat owners, but rather to “to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes" 
-  * Quite a few members of the Lake Association are particularly interested in working with the Bishop's Manor Association on this issue, they agreed to support the Bishop's Manor Association in the efforts to find a boat launch solution outside of the Lake Association meetings.
+  * Lisa Fast maintained that the Lake Association mandate prevents the Board from devoting funds to this effort, since the mandate is not to provide access to boat owners, but rather to “promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all" 
+  * Quite a few members of the Lake Association are particularly interested in working with the Bishop's Manor Association on this issue, they agreed to support the Bishop's Manor Association in the efforts to find a boat launch solution outside of the Lake Association.
   * The board and members agreed to use our email list to notify our members via email of any planned meetings so that they can work together with the Bishop's Manor Association.
   * A motion was passed to support the Bishop's Manor Association in these efforts
   
-  Moved by Lynn
-  
-  Seconded by Nathalie
+  Moved by Lynn, Seconded by Nathalie
   
 
 ## Current board and election of new members
