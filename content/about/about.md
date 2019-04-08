@@ -34,7 +34,7 @@ Join us at our Annual General Meeting to share ideas and concerns about the lake
 * Tentative date: August 10th, 2019
 * Time: 10:00 am
 * Tentative location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC
-* Review and approval of the [Minutes of the 2018 Annual General Meeting](2018BoardReport/) will take place at the start of this year's meeting
+* Review and approval of the [Minutes of the 2018 Annual General Meeting](/about/2018boardreport/) will take place at the start of this year's meeting
 * Current members will be sent an email notification of the meeting
 * Not a member? Join the Association at the meeting, pay an Association Board member or email us at info@lacnotredame.org
 
