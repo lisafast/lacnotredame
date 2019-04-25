@@ -16,14 +16,15 @@ type = "article"
 * To renew by e-transfer, send $10 to info@lacnotredame.org, password: water and include your email address in the message - we'll send an acknowledgement by email.
 * To renew or join by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0 with this [membership form (PDF, with payment details)](/assets/docs/Association10Aug2018.pdf)for new members
 
-# The Association and what we do
+## The Association and what we do
 
-The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all. 
- * View the [Association listing in the Registraire des entreprise Québec](https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=add8a161-ea7f-44f2-af3d-fa262962b915&T1.CodeService=S00436)
+The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
+
+* View the [Association listing in the Registraire des entreprise Québec](https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=add8a161-ea7f-44f2-af3d-fa262962b915&T1.CodeService=S00436)
 
 ## Annual general meetings
 
-People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and to pay your membership fees to support the association's work. 
+People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and to pay your membership fees to support the association's work.
 
 ***
 
