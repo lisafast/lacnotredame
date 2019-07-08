@@ -6,12 +6,14 @@ language = "en"
 tags = [
     "water"   
 ]
-date = "2017-05-01T13:10:52-05:00"
+date = "2019-07-07T13:10:52-05:00"
 type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
-Carol Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. Your association membership fees pay for the water testing.
+Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples on a regular basis for phosphorus, nitrogen and also for e-coli bacterial contamination. Your association membership fees pay for the water testing.
+
+## 2019 water testing will take place in early August. 
 
 ## 2018 water testing results summary
 
