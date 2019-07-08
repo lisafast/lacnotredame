@@ -6,15 +6,33 @@ language = "en"
 tags = [
     "mission"
 ]
-date = "2017-12-29T13:10:52-05:00"
+date = "2019-07-08T13:10:52-05:00"
 type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
 ## Join or renew your membership
 
+Your membership pays for water testing, this website and action plans approved by the Board: 
+* Pay in person at the Annual Meeting 
 * To renew by e-transfer, send $10 to info@lacnotredame.org, password: water and include your email address in the message - we'll send an acknowledgement by email.
 * To renew or join by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0 with this [membership form (PDF, with payment details)](/assets/docs/Association10Aug2018.pdf)for new members
+
+
+## 2019 Lake Association Meeting
+
+Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed.
+
+* Date: Saturday August 24th, 2019
+* Time: 10:00 am
+* Location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC
+* Review and approval of the [Minutes of the 2018 Annual General Meeting](/about/2018boardreport/) will take place at the start of this year's meeting
+* Current members will be sent an email notification of the meeting
+* Not a member? Join the Association at the meeting, pay an Association Board member or email us at info@lacnotredame.org
+
+People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and to pay your membership fees to support the association's work.
+
+***
 
 ## The Association and what we do
 
@@ -22,27 +40,11 @@ The mission of the Association is to promote, protect and preserve the quality o
 
 * View the [Association listing in the Registraire des entreprise Québec](https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=add8a161-ea7f-44f2-af3d-fa262962b915&T1.CodeService=S00436)
 
-## Annual general meetings
-
-People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and to pay your membership fees to support the association's work.
-
-***
-
-## 2019 Lake Association Meeting
-
-Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed.
-
-* Tentative date: August 10th, 2019
-* Time: 10:00 am
-* Tentative location: Rupert Community Centre, 24 Chemin Shouldice, La Pêche, QC
-* Review and approval of the [Minutes of the 2018 Annual General Meeting](/about/2018boardreport/) will take place at the start of this year's meeting
-* Current members will be sent an email notification of the meeting
-* Not a member? Join the Association at the meeting, pay an Association Board member or email us at info@lacnotredame.org
-
 ***
 
 Approved minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
 
+* [2018 Annual meeting minutes - to be approved at the 2019 meeting](/about/2018boardreport/)
 * [2017 Annual General Meeting minutes (English PDF)](/assets/docs/minutes/AGM_Minutes_2017.pdf)
 * [2016 AGM (English)](/assets/docs/minutes/AGM_Minutes_2016.pdf)
 * [2009 AGM (English)](/assets/docs/minutes/AGM_Minutes_2009.pdf) [- AGA (Français)](/assets/docs/minutes/fr/AGA_proces_2009.pdf)
