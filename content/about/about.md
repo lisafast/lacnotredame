@@ -13,11 +13,11 @@ type = "article"
 
 ## Join or renew your membership
 
-Your membership pays for water testing, this website and action plans approved by the Board: 
-* Pay in person at the Annual Meeting 
+Your membership pays for water testing, this website and action plans approved by the Board:
+
+* Pay in person at the Annual Meeting
 * To renew by e-transfer, send $10 to info@lacnotredame.org, password: water and include your email address in the message - we'll send an acknowledgement by email.
 * To renew or join by cheque, mail a cheque for $10 to: Lac Notre-Dame and Usher Lake Association 170 Chemin du manoir, La Pêche, QC, J0X 1A0 with this [membership form (PDF, with payment details)](/assets/docs/Association10Aug2018.pdf)for new members
-
 
 ## 2019 Lake Association Meeting
 
