@@ -6,12 +6,12 @@ language = "en"
 tags = [
     "agm"
 ]
-date = "2018-12-29T13:10:52-05:00"
+date = "2019-08-13T13:10:52-05:00"
 type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
-# Agenda of 2018 Annual General Meeting of the Notre Dame and Usher Lakes Association
+# Agenda of 2019 Annual General Meeting of the Notre Dame and Usher Lakes Association
 
 Annual General Meeting - Rupert Community Hall, August 24, 2019, 10:00 am
 
