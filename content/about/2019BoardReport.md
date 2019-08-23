@@ -66,7 +66,7 @@ Seconded
 * Income for fiscal year was $460.47
   * $360 from memberships, $30.47 interest and $70.00 in donations
 * Expenses were $457.52
-  * $237.30 for water testing, $75 for Rupert Hall rental, $109.82 for Entreprises Quebec registration (three years of reports), and $35.40 for bank fees.
+  * $237.30 for water testing, $75 for Rupert Hall rental, $109.82 for Entreprises Quebec registration (two years of reports), and $35.40 for bank fees.
 
 Move to accept Treasurer's report by 
 
