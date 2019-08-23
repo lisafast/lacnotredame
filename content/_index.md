@@ -25,20 +25,22 @@ nobc = true
 ## Join us for our Annual meeting - Saturday August 24th 2019
 Rupert Hall - 24 Chemin Shouldice - 10:00 am til 11:30 am. 
 
-## Canada Goose Action Plan
+## [Canada Goose Action Plan](/water/gooseaction/)
 
-An email to all members and previous members went out April 24th from info@lacnotredame.org. It outlined our Goose Action Plan:   
+An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. We’ve created an action plan for the lake to minimize the damage. 
+* The focus is on naturalizing your shoreline. 
+* We'll be delivering copies of the [Action Plan](/water/gooseaction/) to lake owners with lawns.   
 
-* We will prepare and deliver a handout focused on preventing the geese from getting onto your shore, and on naturalizing your shore line. Natural shorelines with tall grass, trees and shrubs prevent the geese from feeding on your lawn (if you have one), and also protect the lake from erosion and run-off.  
-* The geese are back - family of 4 adults and 5 goslings are present. Our many attempts to find nests & prevent the hatch in May failed - tricky to find them in the swamp.  
-* Contact us by email at info@lacnotredame.org if you want help with the geese on your property. A number of lake owners are having some prevention success. 
-* See [Environment Canada's Handbook on Managing Geese](https://www.canada.ca/en/environment-climate-change/services/migratory-bird-conservation/publications/handbook-managing-cackling-geese-southern/chapter-3.html#_toc07010201) for ideas on scaring, preventing the hatch, and fences. 
+Une bernache adulte peut produire jusqu'à un kilo de caca tous les jours, et ces excréments peuvent contaminer notre eau - et votre propriété. Nous avons créé un plan d’action pour le lac afin de minimiser les dégâts. 
+
+* L'accent est mis sur la naturalisation de votre rivage.
+* Nous allons remettre des exemplaires du [plan d'action](/water/gooseaction/) aux propriétaires.
 
 ## [Water testing results](/water/qualityreports/)
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 10 years. Say Thank You when you see her!
 
-***2019:***  Water testing will take place in early August. Water levels are very high - please keep motor boats far from shore to reduce erosion and damage to docks.
+***2019:***  Water testing results are in - E-Coli is a bit higher than previous years.   
 
 * [See recent reports and all water data back to 2005](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
