@@ -54,4 +54,4 @@ Certains propriétaires riverains avec des pelouses près de l'eau réussissent 
 * Contactez-nous à info@lacnotredame.org si vous repérez un nid et que vous souhaitez obtenir de l'aide.
 
 
-Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/Goose-Action-Plan-EN-FR-23Aug2019.pdf)
+Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)

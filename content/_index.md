@@ -11,7 +11,7 @@ keywords = [
     "water quality",
     "Eurasian Milfoil"
 ]
-date = "2018-05-01T13:10:52-05:00"
+date = "2019-08-01T13:10:52-05:00"
 lastmod = "2019-07-08T13:10:52-05:00"
 type = "webpage"
 nobc = true
@@ -28,6 +28,7 @@ Rupert Hall - 24 Chemin Shouldice - 10:00 am til 11:30 am.
 ## [Canada Goose Action Plan](/water/gooseaction/)
 
 An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. We’ve created an action plan for the lake to minimize the damage. 
+
 * The focus is on naturalizing your shoreline. 
 * We'll be delivering copies of the [Action Plan](/water/gooseaction/) to lake owners with lawns.   
 
