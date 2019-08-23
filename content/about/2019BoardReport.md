@@ -1,7 +1,7 @@
 +++
 draft = false
-title = "2019 Annual General Meeting"
-description="AGM Lac Notre-Dame and Usher Lake Association"
+title = "2019 Annual General Meeting of the Lac Notre Dame and Usher Lake Association"
+description="AGM Lac Notre-Dame and Usher Lake Association "
 language = "en"
 tags = [
     "agm"
@@ -11,7 +11,7 @@ type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
 
-# Agenda of 2019 Annual General Meeting of the Notre Dame and Usher Lakes Association
+# Agenda
 
 Annual General Meeting - Rupert Community Hall, August 24, 2019, 10:00 am
 
@@ -21,13 +21,13 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
-Quorum requires at least 25% of members be present - there were    members present at the meeting - quorum was reached.  
+Quorum requires at least 25% of members be present - there were FILL IN NUMBER HERE members present at the meeting - quorum was reached.  
 
 Move to open the meeting by:
 
 Seconded by: 
 
-## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/2018boardreport.md)
+## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/2018boardreport/)
 
 Minutes of the previous year's meeting were approved. 
 
@@ -36,19 +36,19 @@ Moved by:
 Seconded by:
 
 ## Approve agenda for 2019 meeting
-Financial Report
-Water Testing Report
-Board Report
-Current board and election of new board members
-Members Open Issues: 
+* Financial Report
+* Water Testing Report
+* Board Report
+* Current board and election of new board members
+* Members Open Issues: 
 
 
 
 
 
 
-Proposed program for 2019/2020: 
-Blue-Green Algae prevention and planning
+* Proposed program for 2019 -2020: 
+  * Blue-Green Algae prevention and planning
 
 
 
@@ -58,13 +58,15 @@ Moved by
   
 Seconded
 
-## Financial Report  - annual expenses including water testing & reserve
+## Financial Report  
 
-* Presented by Dave Hayward, treasurer for the fiscal year 2017-2018
-* At the end of our financial year on June 31, 2019 - there was $5716.17 in the Association's bank accounts
-* Income for fiscal year were XXXX from   memberships, interest and donations.
-* Expenses were: $XXX   for water testing ($530.15) Rupert Hall rental, Entreprises Quebec registration (109.82 for two years of reports), bank fees and web hosting ($19.46).
-
+* Presented by Dave Hayward, treasurer for the fiscal year 2018-2019
+* At the end of our financial year on June 31, 2019 - there was $5716.27 in the Association's bank accounts at Desjardins
+  * $2612.06 in Chequing, $3104.11 in Savings
+* Income for fiscal year was $460.47
+  * $360 from memberships, $30.47 interest and $70.00 in donations
+* Expenses were $496.06
+  * $237.30 for water testing, $75 for Rupert Hall rental, $148.36 for Entreprises Quebec registration (three years of reports), and $35.40 for bank fees.
 
 Move to accept Treasurer's report by 
 
@@ -82,6 +84,7 @@ Seconded by
 ### Water testing report 
 
 [Water testing report](https://lacnotredame.org/water/qualityreports/)
+
 * Thank you to Carole Doré for her continued volunteer work on water testing.
 * Water testing results summaries are now published on the web site when they are received by Lisa Fast, and all of the years of data are available for comparison and viewing. 
 * Biologist Paul Hamilton reviews the reports and implications. This year, he warns us to watch for Blue-Green Algae (Cyanobacteria), which may take the ecological niche the milfoil was holding. 
@@ -114,7 +117,7 @@ We request new members for the board. We meet 2-3 times per year plus the AGM.
 
 Jim Bickford resigned from the Board in June 2019 - is no longer a lake property owner.
 
-* Lisa Fast, President (elected July 21)
+* Lisa Fast, President (elected July 2018)
 * Robert Boucher, Vice-president
 * Dave Hayward, Treasurer
 * Erin Jamison (Usher Lake representative)
