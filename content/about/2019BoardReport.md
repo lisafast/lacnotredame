@@ -21,19 +21,19 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
-Quorum requires at least 25% of members be present - there were FILL IN NUMBER HERE members present at the meeting - quorum was reached.  
+Quorum requires at least 25% of members be present - there were 18 members present at the meeting - quorum was reached. All members present paid the $10 per family membership fee - another 4 members paid prior to the meeting but were not able to attend.  
 
-Move to open the meeting by:
+Move to open the meeting by: Lisa Fast
 
-Seconded by: 
+Seconded by: Dave Hayward
 
 ## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/2018boardreport/)
 
 Minutes of the previous year's meeting were approved. 
 
-Moved by:
+Moved by: Robert Boucher
 
-Seconded by:
+Seconded by: Erin Jamison
 
 ## Approve agenda for 2019 meeting
 * Financial Report
@@ -41,41 +41,33 @@ Seconded by:
 * Board Report
 * Current board and election of new board members
 * Members Open Issues: 
-
-
-
-
-
-
 * Proposed program for 2019 -2020: 
-  * Blue-Green Algae prevention and planning
 
-
-
-
-
-Moved by
+Moved by Erin Jamison
   
-Seconded
+Seconded by Marie Maisonneuve
 
 ## Financial Report  
 
 * Presented by Dave Hayward, treasurer for the fiscal year 2018-2019
+Summmary: 
 * At the end of our financial year on June 31, 2019 - there was $5716.27 in the Association's bank accounts at Desjardins
   * $2612.06 in Chequing, $3104.11 in Savings
 * Income for fiscal year was $460.47
   * $360 from memberships, $30.47 interest and $70.00 in donations
 * Expenses were $1136.03
-  * $237.30 for printing/laminating tip cards, $75 for Rupert Hall rental, $148.36 for web hosting, $109.82 for Entreprises Quebec registration, $539 for water testing  and $35.40 for bank fees.
+  * $237.30 for printing/laminating water preservation tip cards, $75 for Rupert Hall rental, $148.36 for web hosting, $109.82 for Entreprises Quebec registration, $539 for water testing  and $35.40 for bank fees.
+
+* Payment of the $539 water testing bill is still outstanding.
    
 
-Move to accept Treasurer's report by 
+Move to accept Treasurer's report by Lisa Fast
 
-Seconded by  
+Seconded by Danielle Doré
 
 ### Your membership fees support the following:
 
-* Water testing $500 per year
+* Water testing approximately $500 per year
 * Buoys and signs (not every year)
 * Awareness - tip cards  (not every year)
 * Reserve funds to prepare for potential invasive species or milfoil surge; consultation with experts like ABV-7 report
@@ -84,13 +76,13 @@ Seconded by
 
 ### Water testing report 
 
-[Water testing report](https://lacnotredame.org/water/qualityreports/)
+[Water testing report](https://lacnotredame.org/water/qualityreports/) presented by Lisa Fast
 
 * Thank you to Carole Doré for her continued volunteer work on water testing.
-* Water testing results summaries are now published on the web site when they are received by Lisa Fast, and all of the years of data are available for comparison and viewing. 
-* Biologist Paul Hamilton reviews the reports and implications. This year, he warns us to watch for Blue-Green Algae (Cyanobacteria), which may take the ecological niche the milfoil was holding. 
+* Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. We discussed this year's overall higher E-Coli results, the higher nitrogen level at [location 9B](), and higher phospherus/phosphates result at location 6. It's possible that firepit ash could be contributing, since phosphate-detergents were removed from the market several years ago. 
+* Milfoil is generally lower this year, and native weeds have taken its place in some locations, particularly off the Bishop's Manor point. Buoys were not placed out this year as the milfoil levels were so low. The eastern end of the lake has more milfoil than the western end although in most places it has not reached the surface. We discussed cutting and the importance of removal of the cuttings. There are cutter recommendations on the web site, and Danielle offered that people could borrow her cutter if they wished. Lisa will add that to the website. 
+* Biologist Paul Hamilton reviews the reports and implications. This year, he warns us to watch for Blue-Green Algae (Cyanobacteria), which may take the ecological niche the milfoil was holding. He suggested that high water in the spring and through July contributed to the decreased milfoil.
 
- 
 
 ## Board report of program for 2018-2019
 * Develop a position and understand full costs, responsibilities and benefits of joining Quebec’s- Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network
@@ -104,13 +96,14 @@ Seconded by
 *	Decide whether to buy a Lake Association cutter and rake that people could borrow for their property or to publish a list of who has cutters they are willing to share
   * We have no insurance. Instead we recommend that neighbours gather together to purchase a cutter, like the group on the peninsula did many years ago.  
 * Produce Goose Action Plan and distribute. Search for nests in early spring. 
-  *	Goose Action Plan distribution to properties with lawns & no goose control is planned for late August and September. 
+  *	Goose Action Plan distribution to properties with lawns & no goose control is planned for late August and September. Copies were available at the meeting. Discussed talking to the woman feeding the geese at Demi Lune Lake. 
   *	Usher Lake has been naturalized – no geese this year. 
 * Members of the Lake Association were interested in working with the Bishop's Manor Association on a boat launch solution outside of the Lake Association.
   * We used our new email list to ask our members to join together to work with the Bishop's Manor Association on a boat launch solution - the meeting was held earlier this summer. 
   
-  Move to accept the board report: 
-  Seconded: 
+  Move to accept the board and water testing report: André-Francois Girard
+
+  Seconded: Robert Boucher
 
 ## Current board and election of new members
 
@@ -124,36 +117,26 @@ Jim Bickford resigned from the Board in June 2019 - is no longer a lake property
 * Erin Jamison (Usher Lake representative)
 * Marie Maissoneuve 
 * André François Giroux 
-* new member needed
+
+Election of Danielle Doré - 18 in favour. Thank you Danielle!
 
 ## Members open issues
 
-
-
-
-
-
+Boat launch issue was raised and addressed by Marc Desrochers, President of the Bishop's Manor Association. Several members of the lake association met with Mr. Desrochers in June to discuss options. He has met with the Mayor of La Peche to discuss the possibility of a locked gate and fence at the causeway, where people - not lake owners - are circumventing the concrete blocks and launching small boats. 
   
-  Moved by
-  
-  Seconded by 
 
 ## Proposed Association program for 2019-2020
 * Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound test to water testing suite)
+* Jane Hayward suggesting investigating and prepare a hand-out/tip sheet about fire pits, and handling of ashes. 
+* Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. 
 
 
+Moved by Lisa Fast
 
-
-
-  
-
-
-Moved by
-
-Seconded by
+Seconded by Erin Jamison
 
 ## Move to adjourn
 
-Moved 
+Moved by Marie Maisonneuve
 
-Seconded 
+Seconded by André-Francois Girard
