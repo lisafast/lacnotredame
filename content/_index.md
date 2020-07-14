@@ -12,7 +12,7 @@ keywords = [
     "Eurasian Milfoil"
 ]
 date = "2019-08-01T13:10:52-05:00"
-lastmod = "2019-07-08T13:10:52-05:00"
+lastmod = "2020-07-13T13:10:52-05:00"
 type = "webpage"
 nobc = true
 +++
@@ -22,8 +22,10 @@ nobc = true
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2020 Annual meeting will be August 22 at 10:00 a.m.
-Due to the pandemic, we'll be meeting online this year. Zoom link will be set up in late July and emailed to past and current members. We are working on a new payment method for membership fees due in August. 
+## 2020 Annual meeting: August 22 at 10:00 a.m. online
+Due to the pandemic, we'll be meeting online this year. Zoom link will be set up in late July and emailed to past and current members.  
+
+En raison de la pandémie, nous nous réunirons en ligne cette année. Le lien Zoom sera mis en place fin juillet et envoyé par e-mail aux membres passés et actuels.  
 
 Board members met with other La Peche lake associations on July 11 and with the municipality- notes from that meeting coming soon.  
 * Last year: [2019 Annual General Meeting Minutes](/about/2019boardreport/) 
@@ -32,17 +34,15 @@ Board members met with other La Peche lake associations on July 11 and with the 
 
 An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. 6 more geese hatched at the lake this year, thankfully fewer than in 2018 and 2019.
 
-* Keep geese away by naturalizing your shoreline or putting up goose barriers. If there is no access to your lawn, they won't stay.
-* Get barrier ideas for yourself and your neighbours in our[Goose Action Plan](/water/gooseaction/).   
+* Get prevention ideas for yourself and your neighbours in the [Goose Action Plan](/water/gooseaction/).   
 
-Une bernache adulte peut produire jusqu'à un kilo de caca tous les jours, et ces excréments peuvent contaminer notre eau - et votre propriété. Nous avons créé un plan d’action pour le lac afin de minimiser les dégâts. 
-
-* L'accent est mis sur la naturalisation de votre rivage.
-* Nous allons remettre des exemplaires du [plan d'action](/water/gooseaction/) aux propriétaires.
+* Nous allons remettre des exemplaires du [plan d'action pour les bernaches](/water/gooseaction/) aux propriétaires.
 
 ## [Water testing results](/water/qualityreports/)
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 10 years. Say Thank You when you see her!
+
+L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 10 ans. Dites-lui merci quand vous la verrez!
 
 ***2020:***  Water testing will take place first week of August.       
 
@@ -52,19 +52,25 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
-Keep our water clean. Share the tip sheet with your renters - binder page version available.
+Keep our water clean. Share the tip sheet with your renters - binder page version available. 
+
+Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests.
 
-Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment. Each tiny piece broken off by waves or boats can turn into a new plant. 
+Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. Each tiny piece broken off by waves or boats can turn into a new plant. 
+
+Certaines années, le myriophylle envahissant forme un tapis dense à la surface du lac, évinçant les espèces végétales indigènes et nuisant aux poissons. Il a été introduit sur le bateau ou l'équipement de pêche de quelqu'un dans les années 1990. Chaque petit morceau brisé par les vagues ou les bateaux peut se transformer en une nouvelle plante. 
 
 *** 2020 *** We're starting from high water in June and very low milfoil levels in 2018-2019. We hope the native weeds can maintain the areas they re-established That said, there is still lots of milfoil - do cut and most importantly, remove the cuttings and remove cuttings that float in to your waterfront.  
 
-* [Reduce Eurasian Milfoil in Lac Notre-Dame et Usher - cutters, tips](/water/lnd-milfoil/)
+* [Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
 ## [Watershed map of Lac Notre Dame and Usher Lake](/map/maps/)
 
 The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
+
+La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
 ## [Join the Lake Association](/about/about/)
 
