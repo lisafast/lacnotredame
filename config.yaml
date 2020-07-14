@@ -8,7 +8,12 @@ Title: "Lac Notre-Dame and Usher Lake Association"
 PluralizeListTitles: False
 googleAnalytics: ""
 menu:
- 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 Params:
   Author: "Lac Notre-Dame executives"
   Banner: "Lac Notre-Dame and Usher Lake Association"
