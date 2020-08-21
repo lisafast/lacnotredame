@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "2019 Annual General Meeting of the Lac Notre Dame and Usher Lake Association"
+title = "2020 Annual General Meeting of the Lac Notre Dame and Usher Lake Association"
 description="AGM Lac Notre-Dame and Usher Lake Association "
 language = "en"
 tags = [
@@ -21,7 +21,7 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, will open the meeting.  
-By the time of the meeting, 32 members had paid their membership fees. Quorum requires at least 25% of members be present - there were X members present at the meeting - quorum was reached. All members present paid the $10 per family membership fee.  
+By the time of the meeting, 34 members had paid their membership fees. Quorum requires at least 25% of members be present - if 8 members join, quorum will be reached. Bylaws require that only members who've paid the $10 fee can vote.  
 
 Move to open the meeting by: Lisa Fast
 
@@ -38,7 +38,7 @@ Seconded by:
 ## Approve agenda for 2020 meeting
 * Financial report -  D. Hayward, Treasurer
 * Water Testing and water levels report - L. Fast, President
-* Board report on 2020 planned actions - L. Fast
+* Board report on 2019-2020 - L. Fast
 * Boat launch committee report - M. Desrochers, President Bishop's Manor Association
 * Current board and election of new board members - L. Fast - Treasurer needed
 * Members Open Issues
@@ -85,7 +85,7 @@ Seconded by
 
 
 ## Board report of program for 2019-2020
-* Plan: Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - we added DOC to this year's testing, and found and added DOC values into the test spreadsheet from 2005-2006 for comparison. Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
+* Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - we added DOC to this year's testing, and found and added DOC values into the test spreadsheet from 2005-2006 for comparison. Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
 * Suggestion to investigate and prepare a hand-out/tip sheet about fire pits, and handling of ashes. We did not complete this action, due to the pandemic. 
 * Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at [villelapeche report](http://www.villelapeche.qc.ca/downloads/ . 2020-07-20%20Rapport-impact-bateaux-sur-myriophylle.pdf)
 * Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detai: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
@@ -110,7 +110,7 @@ Role requires management of the bank account, signing cheques, accepting interac
 * Erin Jamison (Usher Lake representative)
 * Marie Maissoneuve 
 * André François Giroux 
-* Danielle Doré (elected August 2019)
+* Danielle Doré 
 
 ## Members open issues
 

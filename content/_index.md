@@ -44,9 +44,9 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 10 ans. Dites-lui merci quand vous la verrez!
 
-***2020:***  Water testing will take place first week of August.       
+***2020:***  Water testing in Lac Notre Dame completed August 10 - Usher TBD,       
 
-* [See the 2019 summary and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+* [2020 results summary and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
 * Association membership fees fund the water testing.
 
@@ -58,11 +58,11 @@ Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - ver
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests.
 
-Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. Each tiny piece broken off by waves or boats can turn into a new plant. 
+Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. It's a Zombie Weed: each tiny piece broken off by waves or boats can turn into a new plant. 
 
 Certaines années, le myriophylle envahissant forme un tapis dense à la surface du lac, évinçant les espèces végétales indigènes et nuisant aux poissons. Il a été introduit sur le bateau ou l'équipement de pêche de quelqu'un dans les années 1990. Chaque petit morceau brisé par les vagues ou les bateaux peut se transformer en une nouvelle plante. 
 
-*** 2020 *** We're starting from high water in June and very low milfoil levels in 2018-2019. We hope the native weeds can maintain the areas they re-established That said, there is still lots of milfoil - do cut and most importantly, remove the cuttings and remove cuttings that float in to your waterfront.  
+*** 2020 *** Bouys were placed in early August to keep boats out of the milfoil just under the surface in area 5.   
 
 * [Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
@@ -78,8 +78,8 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership:
-  * Renew in August by sending $10 to info@lacnotredame.org via e-transfer with password: water, we will email an acknowledgement
-  * No cheques this year - will arrange a dock drop-off instead in August. 
+  * Renew by sending $10 to info@lacnotredame.org via e-transfer with password: water, we will email an acknowledgement
+  * No cheques this year please. You can give cash to a board member and they'll e-transfer for you. 
   * Members will receive 2-3 emails per year from association@lacnotredame.org - to get the emails, join us, or if you already joined, check your junk mail/spam to make sure the email didn't end up there. 
   
 The lake dragon on Chemin du Domaines

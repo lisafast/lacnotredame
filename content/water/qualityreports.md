@@ -21,19 +21,20 @@ Carole Doré has been volunteering as the Association water tester for years. Th
 
 **Nitrogen and nitrates** occur naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Target levels are between 0.100 to 0.500.  
 
-* 2020 TKNTP Total Nitrogen levels: ranged from 0.23 to 0.29 on Lac Notre Dame which is fairly normal for the lake and within the expected range. Usher Lake: TBD
+* 2020: TKNTP Total Nitrogen levels: ranged from 0.23 to 0.29 on Lac Notre Dame which is fairly normal for the lake and within the expected range. Usher Lake: TBD
 
 **E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU.
 
-* 2020 E-coli levels are slightly lower this year (7/10 locations had levels above 10 last year, this year only 4/9 have levels above 10), perhaps because there are fewer geese (good job everyone who put up goose barriers!). [Location 6 off Ch. des Generations](/map/maps/) was at 56 - and geese had been there recently. We will resample, and ask that people please put up goose barriers on the lawns there to keep children playing in the area from becoming ill. 
+* 2020: E-coli levels are slightly lower this year (7/10 locations had levels above 10 last year, this year only 4/9 have levels above 10), perhaps because there are fewer geese (good job everyone who put up goose barriers!). [Location 6 off Ch. des Generations](/map/maps/) was at 56 - and geese had been there recently. We will resample, and ask that people please put up goose barriers on the lawns there to keep children playing in the area from becoming ill. 
 * Usher Lake: TBD.
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication. 
 
 * 2020: water transparency tests on August 7 were measured at 4.4 meters - down from 2019's 4.75m. Still a continued improvement over 2017's measurements of 3.75 meters. The rain and high spring water levels brought in a lot of sediment from wash and erosion.
 
-**Eurasian Milfoil**
-Milfoil levels were up this year and we had to place the buoys in early August. The lower water levels in late June/early July and hotter weather during that time likely played a role in this increase compared to 2018 and 2019 when buoys were not placed. 
+**Eurasian Milfoil** is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface. This association was founded to fight the harm milfoil caused in the early 2000's - it formed such a dense mat on much of the lake that people weren't able to boat through it at all. It's a Zombie weed - each cut bit can form a new weed so we place buoys to keep boats out of the dense areas. 
+
+* 2020: Milfoil levels were up this year and we had to place the buoys in early August. The lower water levels in late June/early July and hotter weather during that time likely played a role in this increase compared to 2018 and 2019 when buoys were not placed. See [Milfoil tips and history](./lnd-milfoil)
 
 >Biologist Paul Hamilton says about 2019, when native weeds recolonized previously heavy milfoil patches:  "the initiation of growth for the milfoil in the spring was stressed by limited sunlight, and colder temperatures (less likely nutrients). The higher water levels will impede the light getting to the bottom of the lake (a requirement for milfoil spring growth).  Then the growth of spring algae further blocked the sunlight and the summer development of the lake started.  Again this is good news."
 
