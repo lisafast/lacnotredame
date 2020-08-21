@@ -23,11 +23,11 @@ nobc = true
 </div>
 
 ## 2020 Annual meeting: August 22 at 10:00 a.m. online
-Due to the pandemic, we'll be meeting online this year. Zoom link will be set up in late July and emailed to past and current members.  
+Due to the pandemic, we'll be meeting online this year. Zoom link will be set up in late July and emailed to past and current members. A reminder email will be sent on Friday August 21.  
 
 En raison de la pandémie, nous nous réunirons en ligne cette année. Le lien Zoom sera mis en place fin juillet et envoyé par e-mail aux membres passés et actuels.  
-
-Board members met with other La Peche lake associations on July 11 and with the municipality- notes from that meeting coming soon.  
+  
+* Agenda: [2020 Annual General Meeting Agenda](/about/2020boardreport/) 
 * Last year: [2019 Annual General Meeting Minutes](/about/2019boardreport/) 
 
 ## [Canada Goose Action Plan](/water/gooseaction/)

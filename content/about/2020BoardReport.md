@@ -25,30 +25,29 @@ By the time of the meeting, 32 members had paid their membership fees. Quorum re
 
 Move to open the meeting by: Lisa Fast
 
-Seconded by: Dave Hayward
+Seconded by: 
 
 ## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/2019boardreport/)
 
 Minutes of the previous year's meeting were approved. 
 
-Moved by: Robert Boucher
+Moved by: 
 
-Seconded by: Erin Jamison
+Seconded by: 
 
 ## Approve agenda for 2020 meeting
 * Financial report -  D. Hayward, Treasurer
 * Water Testing and water levels report - L. Fast, President
-* Milfoil actions - report for La Peche associations - L. Fast
 * Board report on 2020 planned actions - L. Fast
 * Boat launch committee report - M. Desrochers, President Bishop's Manor Association
 * Current board and election of new board members - L. Fast - Treasurer needed
 * Members Open Issues
   - B. Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there. 
-* Proposed program for 2020 -2021: 
+* Develop and vote on proposed program for 2020 -2021 
 
-Moved by Erin Jamison
+Moved by 
   
-Seconded by Marie Maisonneuve
+Seconded by 
 
 ## Financial Report  
 
@@ -65,7 +64,7 @@ Summmary:
 
 Move to accept Treasurer's report by Lisa Fast
 
-Seconded by Danielle Doré
+Seconded by 
 
 ### Your membership fees support the following:
 
@@ -81,27 +80,29 @@ Seconded by Danielle Doré
 [Water testing report](https://lacnotredame.org/water/qualityreports/) presented by Lisa Fast
 
 * Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. 
-* Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing.  
-* Milfoil is higher this year than in 2019. Buoys were placed out on July x after several board members noticed cuttings floating and that milfoil was within range of boat motors. An email was sent to the list of members warning that the buoys were out, and members were asked to alert new neighbours who may not be aware of why the buoys are present. 2 of the flagged buoys that identify WHY the buoys are there were lost in 2018 - we should plan for replacements. 
-* Biologist Paul Hamilton reviews the reports and implications. 
+* Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. Biologist Paul Hamilton reviews the reports and implications. 
+* Milfoil is higher this year than in 2019. Buoys were placed out on August 5 after several board members noticed cuttings floating and that milfoil was within range of boat motors. An email was sent to the list of members warning that the buoys were out, and members were asked to alert new neighbours who may not be aware of why the buoys are present. 2 of the flagged buoys that identify WHY the buoys are there were lost in 2018 - we should plan for replacements. 
 
-[Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing)
 
 ## Board report of program for 2019-2020
-* Plan: Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound test to water testing suite) - we added DOC to this year's testing, and found and added DOC values into the test spreadsheet from 2005-2006 for comparison. Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. 
+* Plan: Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - we added DOC to this year's testing, and found and added DOC values into the test spreadsheet from 2005-2006 for comparison. Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
 * Suggestion to investigate and prepare a hand-out/tip sheet about fire pits, and handling of ashes. We did not complete this action, due to the pandemic. 
-* Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at: 
-* Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detai: 
+* Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at [villelapeche report](http://www.villelapeche.qc.ca/downloads/ . 2020-07-20%20Rapport-impact-bateaux-sur-myriophylle.pdf)
+* Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detai: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
   
-  Move to accept the board and water testing report: André-Francois Girard
+  Move to accept the board and water testing report: 
 
-  Seconded: Robert Boucher
+  Seconded: 
+
+## Boat launch Committee report - M. Desrochers
+
 
 ## Current board and election of new members
 
 We request new members for the board. We meet 2-3 times per year plus the AGM. 
 
 Dave Hayward no longer wishes to act as Treasurer but will remain on the board. New treasurer? 
+Role requires management of the bank account, signing cheques, accepting interac payments, produce summary at end of year
 
 * Lisa Fast, President (elected July 2018)
 * Robert Boucher, Vice-president
@@ -109,8 +110,7 @@ Dave Hayward no longer wishes to act as Treasurer but will remain on the board. 
 * Erin Jamison (Usher Lake representative)
 * Marie Maissoneuve 
 * André François Giroux 
-
-Election of Danielle Doré - 18 in favour. Thank you Danielle!
+* Danielle Doré (elected August 2019)
 
 ## Members open issues
 
@@ -118,7 +118,8 @@ Election of Danielle Doré - 18 in favour. Thank you Danielle!
   
 
 ## Proposed Association program for 2020-2021
-
+* Plan for replacement buoys
+* Perhaps we should develop and agree on water level strategy - adopt some indicators/signals
 
 
 Moved by Lisa Fast
