@@ -21,13 +21,13 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, will open the meeting.  
-By the time of the meeting, 34 members had paid their membership fees. Quorum requires at least 25% of members be present - if 8 members join, quorum will be reached. Bylaws require that only members who've paid the $10 fee can vote.  
+By the time of the meeting, 36 members had paid their membership fees. Quorum requires at least 25% of members be present - if 9 members join, quorum will be reached. Bylaws require that only members who've paid the $10 fee can vote.  
 
 Move to open the meeting by: Lisa Fast
 
 Seconded by: 
 
-## [Approval of previous year’s minutes](https://lacnotredame.org/assets/docs/minutes/2019boardreport/)
+## [Approval of previous year’s minutes](./2019boardreport/)
 
 Minutes of the previous year's meeting were approved. 
 
@@ -41,8 +41,7 @@ Seconded by:
 * Board report on 2019-2020 - L. Fast
 * Boat launch committee report - M. Desrochers, President Bishop's Manor Association
 * Current board and election of new board members - L. Fast - Treasurer needed
-* Members Open Issues
-  - B. Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there. 
+* Members Open Issues 
 * Develop and vote on proposed program for 2020 -2021 
 
 Moved by 
@@ -53,12 +52,12 @@ Seconded by
 
 * Presented by Dave Hayward, treasurer for the fiscal year 2019 - 2020
 Summmary: 
-* At the end of our financial year on June 31, 2020 - there was $4,897.25 in the Association's bank accounts at Desjardins
-  * $1701.36 in Chequing, $3128.83 in Savings
-* Income for fiscal year was $464.72
-  * $320 from 32 memberships, $24.72 interest and $120.00 in donations towards water testing
-* Expenses were $1183.82
-  * Minor: $75 for Rupert Hall rental, $27.94 for web hosting, $35 for Entreprises Quebec registration, and $35.40 for bank fees.
+* At the end of our financial year on June 31, 2020 - there was $4776.31 in the Association's bank accounts at Desjardins
+  * $1701.36 in Chequing, $3,074,95 in Savings and 163.44 in outstanding cheques/payments
+* Income for fiscal year was $454.72
+  * $320 from 32 memberships, $24.72 interest and $110.00 in donations towards water testing
+* Expenses were $1230.70
+  * Minor: $75 for Rupert Hall rental, $74.82 for web hosting, $35 for Entreprises Quebec registration, and $35.40 for bank fees.
   * Water testing: $1,010.48 - covers 2018 and 2019 water testing as the payment of $539 for 2018 was delayed. 
    
 
@@ -77,15 +76,15 @@ Seconded by
 
 ### Water testing report 
 
-[Water testing report](https://lacnotredame.org/water/qualityreports/) presented by Lisa Fast
+[Water testing report](/water/qualityreports/) presented by Lisa Fast
 
-* Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. 
+* Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation are expected the week of August 23.  
 * Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. Biologist Paul Hamilton reviews the reports and implications. 
-* Milfoil is higher this year than in 2019. Buoys were placed out on August 5 after several board members noticed cuttings floating and that milfoil was within range of boat motors. An email was sent to the list of members warning that the buoys were out, and members were asked to alert new neighbours who may not be aware of why the buoys are present. 2 of the flagged buoys that identify WHY the buoys are there were lost in 2018 - we should plan for replacements. 
 
 
-## Board report of program for 2019-2020
-* Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - we added DOC to this year's testing, and found and added DOC values into the test spreadsheet from 2005-2006 for comparison. Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
+## Board report on program that had been planned for 2019-2020
+* The Pandemic disrupted our program, delaying the return to the lake for many of us, and generally making things more difficult.  
+* Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. Added DOC to testing, and DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
 * Suggestion to investigate and prepare a hand-out/tip sheet about fire pits, and handling of ashes. We did not complete this action, due to the pandemic. 
 * Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at [villelapeche report](http://www.villelapeche.qc.ca/downloads/ . 2020-07-20%20Rapport-impact-bateaux-sur-myriophylle.pdf)
 * Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detai: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
@@ -113,8 +112,8 @@ Role requires management of the bank account, signing cheques, accepting interac
 * Danielle Doré 
 
 ## Members open issues
-
-
+* 2 of the flagged buoys that identify why the buoys are there were lost in 2018 - we should plan for replacements. 
+* B. Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there
   
 
 ## Proposed Association program for 2020-2021
