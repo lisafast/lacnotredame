@@ -27,9 +27,9 @@ Move to open the meeting by: Lisa Fast
 
 Seconded by: 
 
-## [Approval of previous year’s minutes](./2019boardreport/)
+## Approval of previous year’s minutes
 
-Minutes of the previous year's meeting were approved. 
+Minutes of the [2019 Annual General Meeting]](./2019boardreport/) meeting must be approved. 
 
 Moved by: 
 
