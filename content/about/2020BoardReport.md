@@ -20,8 +20,8 @@ Mandate of the association:
 
 ## Constitution of the meeting - quorum based on registered members
 
-Lisa Fast, president, will open the meeting.  
-By the time of the meeting, 36 members had paid their membership fees. Quorum requires at least 25% of members be present - if 9 members join, quorum will be reached. Bylaws require that only members who've paid the $10 fee can vote.  
+Lisa Fast, president, opened the meeting.  
+By the time of the meeting, 40 members had paid their membership fees. 24 members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.  
 
 Move to open the meeting by: Lisa Fast
 
@@ -29,7 +29,7 @@ Seconded by:
 
 ## Approval of previous year’s minutes
 
-Minutes of the [2019 Annual General Meeting]](./2019boardreport/) meeting must be approved. 
+Minutes of the [2019 Annual General Meeting](./2019boardreport/) meeting must be approved. 
 
 Moved by: 
 
@@ -93,32 +93,46 @@ Seconded by
 
   Seconded: 
 
-## Boat launch Committee report - M. Desrochers
+## Boat launch Committee report - M. Desrochers, President, Bishop's Manor Association
+About a third of property owners on Lac Notre Dame are also members of the Bishop's Manor Association. Bishop's Manor association members pay dues for road maintenance & other subdivision activities per the deeds of their property.  
 
+Marc Desrochers reported that the Bishop's Manor Association has (re)purchased the property along the causeway on Ch. du Manoir. Ch. Du Manoir was previously part of Bishop's Manor private road system, but it became a public road in 2009. The Municipality required an environmental assessment as part of the permit process for using the property as a private boat launch. A biologist performed the assessment in July, and a permit may be approved in September. Marc hopes to have a functioning launch area for the fall boat removal. 
+
+The intent is that all property owners on the lake, and Bishop's Manor Association members, will have access to the launch in spring and fall via some kind of combination lock. It was acknowledged that some people do circumvent the current concrete blocks and put boats in for the day. A gate and fence will hopefully prevent that kind of day-access, and thus prevent the entry of further invasive species like zebra mussels and freshwater jellyfish.  
+
+Meeting participants agreed that communication and education about boat washing, wakes, and avoiding milfoil areas should be part of access to the boat launch. We agreed to add this education/communication to our Association projects for this winter. Marc will keep in touch via email, and we can use the email list and website for communication about the launch. 
 
 ## Current board and election of new members
 
 We request new members for the board. We meet 2-3 times per year plus the AGM. 
 
-Dave Hayward no longer wishes to act as Treasurer but will remain on the board. New treasurer? 
-Role requires management of the bank account, signing cheques, accepting interac payments, produce summary at end of year
+Changes, new members and resignations: 
+* Dave Hayward no longer wishes to act as Treasurer but will remain on the board. 
+* André François Giroux will be out of the country for 4 years, so offered to either remain on the board if needed or resign for that period. Since there are new members, we accept the resignation and wish he and Nathalie bon voyage! 
+* Danielle Doré resigned from the board but will continue to do the buoys, and assist with education
 
-* Lisa Fast, President (elected July 2018)
-* Robert Boucher, Vice-president
-* Dave Hayward, Treasurer
-* Erin Jamison (Usher Lake representative)
+* Bryan Watkinson offered to rejoin the board. 
+* Don Herweyer offered to join the board. 
+* Brian Cook offered to join the board as treasurer. 
+
+* Lisa Fast, President (elected July 2018) 
+* Robert Boucher, Vice-president 
+* Dave Hayward 
+* Erin Jamison (Usher Lake representative)  
 * Marie Maissoneuve 
-* André François Giroux 
-* Danielle Doré 
+
+Lisa moved to vote to approve adding Bryan, Don and Brian as new members of the board, and to have Brian take on the treasurer role. 
+The motion was approved - 21 Yays - 0 nays.  
 
 ## Members open issues
-* 2 of the flagged buoys that identify why the buoys are there were lost in 2018 - we should plan for replacements. 
-* B. Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there
+* Bryan Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there
   
 
 ## Proposed Association program for 2020-2021
-* Plan for replacement buoys
-* Perhaps we should develop and agree on water level strategy - adopt some indicators/signals
+* Plan for replacement buoys. 2 of the flagged buoys that identify why the buoys are there were lost in 2018 - we should plan for replacements. Carolle Peras also suggested that more buoys should be added to protect other areas. Carolle has offered to help with applying for a grant over this winter if one is needed. 
+ * * Lisa added that with the growth in paid members this year, we may be able to access additional funding from the municipality that is specifically for lake associations and is based on the number of members. 
+* The board will develop and agree on a water level strategy - adopt some indicators/signals, find out what we can do about beavers on private property. 
+* Boater education action plan - we agreed that the boat launch will be a great opportunity to educate boat owners about their role in maintaining a healthy enjoyable lake. 
 
 
 Moved by Lisa Fast
