@@ -80,14 +80,21 @@ Seconded by
 
 * Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation are expected the week of August 23.  
 * Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. Biologist Paul Hamilton reviews the reports and implications. 
+* Phosphorus, nitrogen and e-coli levels are all highest at [location 6 off Ch. des Generations](/map/maps/)   - ask your neighbours in that area not to use fertilizer, to naturalize their shoreline to keep geese away or use goose barriers, to ensure their septic systems are properly maintained, and to use phosphate-free cleaning products. 
 
+## Water level report
+* In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination). 
+* Water levels were extremely high in early June, lawns were flooding at Ch. Des Generations, Lac Bernard Association also was complaining, outlet was cleared and levels dropped 30 CM or more over a week then have risen again over the summer where in mid-August, they are higher than in mid-August 2018 and 2019
+* Marcel Hunton reported that he has seen beaver activity at the outlet, that little water is getting through - we agreed that the board needs to develop a water level plan for the outlet, including what to do about beavers since it is private property
+* Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
 
 ## Board report on program that had been planned for 2019-2020
 * The Pandemic disrupted our program, delaying the return to the lake for many of us, and generally making things more difficult.  
 * Develop a Blue Green Algae prevention and action plan to understand, prevent and prepare if it appears (for example, add Dissolved Organic Compound (DOC) test to water testing suite) - Investigated how to test for Blue Green Algae and discussed testing issues with other lake associations. Added DOC to testing, and DOC results for 2020 are good, similar to Arctic Lakes, according to biologist. Also same range as in 2005, indicating lake has not progressed in eutrophication. We may only test this every few years given lack of change over last 15 years. 
 * Suggestion to investigate and prepare a hand-out/tip sheet about fire pits, and handling of ashes. We did not complete this action, due to the pandemic. 
-* Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at [villelapeche report](http://www.villelapeche.qc.ca/downloads/ . 2020-07-20%20Rapport-impact-bateaux-sur-myriophylle.pdf)
-* Develop a better understanding of the changing water levels and the potential impact of the new larger culverts at the outlet next spring - water levels may be lower as a result, thus bringing a surge in milfoil growth. Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detai: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
+* Met with the other lake associations of La Peche to discuss milfoil actions. Agreed that an all-of-La-Peche sign and hand-out approach is preferred to the many different signs and messages around the lakes - two members will be applying for a grant to do this. 
+* Other lakes have had severe milfoil mats over the last few years (Gauvreau in particular) - we shared water testing results and ideas for cutting. La Peche retained ABV-7 to study the interaction of boats and milfoil spread. The report is available online at [villelapeche report](http://www.villelapeche.qc.ca/downloads/ . 2020-07-20%20Rapport-impact-bateaux-sur-myriophylle.pdf)
+
   
   Move to accept the board and water testing report: 
 
@@ -104,7 +111,7 @@ Meeting participants agreed that communication and education about boat washing,
 
 ## Current board and election of new members
 
-We request new members for the board. We meet 2-3 times per year plus the AGM. 
+The Board meets 3-4x times per year plus the AGM. 
 
 Changes, new members and resignations: 
 * Dave Hayward no longer wishes to act as Treasurer but will remain on the board. 
@@ -121,8 +128,8 @@ Changes, new members and resignations:
 * Erin Jamison (Usher Lake representative)  
 * Marie Maissoneuve 
 
-Lisa moved to vote to approve adding Bryan, Don and Brian as new members of the board, and to have Brian take on the treasurer role. 
-The motion was approved - 21 Yays - 0 nays.  
+Moved by Lisa to approve adding Bryan, Don and Brian as new members of the board, and to have Brian take on the treasurer role. 
+The motion was approved - 21 Yes - 0 No.  
 
 ## Members open issues
 * Bryan Watkinson - concerned about calcium road spray seeping into the lake, especially on the stretch of Manoir on the south side of the lake where the pumping station is. The road is very close to the water there
@@ -139,8 +146,8 @@ Moved by Lisa Fast
 
 Seconded by Erin Jamison
 
-## Move to adjourn
+## Move to adjourn at 11:26 am
 
-Moved by Marie Maisonneuve
+Moved by Lisa Fast
 
-Seconded by André-Francois Girard
+Seconded by Marie Maissoneuve
