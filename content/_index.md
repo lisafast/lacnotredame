@@ -22,29 +22,18 @@ nobc = true
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2020 Annual meeting: August 22 at 10:00 a.m. online
-Due to the pandemic, we'll be meeting online this year. Zoom link will be set up in late July and emailed to past and current members. A reminder email will be sent on Friday August 21.  
-
-En raison de la pandémie, nous nous réunirons en ligne cette année. Le lien Zoom sera mis en place fin juillet et envoyé par e-mail aux membres passés et actuels.  
+## 2020 Annual meeting was held August 22 online
+About 25 households joined the annual meeting via Zoom. As of Sept 7th, we are up to 62 member households in the association and $170 in water testing donations. For all of the discussions and news about the Bishops Manor Association boat launch plans, see the meeting notes:   
   
-* Agenda: [2020 Annual General Meeting Agenda](/about/2020boardreport/) 
-* Last year: [2019 Annual General Meeting Minutes](/about/2019boardreport/) 
-
-## [Canada Goose Action Plan](/water/gooseaction/)
-
-An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. 6 more geese hatched at the lake this year, thankfully fewer than in 2018 and 2019.
-
-* Get prevention ideas for yourself and your neighbours in the [Goose Action Plan](/water/gooseaction/).   
-
-* Nous allons remettre des exemplaires du [plan d'action pour les bernaches](/water/gooseaction/) aux propriétaires.
+* Annual news, discussion notes, action plans for the year and board elections: [2020 Annual General Meeting Notes](/about/2020boardreport/) 
 
 ## [Water testing results](/water/qualityreports/)
 
-The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 10 years. Say Thank You when you see her!
+The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 15 years. Say Thank You when you see her!
 
 L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 10 ans. Dites-lui merci quand vous la verrez!
 
-***2020:***  Water testing in Lac Notre Dame completed August 10 - Usher TBD,       
+***2020:***  Water testing in Lac Notre Dame completed August 10 - Usher TBD:       
 
 * [2020 results summary and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -52,12 +41,13 @@ L'association analyse régulièrement des échantillons d'eau des lacs pour le p
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
-Keep our water clean. Share the tip sheet with your renters - binder page version available. 
+Keep our water clean. Share our tip sheet with your new neighbours and renters - binder page version available. 
 
 Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests.
 
+## Eurasian Milfoil - keep your boats out of the Zombie Weed
 Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. It's a Zombie Weed: each tiny piece broken off by waves or boats can turn into a new plant. 
 
 Certaines années, le myriophylle envahissant forme un tapis dense à la surface du lac, évinçant les espèces végétales indigènes et nuisant aux poissons. Il a été introduit sur le bateau ou l'équipement de pêche de quelqu'un dans les années 1990. Chaque petit morceau brisé par les vagues ou les bateaux peut se transformer en une nouvelle plante. 
@@ -71,6 +61,14 @@ Certaines années, le myriophylle envahissant forme un tapis dense à la surface
 The map shows all inlets and outlets into the lakes. Lots are marked. Water testing locations are marked.
 
 La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
+
+## [Canada Goose Action Plan](/water/gooseaction/)
+
+An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. 6 more geese hatched at the lake this year, thankfully fewer than in 2018 and 2019.
+
+* Get prevention ideas for yourself and your neighbours in the [Goose Action Plan](/water/gooseaction/).   
+
+* Nous allons remettre des exemplaires du [plan d'action pour les bernaches](/water/gooseaction/) aux propriétaires.
 
 ## [Join the Lake Association](/about/about/)
 
