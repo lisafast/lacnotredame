@@ -6,7 +6,7 @@ language = "en"
 tags = [
     "agm"
 ]
-date = "2020-08-13T13:10:52-05:00"
+date = "2020-09-26T13:10:52-05:00"
 type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
@@ -55,8 +55,8 @@ Seconded by: Robert Boucher
 
 * Presented by Dave Hayward, treasurer for the fiscal year 2019 - 2020
 Summary: 
-* At the end of our financial year on June 31, 2020 - there was $4776.31 in the Association's bank accounts at Desjardins
-  * $1701.36 in Chequing, $3,074,95 in Savings and 163.44 in outstanding cheques/payments
+* At the end of our financial year on June 31, 2020 - there was $4,776.31 in the Association's bank accounts at Desjardins
+  * $1,701.36 in Chequing, $3,074,95 in Savings and 163.44 in outstanding cheques/payments
 * Income for fiscal year was $454.72
   * $320 from 32 memberships, $24.72 interest and $110.00 in donations towards water testing
 * Expenses were $1230.70
@@ -70,7 +70,7 @@ Seconded by: Robert Boucher
 
 ### Your membership fees support the following:
 
-* Water testing approximately $500 per year
+* Water testing approximately $600 per year
 * Buoys and signs (not every year)
 * Awareness - tip cards  (not every year)
 * Reserve funds to prepare for potential invasive species or milfoil surge; consultation with experts like ABV-7
@@ -81,15 +81,16 @@ Seconded by: Robert Boucher
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
 
-* Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation are expected the week of August 23.  
-* Water testing results summaries are now published on the web site when they are received, and all of the years of data are available for comparison and viewing. Biologist Paul Hamilton reviews the reports and implications. 
-* Phosphorus, nitrogen and e-coli levels are all highest at [location 6 off Ch. des Generations](/map/maps/)   - ask your neighbours in that area not to use fertilizer, to naturalize their shoreline to keep geese away or use goose barriers, to ensure their septic systems are properly maintained, and to use phosphate-free cleaning products. 
+* Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation were collected August 26th.  
+* The annual [Water testing report](/water/qualityreports/) is updated with detailed test results within a few days of when we receive them.  Brief summary here:
+* At Lac Notre Dame: Phosphorus, nitrogen and e-coli levels are all highest at [location 6 off Ch. des Generations](/map/maps/)   - ask your neighbours in that area not to use fertilizer, to naturalize their shoreline to keep geese away or use goose barriers, to ensure their septic systems are properly maintained, and to use phosphate-free cleaning products. A retest later in August showed e-coli down to more normal levels, although still higher than elsewhere in the lake. 
+* At Usher: Results are normal at all locations except [Location 11](/map/maps/) where e-Coli is at unsafe levels and nitrogen, and phosphorus are also high. 
 
 ## Water level report
-* In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination). 
-* Water levels were extremely high in early June, lawns were flooding at Ch. Des Generations, Lac Bernard Association also was complaining, outlet was cleared and levels dropped 30 CM or more over a week then have risen again over the summer where in mid-August, they are higher than in mid-August 2018 and 2019
-* Marcel Hunton reported that he has seen beaver activity at the outlet, that little water is getting through - we agreed that the board needs to develop a water level plan for the outlet, including what to do about beavers since it is private property
-* Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
+* In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels tend to reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination). 
+* Water levels were extremely high in early June, lawns were flooding at Ch. Des Generations, Lac Bernard Association also was complaining. Outlet was cleared of debris and levels dropped 30 CM or more over a week. They then rose again over the summer with heavy rain,  so that in mid-August, they are higher than in mid-August 2018 and 2019.
+* Marcel Hunton reported that he has seen beaver activity at the outlet- we agreed that the board needs to develop a water level plan for the outlet, including what to do about beavers since it is private property. 
+* Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail here: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing) 
 
 ## Board report on program that had been planned for 2019-2020
 * The Pandemic disrupted our program, delaying the return to the lake for many of us, and generally making things more difficult.  
@@ -111,26 +112,27 @@ Marc's intent is that all property owners on the lake, and Bishop's Manor Associ
 
 Meeting participants agreed that communication and education about boat washing, wakes, and avoiding milfoil areas should be part of access to the boat launch. We agreed to add this education/communication to our Lake Association projects for this winter. Marc will keep in touch via email about the Bishop's Manor Association boat launch. We agreed to use the email list and website for communication about the launch, while making it clear that the launch is neither owned or operated by this lake association.  
 
+Update September 26: Marc tells us he continues to work through the many levels of the municipality's permit process. 
+
 ## Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM. 
 
 Changes, new board members and resignations: 
+
 * Dave Hayward no longer wishes to act as Treasurer but will remain on the board. 
-* André François Giroux will be out of the country for 4 years, so offered to either remain on the board if needed or resign for that period. Since there are new members, we accept his resignation and wish him bon voyage! 
-* Danielle Doré resigned from the board but will continue to do the buoys, and assist with education & memberships
-
-* Bryan Watkinson offered to rejoin the board. 
-* Don Herweyer offered to join the board. 
-* Brian Cook offered to join the board as treasurer. 
-
+* New: Bryan Watkinson offered to rejoin the board. 
+* New: Don Herweyer offered to join the board. 
+* New: Brian Cook offered to join the board as treasurer. 
 * Lisa Fast, President (elected July 2018) 
 * Robert Boucher, Vice-president 
-* Dave Hayward 
 * Erin Jamison (Usher Lake representative)  
 * Marie Maissoneuve 
 
-Moved by Lisa to add: Bryan, Don and Brian as new members of the board, and to have Brian Cook take on the treasurer role. 
+* André François Giroux will be out of the country for 4 years, so offered to either remain on the board if needed or resign for that period. Since there are new members, we accept his resignation and wish him bon voyage! 
+* Danielle Doré resigned from the board but will continue to do the buoys, and assist with education & memberships. Thank you Danielle!
+
+Moved by Lisa to add Bryan, Don and Brian as new members of the board, and to have Brian Cook take on the treasurer role. 
 The motion was approved - 21 votes for Yes - 0 No.  
 
 ## Members open issues
@@ -143,7 +145,7 @@ The motion was approved - 21 votes for Yes - 0 No.
 * Plan for replacement buoys. 2 of the flagged buoys that identify why the buoys are there were lost in 2018 - we should plan for replacements. Carolle Peras also suggested that more buoys should be added to protect other areas. Carolle has offered to help with applying for a grant over this winter if one is needed. 
  * * Lisa added that with the growth in paid members this year, we may be able to access additional funding from the municipality that is specifically for lake associations and is based on the number of members. 
 * The board will develop and agree on a water level strategy - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
-* Boater education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.    
+* Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.    
 
 Moved by Lisa Fast
 
