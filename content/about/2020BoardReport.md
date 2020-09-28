@@ -103,7 +103,7 @@ Move to accept the board and water testing report: Robert Boucher
 
 Seconded: André François Giroux
 
-## Boat launch Committee report - M. Desrochers, President, Bishop's Manor Association
+## Boat launch update - M. Desrochers, President, Bishop's Manor Association
 About a third of property owners on Lac Notre Dame are also members of the Bishop's Manor Association. Bishop's Manor association members pay dues for road maintenance & other subdivision activities per the deeds of their property.  
 
 Marc Desrochers, President, joined the meeting to report that the Bishops’s Manor Association has (re)purchased property along the causeway on Ch. du Manoir from the municipality.  Ch. Du Manoir was previously part of Bishop's Manor private road system, but it became a public road in 2009. Marc has applied for a permit to use the property as a private boat launch. The Municipality required an environmental assessment as part of the permit process. A biologist performed the assessment in July, and a permit may be approved in September. Marc hopes to have a functioning launch area for the fall boat removal with a fence and gates.
@@ -127,7 +127,7 @@ Changes, new board members and resignations:
 * Lisa Fast, President (elected July 2018) 
 * Robert Boucher, Vice-president 
 * Erin Jamison (Usher Lake representative)  
-* Marie Maissoneuve 
+* Marie Maisonneuve 
 
 * André François Giroux will be out of the country for 4 years, so offered to either remain on the board if needed or resign for that period. Since there are new members, we accept his resignation and wish him bon voyage! 
 * Danielle Doré resigned from the board but will continue to do the buoys, and assist with education & memberships. Thank you Danielle!

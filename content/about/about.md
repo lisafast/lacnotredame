@@ -15,19 +15,16 @@ type = "article"
 
 Your membership pays for water testing, this website and action plans approved by the Board:
 
-* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water and include your email address, and your address at the lake - we'll send an acknowledgement by email.
-* A cash drop-off-at-the-dock date may be set up in August - please email if you'd like that option
+* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water20.
 * No pay-by-cheque option available this year due to the pandemic
 
-## 2019 Lake Association Meeting
+## Lake Association Meetings
 
 Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. Online this year due to the pandemic
 
-* Date: Saturday August 22th, 2020
-* Time: 10:00 am
-* Zoom link will be created in late July - check back here or expect an email
-* Review and approval of the [Minutes of the 2019 Annual General Meeting](/about/2019boardreport/) will take place at the start of this year's meeting
-* Current members will be sent an email notification of the meeting
+* Date: Saturday August 22th, 2020 on Zoom
+* [Updates and reports from the Annual General Meeting](/about/2020boardreport/) will take place at the start of this year's meeting
+* Current members will be sent an email notification of the meeting and results
 
 People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and help us plan the year's actions on milfoil, water quality, geese, and more.
 
@@ -84,12 +81,13 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
 * President Lisa Fast
-* Treasurer Dave Hayward
-* Director Robert Boucher
-* Director André François Giroux
-* Director Jim Bickford
-* Director Erin Jamison (Usher Lake)
-* Director Marie Maissoneuve
+* Treasurer Brian Cook
+* Dave Hayward
+* Robert Boucher
+* Don Herweyer
+* Bryan Watkinson
+* Erin Jamison (Usher Lake)
+* Marie Maisonneuve
 
 Contact us by email at info@lacnotredame.org
 
