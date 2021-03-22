@@ -6,7 +6,7 @@ language = "en"
 tags = [
     "mission"
 ]
-date = "2020-07-13T13:10:52-05:00"
+date = "2021-03-22T13:10:52-05:00"
 type = "article"
 +++
 <!-- markdownlint-disable MD033 MD041 MD002 MD026-->
@@ -15,16 +15,16 @@ type = "article"
 
 Your membership pays for water testing, this website and action plans approved by the Board:
 
-* To renew by e-transfer, send $10 to info@lacnotredame.org, password: water20.
+* Renew for 2021 after July 1. E-transfer $10 to info@lacnotredame.org  password: water21
 * No pay-by-cheque option available this year due to the pandemic
 
 ## Lake Association Meetings
 
-Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. Online this year due to the pandemic
+Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. In 2020 we met online via Zoom, and had many more people attend than when we met in person. Given the continuing pandemic, we'll be online again this year, in August. 
 
-* Date: Saturday August 22th, 2020 on Zoom
+* Date: Saturday August 21st, 2021 on Zoom at 10:00 am
 * [Updates and reports from the Annual General Meeting](/about/2020boardreport/) will take place at the start of this year's meeting
-* Current members will be sent an email notification of the meeting and results
+* Current and previous members will be sent an email notification of the meeting and results
 
 People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and help us plan the year's actions on milfoil, water quality, geese, and more.
 
