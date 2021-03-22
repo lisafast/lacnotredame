@@ -31,8 +31,6 @@ In 2020, 67 households were paid members. An additional $170 was donated towards
 In early November, a slick of Blue-green algae was spotten in the island bay (near Ch. Corbei). Cases like this sometimes happen in the late fall for the relatively short period of time due to the cold temperature driving causing the bacteria to float to the surface and collect into clusters. Our assisting biologist Paul Hamilton identified it under the microscope provided this advice:
 
 * If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. Take a photo, and collect a sample in a clean jar (with gloves or wash hands well afterwards). Email the photo to info@lacnotredame.org and we will arrange to drop it off or get it picked up so I can identify it under the microscope
-* Here's a photo of what it looked like: 
-<img src="/assets/img/algae-2020Nov.jpg" class="img-fluid py-3" alt="view of algae on water surface near Ch. Corbeil" />
 
 * This is a warning - we must naturalize the shoreline, prevent erosion from boat wakes,  and maintain our septic systems well to keep our lake healthier.  
 
