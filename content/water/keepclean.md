@@ -1,16 +1,8 @@
-+++
-draft = false
-title = "Tips to keep our water clean"
-description="Protecting water quality"
-language = "en"
-tags = [
-    "water"
-]
-date = "2017-12-29T13:10:52-05:00"
-type = "article"
-+++
-<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
-
+---
+title: Tips to keep our water clean
+description: Protecting water quality
+date: 2017-12-29T13:10:52-05:00
+---
 ### It’s not a garden – don't dump ashes, fertilizer, or anything at all into the lake.
 
 * Do cut then remove the invasive Eurasian milfoil. Avoid pulling up weeds or doing anything to stir up the sediments on the bottom.

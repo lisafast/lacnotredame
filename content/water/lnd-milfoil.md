@@ -1,16 +1,8 @@
-+++
-draft = false
-title = "Eurasian Milfoil"
-description="Eurasian milfoil weed in Lac Notre-Dame - what to do and history"
-language = "en"
-tags = [
-    "water"
-]
-date = "2017-05-01T13:10:52-05:00"
-type = "article"
-+++
-<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
-
+---
+title: Eurasian Milfoil
+description: Eurasian milfoil weed in Lac Notre-Dame - what to do and history
+date: 2017-12-29T13:10:52-05:00
+---
 Originating in Europe, Eurasian watermilfoil is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface.  According to Environment Canada, “this plant not only pushes out indigenous plant species, but may also be harmful to fish populations by crowding out their spawning grounds.”
 
 ### Take steps to reduce weed levels

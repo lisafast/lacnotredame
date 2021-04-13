@@ -1,0 +1,23 @@
+# site work to be done
+
+## Head section
+
+- proper head titles from metadata of sections
+- proper page head descriptions
+
+## JSON-LD
+
+- pieces for each page
+
+## Bootstrap 5 compiled
+
+- optional process build step
+- icons
+
+## build and deploy
+
+- site deploy
+    - https://hackernoon.com/deploy-website-to-remote-server-using-git-da6048805637
+    - https://amifactory.team/blog/how-to-deploy-a-website/
+
+## custom 404 page

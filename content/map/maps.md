@@ -1,17 +1,9 @@
-+++
-draft = false
-title = "Map of Lacs Notre Dame et Usher"
-description="Water testing locations"
-language = "en"
-tags = [
-    "maps",
-    "water"
-]
-date = "2017-05-01T13:10:52-05:00"
-type = "article"
-+++
-<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
+---
 
+title: Map of Lacs Notre Dame et Usher
+description: Water testing locations
+date: 2017-05-01T13:10:52-05:00
+---
 ## Association water testing locations
 
 The red-numbered locations in the lakes on the map show where water samples are collected for testing.  Most locations match where water is either entering or exiting the lakes.

@@ -1,16 +1,8 @@
-+++
-draft = false
-title = "Lac Notre-Dame and Usher Lake Association"
-description="About Lac Notre-Dame and Usher Lake Association"
-language = "en"
-tags = [
-    "mission"
-]
-date = "2021-03-22T13:10:52-05:00"
-type = "article"
-+++
-<!-- markdownlint-disable MD033 MD041 MD002 MD026-->
-
+---
+title: Lac Notre-Dame and Usher Lake Association
+description: About Lac Notre-Dame and Usher Lake Association
+date: 2021-03-22T13:10:52-05:00
+---
 ## Join or renew your membership
 
 Your membership pays for water testing, this website and action plans approved by the Board:
@@ -20,10 +12,10 @@ Your membership pays for water testing, this website and action plans approved b
 
 ## Lake Association Meetings
 
-Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. In 2020 we met online via Zoom, and had many more people attend than when we met in person. Given the continuing pandemic, we'll be online again this year, in August. 
+Join us at our Annual General Meeting to share ideas and concerns about the lakes, water quality and the watershed. In 2020 we met online via Zoom, and had many more people attend than when we met in person. Given the continuing pandemic, we'll be online again this year, in August.
 
 * Date: Saturday August 21st, 2021 on Zoom at 10:00 am
-* [Updates and reports from the Annual General Meeting](/about/2020boardreport/) will take place at the start of this year's meeting
+* [Updates and reports from the Annual General Meeting](../2020BoardReport/) will take place at the start of this year's meeting
 * Current and previous members will be sent an email notification of the meeting and results
 
 People from around the lakes attend the Annual General Meeting (AGM) to discuss water quality issues that have risen, to suggest changes or volunteer for a particular activity, and to vote on Association plans and board roles for the upcoming year. This is a chance to meet interested volunteers, to find out about water testing and help us plan the year's actions on milfoil, water quality, geese, and more.
@@ -40,7 +32,9 @@ The mission of the Association is to promote, protect and preserve the quality o
 
 Approved minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
 
-* [2018 Annual meeting minutes](/about/2018boardreport/)
+* [2020 Annual meeting minutes](../2020BoardReport/)
+* [2019 Annual meeting minutes](../2019BoardReport/)
+* [2018 Annual meeting minutes](../2018BoardReport/)
 * [2017 Annual General Meeting minutes (English PDF)](/assets/docs/minutes/AGM_Minutes_2017.pdf)
 * [2016 AGM (English)](/assets/docs/minutes/AGM_Minutes_2016.pdf)
 * [2009 AGM (English)](/assets/docs/minutes/AGM_Minutes_2009.pdf) [- AGA (Français)](/assets/docs/minutes/fr/AGA_proces_2009.pdf)
