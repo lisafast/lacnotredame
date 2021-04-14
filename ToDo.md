@@ -21,3 +21,10 @@
     - https://amifactory.team/blog/how-to-deploy-a-website/
 
 ## custom 404 page
+
+## Misc
+
+- run owasp zap
+- security headers
+
+- generate nginx setup info for the site

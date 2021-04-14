@@ -23,6 +23,8 @@ extension Plugin {
                 try shellOut(to: "find", arguments: [basefolder + "Output/", "-type", "f",  "-name","*.txt", "-exec",  "gzip","-kf", "{}",  "\\;"], at: basefolder)
                 try shellOut(to: "find", arguments: [basefolder + "Output/", "-type", "f",  "-name","*.pdf", "-exec",  "gzip","-kf", "{}",  "\\;"], at: basefolder)
                 try shellOut(to: "find", arguments: [basefolder + "Output/", "-type", "f",  "-name","*.ico", "-exec",  "gzip","-kf", "{}",  "\\;"], at: basefolder)
+                try shellOut(to: "find", arguments: [basefolder + "Output/", "-type", "f",  "-name","*.css", "-exec",  "gzip","-kf", "{}",  "\\;"], at: basefolder)
+                try shellOut(to: "find", arguments: [basefolder + "Output/", "-type", "f",  "-name","*.js", "-exec",  "gzip","-kf", "{}",  "\\;"], at: basefolder)
             } catch {
                 let error = error as! ShellOutError
                 print(error.message) // Prints STDERR
