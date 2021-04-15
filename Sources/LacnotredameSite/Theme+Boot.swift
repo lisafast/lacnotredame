@@ -270,7 +270,7 @@ private extension Node where Context == HTML.BodyContext {
                 .skipList(),
                 container(
                     .div(
-                        .class("d-flex flex-row justify-content-between"),
+                        .class("d-flex flex-row"),
                         .div(
                             .class("d-inline-flex px-2 order-0"),
                             .attribute(named: "tabindex", value: "-1"),
@@ -288,22 +288,22 @@ private extension Node where Context == HTML.BodyContext {
                                 .class("h4 text-left"),
                                 .text(context.site.name)
                             )
-                        ),
-                        .div(
-                            .class("d-inline-flex px-2 order-2 order-md-2"),
-                            .section(
-                                .id("srch"),
-                                .h2(
-                                    .class("visually-hidden-focusable"),
-                                     .text("Search this site input")
-                                 ),
-                                .iframe(
-                                    .src("https://duckduckgo.com/search.html?width=200&site=lacnotredame.org&prefill=search%20lacnotredame.org"),
-                                    .attribute(named: "style", value: "overflow:hidden;margin:0;padding:0;max-width:258px;height:40px;border:0;")
-                                )
-                                
-                            )
                         )
+//                        .div(
+//                            .class("d-inline-flex px-2 order-2 order-md-2"),
+//                            .section(
+//                                .id("srch"),
+//                                .h2(
+//                                    .class("visually-hidden-focusable"),
+//                                     .text("Search this site input")
+//                                 ),
+//                                .iframe(
+//                                    .src("https://duckduckgo.com/search.html?width=200&site=lacnotredame.org&prefill=search%20lacnotredame.org"),
+//                                    .attribute(named: "style", value: "overflow:hidden;margin:0;padding:0;max-width:258px;height:40px;border:0;")
+//                                )
+//
+//                            )
+//                        )
                     )
                 )
             )
@@ -361,6 +361,41 @@ private extension Node where Context == HTML.BodyContext {
             .container(
             .footer(
             .id("info"),
+            .container(
+                .form(
+// nginx handles the search redirect to duckduckgo.com
+//                    location ^~ /do/search {
+//                        return 302 https://duckduckgo.com/?q=site%3Alacnotredame.org+$arg_q;
+//                    }
+                    .action("/do/search"),
+                    .method(.get),
+                    .fieldset(
+                        .div(
+                            .class("row justify-content-start"),
+                            .div(
+                                .class("col-6"),
+                                .input(
+                                    .class("form-control form-control-lg"),
+                                    .autocomplete(false),
+                                    .autofocus(false),
+                                    .name("q"),
+                                    .placeholder("search lacnotredame.org"),
+                                    .type(HTMLInputType.text)
+                                    )
+                                
+                                ),
+                        .div(
+                            .class("col-3"),
+                            .input(
+                                .class("btn btn-primary mb-3"),
+                                .type(HTMLInputType.submit),
+                                .value("Search")
+                            )
+                            )
+                        )
+                    )
+                )
+            ),
             .p(
                 .text("Contact us at: info [at] lacnotredame [dot] org")
             ),

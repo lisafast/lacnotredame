@@ -28,3 +28,5 @@
 - security headers
 
 - generate nginx setup info for the site
+- redo search to eliminate extra page loading from duckduckgo ✅
+- blockquote class added at markdown pass

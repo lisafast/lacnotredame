@@ -54,7 +54,7 @@ try LacnotredameSite().publish(
       formatter.timeZone = TimeZone(secondsFromGMT: 0)
       context.dateFormatter = formatter
     },
-    .if(true, .installPlugin(.markdownLint)),
+    .if(false, .installPlugin(.markdownLint)),
     .addMarkdownFiles(),
 //    .add404Page(),
     .sortItems(by: \.date, order: .descending),
