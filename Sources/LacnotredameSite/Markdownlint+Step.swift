@@ -16,6 +16,8 @@ extension Plugin {
                 try shellOut(to: "echo", arguments: ["$PATH"])
                 // set xcode environment argument PATH in Edit Scheme to find markdownlint from brew install
                 // PATH=/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/sbin:/usr/local/bin
+// for brew on an M1 mac installed in /opt/homebrew
+                //                PATH=/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/sbin:/opt/homebrew/bin
 //                print(output) // Hello world
                 let basefolder = try (context.folder(at: "Sources").parent?.path)!
                 try shellOut(to: "markdownlint", arguments: ["--output", basefolder + "Reports/markdownlintreport.txt", "--config", basefolder + "Reports/markdownlintconfig.json",  "./"], at: basefolder + "Content")

@@ -68,7 +68,7 @@ try LacnotredameSite().publish(
     //        },
     .moveWebsitePages(paths: [("404","404.html")]),
     .generateSiteMap(excluding: ["main","404"], indentedBy: nil),
-    .if(true, .installPlugin(.compressFiles)),
+    .if(false, .installPlugin(.compressFiles)),
     
     //        .unwrap(nil, PublishingStep.deploy)
   ],
