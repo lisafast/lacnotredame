@@ -3,13 +3,15 @@ title: Water testing results
 description: Lac Notre Dame water testing results
 date: 2020-08-20T13:10:52-05:00
 ---
-Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples every year at the location on the [map](/map/maps/). Your association membership fees pay for the water testing.
+Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples every year at the location on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
-## 2020 water testing results summary - Lac Notre Dame on August 10 - Usher Lake  August 26th
+## 2021 water testing results summary - Lac Notre Dame on August 5 - Usher Lake - Not yet completed
 
-**Phosphate** run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. Target levels are below .005 mg/L.
+**Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. 
 
-* 2020 Phosphorus levels: Lac Notre Dame is improved this year with 4 locations below the 0.005 target and a max of 0.007 mg/L at [location 6 off Ch. des Generations](/map/maps/), where it is usually higher than other sites. If property owners are using lawn fertilizer in that area, please stop.
+Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers and phosphate-containing detergents
+
+* 2021 Phosphorus levels: Lac Notre Dame has no sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island. 
 * Usher Lake: all Phosphorus levels are much higher than the target level except [location 11](/map/maps/).
 
 **Nitrogen and nitrates** occur naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Target levels are between 0.100 to 0.500.  
