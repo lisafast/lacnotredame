@@ -5,36 +5,33 @@ date: 2020-08-20T13:10:52-05:00
 ---
 Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples every year at the location on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
-## 2021 water testing results summary - Lac Notre Dame on August 5 - Usher Lake - Not yet completed
+## 2021 water testing results summary - Lac Notre Dame on August 3rd - Usher Lake - August 9th
 
 **Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. 
 
 Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers and phosphate-containing detergents
 
-* 2021 Phosphorus levels: Lac Notre Dame has no sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island. 
-* Usher Lake: all Phosphorus levels are much higher than the target level except [location 11](/map/maps/).
+* 2021 Phosphorus levels: Lac Notre Dame has **no** sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island. 
+* Usher Lake: **all** Phosphorus levels are higher than the target level
 
-**Nitrogen and nitrates** occur naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N). Target levels are between 0.100 to 0.500.  
+**Nitrogen and nitrates - target levels below 0.5** Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).   
 
-* 2020: TKNTP Total Nitrogen levels: ranged from 0.23 to 0.29 on Lac Notre Dame which is fairly normal for the lake and within the expected range.
-* Usher Lake levels range from 0.19 to an exceptionally high 0.57 at location 11.
+* 2021: TKNTP Total Nitrogen levels: Levels increased slightly to 0.25 to 0.33 from 2020's 0.23 to 0.29 on Lac Notre Dame. These levels, especially given the rainfall, are fairly normal for the lake and within the expected range.
+* Usher Lake levels range from 0.33 to 0.39.
 
-**E.coli bacterium** that can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU.
+**E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU.
 
-* 2020: E-coli levels are slightly lower this year (7/10 locations had levels above 10 last year, this year only 4/9 have levels above 10), perhaps because there are fewer geese (good job everyone who put up goose barriers!). [Location 6 off Ch. des Generations](/map/maps/) was at 56 - and geese had been there recently. We ask that people please put up goose barriers on the lawns there to keep children playing in the area from becoming ill. A retest on August 26th showed levels back down to 16 - well above targets for drinking water but a big improvement from 56.
-* Usher Lake: Only location 12's sample was at the safe drinking water target of 4 - location 11 had very high e-coli level of 176, well above safe swimming levels.
+* 2021: E-coli levels are lower this year with only 1 location at 10 (in 2020, 4/9 locations had levels above 10), perhaps a combination of the rain, better septic system maintencance & fewer geese. 
 
-**Dissolved Organic Carbon (DOC)** testing was added this year, as it can be a leading indicator of algae levels and overall lake health. Organic carbon is the result of decomposition of plant or animal material.
-
-* 2020: DOC Results in 2020 in Lac Notre Dame of an average of 4.5 were good news because they are very similar to the range seen measured in 2005 and 2006.
+* Usher Lake: Also lower than last year. Only location 1's sample was below 10.
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication.
 
-* 2020: water transparency tests on August 7 were measured at 4.4 meters - down from 2019's 4.75m. Still an improvement over 2017's measurements of 3.75 meters. The rain and high spring water levels brought in a lot of sediment from wash and erosion.
+* 2021: Not yet completed but expected to be poor based on high algae levels and rainfall. August 7 2020 were measured at 4.4 meters - down from 2019's 4.75m. Still an improvement over 2017's measurements of 3.75 meters. The rain and high spring water levels brought in a lot of sediment from wash and erosion.
 
 **Eurasian Milfoil** is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface. This association was founded to fight the harm milfoil caused in the early 2000's - it formed such a dense mat on much of the lake that people weren't able to boat through it at all. It's a Zombie weed - each cut bit can form a new weed so we place buoys to keep boats out of the dense areas.
 
-* 2020: Milfoil levels were up this year and we had to place the buoys in early August. The lower water levels in late June/early July and very hot weather during that time likely played a role in this increase compared to 2018 and 2019 when buoys were not placed. See [Milfoil tips and history](/water/lnd-milfoil)
+* 2020: Milfoil levels were similar this year to last year. We placed the new yellow buoys in mid July. Unfortunately, it was clear that boat motors were chopping up the milfoil in mid August, as the water was full of floating fragments. Boats need to stay clear of those areas. See [Milfoil tips and history](/water/lnd-milfoil)
 
 Biologist Paul Hamilton says about 2019, when native weeds recolonized previously heavy milfoil patches:
 
@@ -45,7 +42,7 @@ We continue to encourage people to cut milfoil near your shore and remove the cu
 
 ## View spreadsheet of water testing results by map location
 
-* [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 to 2019 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
+* [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
 
 Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
 
