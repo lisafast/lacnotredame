@@ -10,7 +10,7 @@ lastmod: 2021-03-22T13:10:52-05:00
 
 ## 2021 annual meeting will be August 21st, 10:00 am on Zoom
 
-In 2020, 67 households were paid members. An additional $170 was donated towards water testing. For all of the discussions and news about the Bishops Manor Association boat launch plans, see the meeting notes:
+* Agenda with board reports [2021 Annual General Meeting Agenda](/about/2021boardreport/)
   
 * Action plans for the year, discussions and board elections: [2020 Annual General Meeting Notes](/about/2020boardreport/)
 

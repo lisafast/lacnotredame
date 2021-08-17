@@ -46,13 +46,9 @@ Presented by Brian Cook, treasurer for the fiscal year 2020 - 2021
 
 Summary:
 
-* At the end of our financial year on June 31, 2021 - there was $X in the Association's bank accounts at Desjardins
-* $X in Chequing, $X in Savings and X in outstanding cheques/payments
-* Income for fiscal year was $X
-* $670 from 67 memberships, $X interest and $230 in donations towards water testing
-* Expenses were $X
-* Minor:  $X for web hosting, $35 for Entreprises Quebec registration, and $X for bank fees.
-* Water testing: $
+* The Lake Association has accounts with Desjardins and at June 30, 2021 the chequing account balance was $2,029 and the savings account was $3,133
+* During the fiscal year we had a high number of annual membership fees and donations totalling $980 ($670 from 67 memberships and $230 in donations)
+* The primary expenses related to $696 for independent water testing at various locations around the lake, and $740 for purchase of additional yellow buoys and heavier anchors to identify areas with a high concentration of Milfoil plant growth and to prevent motor boats from going through this part of the lake. (The $740 was payable at June 30th from the balance noted above).
 
 Move to accept Treasurer’s report: 
 
@@ -79,13 +75,14 @@ Seconded by:
 ## Water level report
 
 * In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels tend to reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination).
-* There are now 2 beaver lodges with beavers damming at the outlet, with resulting fluctuating water levels whenever there were heavy rains and/or parts of the dam were removed. In mid-August, they are higher than in mid-August 2018 and 2019.
+* There are now 2 beaver lodges with beavers damming at the outlet, with resulting fluctuating water levels whenever there were heavy rains and/or parts of the dam were removed. In mid-August 2021, they are higher than in mid-August 2018 and 2019.
 * We met with one of the property owners at the outlet, and discussed his long-time beaver management work, and new constraints. We agreed to help with the process of managing the dam (not removin, managing) rather than attempting to eradicate the beavers, since they always return. 2 volunteers have stepped forward, so we have passed those names on to him so they can work with him in partially removing the dam on a periodic basis. 
 * Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail here: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing)
 
 ## Board report on program that had been planned for 2019-2021
 
 * Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer. 
+* Blue Green Algae Plan: (still in progress)
 * Additional funding: a letter was sent to the municipality requesting funding similar to that received by other lake associations for environmental work. We expect to receive a cheque for $400 although it has not arrived yet.
 * Water level strategy is in progress - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
 * Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
