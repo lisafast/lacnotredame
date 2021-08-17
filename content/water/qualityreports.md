@@ -7,21 +7,21 @@ Carole Doré has been volunteering as the Association water tester for years. Th
 
 ## 2021 water testing results summary - Lac Notre Dame on August 3rd - Usher Lake - August 9th
 
-**Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content. 
+**Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content.
 
 Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers and phosphate-containing detergents
 
-* 2021 Phosphorus levels: Lac Notre Dame has **no** sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island. 
+* 2021 Phosphorus levels: Lac Notre Dame has **no** sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island.
 * Usher Lake: **all** Phosphorus levels are higher than the target level
 
-**Nitrogen and nitrates - target levels below 0.5** Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).   
+**Nitrogen and nitrates - target levels below 0.5** Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).
 
 * 2021: TKNTP Total Nitrogen levels: Levels increased slightly to 0.25 to 0.33 from 2020's 0.23 to 0.29 on Lac Notre Dame. These levels, especially given the rainfall, are fairly normal for the lake and within the expected range.
 * Usher Lake levels range from 0.33 to 0.39.
 
 **E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU.
 
-* 2021: E-coli levels are lower this year with only 1 location at 10 (in 2020, 4/9 locations had levels above 10), perhaps a combination of the rain, better septic system maintencance & fewer geese. 
+* 2021: E-coli levels are lower this year with only 1 location at 10 (in 2020, 4/9 locations had levels above 10), perhaps a combination of the rain, better septic system maintencance & fewer geese.
 
 * Usher Lake: Also lower than last year. Only location 1's sample was below 10.
 

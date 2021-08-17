@@ -54,7 +54,7 @@ try LacnotredameSite().publish(
       formatter.timeZone = TimeZone(secondsFromGMT: 0)
       context.dateFormatter = formatter
     },
-    .if(false, .installPlugin(.markdownLint)),
+    .if(true, .installPlugin(.markdownLint)),
     .addMarkdownFiles(),
 //    .add404Page(),
     .sortItems(by: \.date, order: .descending),
@@ -68,7 +68,7 @@ try LacnotredameSite().publish(
     //        },
     .moveWebsitePages(paths: [("404","404.html")]),
     .generateSiteMap(excluding: ["main","404"], indentedBy: nil),
-    .if(false, .installPlugin(.compressFiles)),
+    .if(true, .installPlugin(.compressFiles)),
     
     //        .unwrap(nil, PublishingStep.deploy)
   ],

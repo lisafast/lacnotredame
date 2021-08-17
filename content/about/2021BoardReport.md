@@ -17,28 +17,28 @@ By the time of the meeting, XX members had paid their membership fees. XX member
 
 Move to open the meeting by: Lisa Fast
 
-Seconded by: 
+Seconded by:
 
 ## Approval of previous year’s minutes
 
 Minutes of the [2020 Annual General Meeting](../2020BoardReport/) meeting were approved.
 
-Moved by: 
+Moved by:
 
-Seconded by: 
+Seconded by:
 
 ## Approve agenda for 2021 meeting
 
 * Financial report -  B. Cook, Treasurer
 * Water Testing and water levels report - L. Fast, President
 * Board report on 2019-2021 - L. Fast
-* Current board and election of new board members - L. Fast 
+* Current board and election of new board members - L. Fast
 * Members Open Issues
 * Develop and vote on proposed program for 2021 -2022
 
 Moved by:
 
-Seconded by: 
+Seconded by:
 
 ## Financial Report  
 
@@ -50,9 +50,9 @@ Summary:
 * During the fiscal year we had a high number of annual membership fees and donations totalling $980 ($670 from 67 memberships and $230 in donations)
 * The primary expenses related to $696 for independent water testing at various locations around the lake, and $740 for purchase of additional yellow buoys and heavier anchors to identify areas with a high concentration of Milfoil plant growth and to prevent motor boats from going through this part of the lake. (The $740 was payable at June 30th from the balance noted above).
 
-Move to accept Treasurer’s report: 
+Move to accept Treasurer’s report:
 
-Seconded by: 
+Seconded by:
 
 ### Your membership fees support the following:
 
@@ -69,27 +69,27 @@ Seconded by:
 
 * Thank you to Carole Doré for her continued volunteer work on water testing. Water testing samples were collected August 10th. Samples from Usher and another sample from Location 6 near Des Generation were collected August 26th.  
 * The annual [Water testing report](/water/qualityreports/) is updated with detailed test results.  Brief summary here:
-* At Lac Notre Dame: Phosphorus and nitrogen levels are higher than usual, due to all the heavy rain this year running into the lake. These levels could mean we'll have heavier milfoil next year, as these nutrients feed the weeds. Water clarity is also reduced. Preventing erosion & septic maintenance should be a priority - lake members should naturalize their shore lines to hold the soil and prevent erosion from boat wakes. On a more positive note, E-Coli levels were better this year, with only 1 location above the target level. 
+* At Lac Notre Dame: Phosphorus and nitrogen levels are higher than usual, due to all the heavy rain this year running into the lake. These levels could mean we'll have heavier milfoil next year, as these nutrients feed the weeds. Water clarity is also reduced. Preventing erosion & septic maintenance should be a priority - lake members should naturalize their shore lines to hold the soil and prevent erosion from boat wakes. On a more positive note, E-Coli levels were better this year, with only 1 location above the target level.
 * At Usher: High nitrogen and phosphorus levels as well at Usher, and e-Coli levels higher than target levels as usual, although not as high as previous years.
 
 ## Water level report
 
 * In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels tend to reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination).
 * There are now 2 beaver lodges with beavers damming at the outlet, with resulting fluctuating water levels whenever there were heavy rains and/or parts of the dam were removed. In mid-August 2021, they are higher than in mid-August 2018 and 2019.
-* We met with one of the property owners at the outlet, and discussed his long-time beaver management work, and new constraints. We agreed to help with the process of managing the dam (not removin, managing) rather than attempting to eradicate the beavers, since they always return. 2 volunteers have stepped forward, so we have passed those names on to him so they can work with him in partially removing the dam on a periodic basis. 
+* We met with one of the property owners at the outlet, and discussed his long-time beaver management work, and new constraints. We agreed to help with the process of managing the dam (not removin, managing) rather than attempting to eradicate the beavers, since they always return. 2 volunteers have stepped forward, so we have passed those names on to him so they can work with him in partially removing the dam on a periodic basis.
 * Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail here: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing)
 
 ## Board report on program that had been planned for 2019-2021
 
-* Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer. 
+* Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer.
 * Blue Green Algae Plan: (still in progress)
 * Additional funding: a letter was sent to the municipality requesting funding similar to that received by other lake associations for environmental work. We expect to receive a cheque for $400 although it has not arrived yet.
 * Water level strategy is in progress - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
 * Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
 
-Move to accept the board and water testing report: Robert Boucher
+Move to accept the board and water testing report:
 
-Seconded: André François Giroux
+Seconded:
 
 ## Current board and election of new members
 
@@ -104,11 +104,9 @@ The Board meets 3-4x times per year plus the AGM.
 * Erin Jamison (Usher Lake representative)  
 * Marie Maisonneuve, member
 
-Any changes? Vote count 
+Any changes? Vote count
 
 ## Members open issues
-
-
 
 ## Proposed Association program for 2021-2021
 
@@ -117,12 +115,12 @@ Any changes? Vote count
 * The board will develop and agree on a water level strategy - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
 * Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
 
-Moved by Lisa Fast
+Moved by
 
-Seconded by Marie Maisonneuve
+Seconded by
 
-## Move to adjourn at 11:26 am
+## Move to adjourn at 1:26 pm
 
-Moved by Lisa Fast
+Moved by
 
-Seconded by Marie Maisonneuve
+Seconded by

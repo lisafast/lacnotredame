@@ -1,7 +1,8 @@
-.DS_Store
+**/.DS_Store
 /build
 /.build
 /.swiftpm
 /*.xcodeproj
 .publish
-Output/
+/Output
+.nova/Configuration.json
