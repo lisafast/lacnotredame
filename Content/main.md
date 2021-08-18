@@ -10,19 +10,22 @@ lastmod: 2021-03-22T13:10:52-05:00
 
 ## 2021 annual meeting will be August 21st, 10:00 am on Zoom
 
-* Agenda with board reports [2021 Annual General Meeting Agenda](/about/2021boardreport/)
+* [2021 Annual General Meeting Agenda](/about/2021boardreport/)
   
-* Action plans for the year, discussions and board elections: [2020 Annual General Meeting Notes](/about/2020boardreport/)
+* [2020 Annual General Meeting Notes](/about/2020boardreport/)
 
-## Blue-green algae appearance - Fall 2020
+## Blue-green algae warning
 
-In early November, a slick of Blue-green algae was spotten in the island bay (near Ch. Corbei). Cases like this sometimes happen in the late fall for the relatively short period of time due to the cold temperature driving causing the bacteria to float to the surface and collect into clusters. Our assisting biologist Paul Hamilton identified it under the microscope provided this advice:
+In early November 2020, a slick of Blue-green algae (cyanobacteria) was found in the island bay (near Ch. Corbei). Cases like this sometimes happen in the late fall. The cold temperatures cause the bacteria to float to the surface and collect into clusters. Our assisting biologist Paul Hamilton identified it under the microscope and advises us:
 
-* If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. Take a photo, and collect a sample in a clean jar (with gloves or wash hands well afterwards). Email the photo to info@lacnotredame.org and we will arrange to drop it off or get it picked up so I can identify it under the microscope
+* If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. If it is near your drinking water intake, stop drinking the water. Don't swim or fish. 
+* Take a photo of the algae in the water, and collect a sample in a clean jar (with gloves or wash hands well afterwards). 
+* Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water, but blue-green will float to the top. If the algae forms into a layer at the surface, it is likely to be blue-green. 
+* If it floated to the top, email the photo of the algae with a note about the location,  and a photo of the jar to Lisa at info@lacnotredame.org and we will arrange to drop it off or get it picked up so I can identify it under the microscope. I will then send an email bulletin to lake association members.
 
-* This is a warning - we must naturalize the shoreline, prevent erosion from boat wakes,  and maintain our septic systems well to keep our lake healthier.  
+* Fall 2020 was a warning - we must naturalize the shoreline, prevent erosion from boat wakes,  and maintain our septic systems well to keep our lake healthier.  
 
-Learn more about the health issues here: [https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/](https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/) or [Français](https://www.quebec.ca/sante/conseils-et-prevention/sante-et-environnement/algues-bleu-vert/)
+Learn more: [https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/](https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/) or [Français](https://www.quebec.ca/sante/conseils-et-prevention/sante-et-environnement/algues-bleu-vert/)
 
 ## [Water testing results](/water/qualityreports/)
 
@@ -30,11 +33,11 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 10 ans. Dites-lui merci quand vous la verrez!
 
-***2021:***  Water testing is planned for early August as usual
+***2021:***  Water testing at Lac Notre Dame and Usher took place in early August.
 
-* [2020 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+* [2021 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
-* Association membership fees fund the water testing.
+* Association membership fees and donations fund the water testing.
 
 ## [Protect the clean water we enjoy](/water/keepclean/)
 
@@ -44,7 +47,7 @@ Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - ver
 
 * [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests.
 
-## Eurasian Milfoil - keep your boats out of the Zombie Weed
+## [Eurasian Milfoil](/water/lnd-milfoil/) - keep your boats out of the Zombie Weed
 
 Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. It's a Zombie Weed: each tiny piece broken off by waves or boats can turn into a new plant. Avoid areas marked with yellow buoys that mark milfoil close to the surface.
 
@@ -72,9 +75,9 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 * See [About the  Association](/about/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership to fund water testing and water quality
-* Renew for 2021 after July 1: e-transfer $10 to info@lacnotredame.org  password: water21
+* Renew for 2021 after July 1: e-transfer $10 and any donation to info@lacnotredame.org - question: What is the lake word -  answer: water21
 * Joining? Email info@lacnotredame.org and we'll get you onto the email list and arrange your payment
-* No cheques please. To pay by cash to a board member or volunteer collector and they'll e-transfer for you.
+* No cheques please. To pay by cash, get it to a board member or volunteer collector and they'll e-transfer for you.
 * Members will receive 2-3 emails per year from association@lacnotredame.org - to get the emails, join us, or if you already joined, check your junk mail/spam to make sure the email didn't end up there.
   
 The lake dragon on Chemin du Domaines

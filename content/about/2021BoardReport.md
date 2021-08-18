@@ -76,16 +76,16 @@ Seconded by:
 
 * In 2019, the board agreed to develop a better understanding of the changing water levels and the interaction with milfoil growth (high water levels tend to reduce milfoil) and water quality (high water can cause erosion & nutrient input, and risks septic contamination).
 * There are now 2 beaver lodges with beavers damming at the outlet, with resulting fluctuating water levels whenever there were heavy rains and/or parts of the dam were removed. In mid-August 2021, they are higher than in mid-August 2018 and 2019.
-* We met with one of the property owners at the outlet, and discussed his long-time beaver management work, and new constraints. We agreed to help with the process of managing the dam (not removin, managing) rather than attempting to eradicate the beavers, since they always return. 2 volunteers have stepped forward, so we have passed those names on to him so they can work with him in partially removing the dam on a periodic basis.
+* We met with one of the property owners at the outlet, and discussed his long-time beaver management work, and new constraints. We agreed to help with the process of managing the dam (not removing - managing) rather than attempting to eradicate the beavers, since they always return. 2 volunteers have stepped forward, so we have passed those names on to him so they can work with him in partially removing the dam on a periodic basis.
 * Lisa began tracking water levels in photographs, understanding historical levels and capturing levels in greater detail here: [Water level report](https://docs.google.com/presentation/d/1G-21C_dnWKis5s0IH6O8lTlRtHkBAFrfbBYEbdw8lVA/edit?usp=sharing)
 
 ## Board report on program that had been planned for 2019-2021
 
-* Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer.
-* Blue Green Algae Plan: (still in progress)
+* Plan for replacement buoys: Brian Cook arranged for the purchase and placement of 40 new yellow buoys this summer. There are areas that may need more, and we plan to purchase new/more signs. Boats are clearly cutting through the weeds, as many cuttings are floating in the water. 
+* Blue Green Algae Plan: monitoring is underway - several people have sent photos and jar tests were performed. It turns out there is a LOT of common green algae this year due to the rain. Members are asked to watch and contact Lisa at info@lacnotredame.org if they see a blue or green slick on the surface.
 * Additional funding: a letter was sent to the municipality requesting funding similar to that received by other lake associations for environmental work. We expect to receive a cheque for $400 although it has not arrived yet.
-* Water level strategy is in progress - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
-* Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
+
+* Boater lake education action plan - sorry, we are behind on this. Don did send a proposed pamphlet, but Lisa hasn't made it into a hand-out and put a copy on line. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
 
 Move to accept the board and water testing report:
 
@@ -110,16 +110,15 @@ Any changes? Vote count
 
 ## Proposed Association program for 2021-2021
 
-* Plan for replacement buoys. 2 of the flagged buoys that identify why the buoys are there were lost in 2018 - we should plan for replacements. Carolle Peras also suggested that more buoys should be added to protect other areas. Carolle has offered to help with applying for a grant over this winter if one is needed.
-* Lisa added that with the growth in paid members this year, we may be able to access additional funding from the municipality that is specifically for lake associations and is based on the number of members.
-* The board will develop and agree on a water level strategy - adopt some indicators/signals, find out what we can do about beavers on private property at the outlet. Marcel H. reported that beavers are active in that area, although as of Sept 7, water levels seem to be staying at the same level as mid-August. John C. suggested perhaps we can install a pipe under the beaver dam with beaver baffles like the NCC does. Don H. added that pipes like that can work but need regular maintenance. This will require significant research and discussions with the property owner and municipality if we were to move forward. So lots of work to do on this issue.  
-* Boater lake education action plan - we agreed to focus this year on educating boat owners about their role in maintaining a healthy enjoyable lake. Members suggested reduced wake zones, speed limits and avoidance of the buoys.
+* Blue-green algae monitoring
+* More milfoil buoys and strategy for placement - signs
+* Boater education? 
 
 Moved by
 
 Seconded by
 
-## Move to adjourn at 1:26 pm
+## Move to adjourn 
 
 Moved by
 
