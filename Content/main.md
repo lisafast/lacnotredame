@@ -18,9 +18,9 @@ lastmod: 2021-03-22T13:10:52-05:00
 
 In early November 2020, a slick of Blue-green algae (cyanobacteria) was found in the island bay (near Ch. Corbei). Cases like this sometimes happen in the late fall. The cold temperatures cause the bacteria to float to the surface and collect into clusters. Our assisting biologist Paul Hamilton identified it under the microscope and advises us:
 
-* If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. If it is near your drinking water intake, stop drinking the water. Don't swim or fish. 
-* Take a photo of the algae in the water, and collect a sample in a clean jar (with gloves or wash hands well afterwards). 
-* Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water, but blue-green will float to the top. If the algae forms into a layer at the surface, it is likely to be blue-green. 
+* If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. If it is near your drinking water intake, stop drinking the water. Don't swim or fish.
+* Take a photo of the algae in the water, and collect a sample in a clean jar (with gloves or wash hands well afterwards).
+* Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water, but blue-green will float to the top. If the algae forms into a layer at the surface, it is likely to be blue-green.
 * If it floated to the top, email the photo of the algae with a note about the location,  and a photo of the jar to Lisa at info@lacnotredame.org and we will arrange to drop it off or get it picked up so I can identify it under the microscope. I will then send an email bulletin to lake association members.
 
 * Fall 2020 was a warning - we must naturalize the shoreline, prevent erosion from boat wakes,  and maintain our septic systems well to keep our lake healthier.  
