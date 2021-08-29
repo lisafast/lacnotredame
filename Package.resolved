@@ -11,6 +11,24 @@
         }
       },
       {
+        "package": "CompressPublishPlugin",
+        "repositoryURL": "https://github.com/vation-ca/compresspublishplugin",
+        "state": {
+          "branch": null,
+          "revision": "dcc2e96635b4fcafafe2c65c1a4d36ee7cda5476",
+          "version": "0.6.0"
+        }
+      },
+      {
+        "package": "CustomPagesPublishPlugin",
+        "repositoryURL": "https://github.com/vation-ca/custompagespublishplugin",
+        "state": {
+          "branch": null,
+          "revision": "c2744a5f41f78293653f51551098eb6214e9c2e9",
+          "version": "0.1.1"
+        }
+      },
+      {
         "package": "Files",
         "repositoryURL": "https://github.com/johnsundell/files.git",
         "state": {

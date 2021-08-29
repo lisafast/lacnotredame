@@ -2,6 +2,8 @@ import Foundation
 import Plot
 import Publish
 import Files
+import CompressPublishPlugin
+import CustomPagesPublishPlugin
 
 // This type acts as the configuration for your website.
 public struct LacnotredameSite: Website {
@@ -26,6 +28,7 @@ public struct LacnotredameSite: Website {
     public var imagePath: Path? { nil }
     public var favicon: Favicon? { Favicon(path: "favicon.ico", type: "image/x-icon") }
 }
+pathsToMove[Path("404/index.html")] = Path("404.html")
 
 let thisFile = try File(path: "\(#file)").parent?.parent
 var xCodepath: String = thisFile!.path
@@ -66,35 +69,37 @@ try LacnotredameSite().publish(
     //                config: config
     //            )
     //        },
-    .moveWebsitePages(paths: [("404","404.html")]),
-    .generateSiteMap(excluding: ["main","404"], indentedBy: nil),
+    .installPlugin(.moveWebsitePages),
+
+//    .moveWebsitePages(paths: [("404","404.html")]),
+    .generateURISiteMap(excluding: ["main","404"], indentedBy: nil),
     .if(true, .installPlugin(.compressFiles)),
     
     //        .unwrap(nil, PublishingStep.deploy)
   ],
   file: #file
 )
-extension PublishingStep where Site == LacnotredameSite {
-    // this is not ideal but if the pages do not contain any links that will break, it is of some use
-    static func moveWebsitePages(paths: [(String, String)]) -> Self {
-        .step(named: "Move some pages") { context in
-            let outputFol: Folder = try context.outputFolder(at: "")
-//            let outputLoc = outputFol.path
-
-            for (fromPath, toPath) in paths {
-                let origFolder :Folder = try outputFol.subfolder(at: fromPath)
-                let originFileLoc: File = try origFolder.file(named: "index.html")
-                try originFileLoc.rename(to: toPath, keepExtension: true)
-//                let targetFile = toPath
-                try originFileLoc.move(to: outputFol)
-                if origFolder.isEmpty(includingHidden: true) {
-                    try origFolder.delete()
-                }
-                try originFileLoc.rename(to: fromPath, keepExtension: true)
-                }
-        }
-    }
-}
+//extension PublishingStep where Site == LacnotredameSite {
+//    // this is not ideal but if the pages do not contain any links that will break, it is of some use
+//    static func moveWebsitePages(paths: [(String, String)]) -> Self {
+//        .step(named: "Move some pages") { context in
+//            let outputFol: Folder = try context.outputFolder(at: "")
+////            let outputLoc = outputFol.path
+//
+//            for (fromPath, toPath) in paths {
+//                let origFolder :Folder = try outputFol.subfolder(at: fromPath)
+//                let originFileLoc: File = try origFolder.file(named: "index.html")
+//                try originFileLoc.rename(to: toPath, keepExtension: true)
+////                let targetFile = toPath
+//                try originFileLoc.move(to: outputFol)
+//                if origFolder.isEmpty(includingHidden: true) {
+//                    try origFolder.delete()
+//                }
+//                try originFileLoc.rename(to: fromPath, keepExtension: true)
+//                }
+//        }
+//    }
+//}
 
 extension PublishingStep where Site == LacnotredameSite {
     static func add404Page() -> Self {
