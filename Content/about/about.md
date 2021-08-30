@@ -26,7 +26,7 @@ People from around the lakes attend the Annual General Meeting (AGM) to discuss 
 
 The mission of the Association is to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all.
 
-* View the [Association listing in the Registraire des entreprise Québec](https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=add8a161-ea7f-44f2-af3d-fa262962b915&T1.CodeService=S00436)
+* View the [Association listing in the Registraire des entreprise Québec](https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageEtatRens.aspx?T1.JetonStatic=5e308d10-4a8c-4d69-8272-9dffce50b9fb&T1.CodeService=S00436)
 
 ***
 

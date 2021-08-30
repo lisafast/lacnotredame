@@ -81,7 +81,7 @@ Seconded by Danielle Lévesque
 
 ## Proposed Association program for 2018
 
-* Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- [Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network](http://www.mddelcc.gouv.qc.ca/eau/rsvl/index.htm)
+* Develop a position and understand full costs, responsibilities and benefits of joining Quebec's- [Réseau de surveillance volontaire des lacs (RSVL) - Voluntary Lake Monitoring Network](https://www.environnement.gouv.qc.ca/eau/rsvl/index.htm)
 * Decide whether to maintain Facebook page now that new web site is up
 * Decide whether to buy a Lake Association cutter and rake that people could borrow for their property or to publish a list of who has cutters they are willing to share
 * Propose more measures for Canada Geese control - perhaps use the web site to log their location and measures that are working

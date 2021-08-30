@@ -171,7 +171,9 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
                  .head(for: page, on: context.site),
                  .body(
                      .header(for: context, selectedSection: nil),
-                     .container(.contentBody("<p>Hi.<p>")),
+                     .container(
+                      .id("cont"),
+                      .contentBody("<p>Hi.<p>")),
                      .footer(for: context.site)
                      )
                  )
@@ -182,7 +184,9 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
             .head(for: page, on: context.site),
             .body(
                 .header(for: context, selectedSection: nil),
-                .container(.contentBody(page.body)),
+                .container(
+                  .id("cont"),
+                  .contentBody(page.body)),
                 .footer(for: context.site)
                 )
             )
@@ -198,6 +202,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
             .body(
                 .header(for: context, selectedSection: nil),
                 .container(
+                  .id("cont"),
                     .h1("Browse all tags"),
                     .ul(
                         .class("all-tags"),
@@ -225,6 +230,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
             .body(
                 .header(for: context, selectedSection: nil),
                 .container(
+                  .id("cont"),
                     .h1(
                         "Tagged with ",
                         .span(.class("tag"), .text(page.tag.string))
