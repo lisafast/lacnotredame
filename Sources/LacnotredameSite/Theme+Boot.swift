@@ -26,15 +26,15 @@ public extension Node where Context == HTML.DocumentContext {
     /// Add an HTML `<head>` tag within the current context, based
     /// on inferred information from the current location and `Website`
     /// implementation.
-    /// - parameter location: The location to generate a `<head>` tag for.
-    /// - parameter site: The website on which the location is located.
-    /// - parameter titleSeparator: Any string to use to separate the location's
+    /// - Parameter location: The location to generate a `<head>` tag for.
+    /// - Parameter site: The website on which the location is located.
+    /// - Parameter titleSeparator: Any string to use to separate the location's
     ///   title from the name of the website. Default: `" | "`.
-    /// - parameter stylesheetPaths: The paths to any stylesheets to add to
+    /// - Parameter stylesheetPaths: The paths to any stylesheets to add to
     ///   the resulting HTML page. Default: `styles.css`.
-    /// - parameter rssFeedPath: The path to any RSS feed to associate with the
+    /// - Parameter rssFeedPath: The path to any RSS feed to associate with the
     ///   resulting HTML page. Default: `feed.rss`.
-    /// - parameter rssFeedTitle: An optional title for the page's RSS feed.
+    /// - Parameter rssFeedTitle: An optional title for the page's RSS feed.
     static func head<T: Website>(
         for location: Location,
         on site: T,
