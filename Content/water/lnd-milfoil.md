@@ -5,7 +5,7 @@ date: 2017-12-29T13:10:52-05:00
 ---
 Originating in Europe, Eurasian watermilfoil is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface.  According to Environment Canada, “this plant not only pushes out indigenous plant species, but may also be harmful to fish populations by crowding out their spawning grounds.”
 
-### Take steps to reduce weed levels
+## Take steps to reduce weed levels
 
 1. Each broken-off bit of weed can turn into a new plant. Avoid areas of the lake infested with the plant, particularly with motorized boats. The worst mats are marked by Association buoys in bad summers - stay out of those areas with any kind of boat at all.
 

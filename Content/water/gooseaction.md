@@ -3,7 +3,7 @@ title: Canada Goose Action Plan
 description: shoreline naturalization and goose barriers
 date: 2019-08-23T13:10:52-05:00
 ---
-## GOOSE ACTION PLAN
+## Goose Action Plan
 
 In 2018, a flock of over 20 geese established themselves on the lake. In 2019 the flock is smaller – 4 adults and 5 goslings. An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. We’ve created an action plan for the lake to minimize the damage.
 Some lake owners with lawns near the water are having some success at keeping the geese away from their favourite food: the grass.  Take these steps to keep the geese off your property.

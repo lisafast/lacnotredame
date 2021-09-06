@@ -290,7 +290,7 @@ private extension Node where Context == HTML.BodyContext {
                         ),
                         .div(
                             .class("d-inline-flex px-2 order-1 order-md-1"),
-                            .p(
+                            .div(
                                 .class("h4 text-left"),
                                 .text(context.site.name)
                             )
@@ -375,7 +375,6 @@ private extension Node where Context == HTML.BodyContext {
 //                    }
                     .action("/do/search"),
                     .method(.get),
-                    .fieldset(
                         .div(
                             .class("row justify-content-start"),
                             .div(
@@ -386,7 +385,8 @@ private extension Node where Context == HTML.BodyContext {
                                     .autofocus(false),
                                     .name("q"),
                                     .placeholder("search lacnotredame.org"),
-                                    .type(HTMLInputType.text)
+                                    .type(HTMLInputType.text),
+                                      .title("search input text here")
                                     )
                                 
                                 ),
@@ -399,7 +399,7 @@ private extension Node where Context == HTML.BodyContext {
                             )
                             )
                         )
-                    )
+                    
                 )
             ),
             .p(
