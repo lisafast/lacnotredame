@@ -12,8 +12,7 @@ import Plot
 import Ink
 
 public extension Theme {
-    /// The default "Foundation" theme that Publish ships with, a very
-    /// basic theme mostly implemented for demonstration purposes.
+    /// A bootstrap theme based on Bootstrap 5
     static var bootstrap: Self {
         Theme(
             htmlFactory: LNDFactory(),
