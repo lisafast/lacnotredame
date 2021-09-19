@@ -8,11 +8,11 @@ lastmod: 2021-03-22T13:10:52-05:00
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2021 annual meeting will be August 21st, 10:00 am on Zoom
+## 2021 annual meeting (held August 21, 2021)
 
-* [2021 Annual General Meeting Agenda](/about/2021boardreport/)
+* [2021 Annual General Meeting Notes](/about/2021BoardReport/)
   
-* [2020 Annual General Meeting Notes](/about/2020boardreport/)
+* [2020 Annual General Meeting Notes](/about/2020BoardReport/)
 
 ## Blue-green algae warning
 
@@ -31,7 +31,7 @@ Learn more: [https://www.quebec.ca/en/health/advice-and-prevention/health-and-en
 
 The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 15 years. Say Thank You when you see her!
 
-L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 10 ans. Dites-lui merci quand vous la verrez!
+L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 15 ans. Dites-lui merci quand vous la verrez!
 
 ***2021:***  Water testing at Lac Notre Dame and Usher took place in early August.
 

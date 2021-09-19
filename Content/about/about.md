@@ -32,6 +32,7 @@ The mission of the Association is to promote, protect and preserve the quality o
 
 Approved minutes for each year act as a formal record of the meeting, and include the Treasurer's annual report on the Association's finances.
 
+* [2021 Annual meeting minutes](../2021BoardReport/)
 * [2020 Annual meeting minutes](../2020BoardReport/)
 * [2019 Annual meeting minutes](../2019BoardReport/)
 * [2018 Annual meeting minutes](../2018BoardReport/)
