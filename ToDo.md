@@ -15,6 +15,9 @@
 - icons
 
 ## build and deploy
+- cleanup source format
+ /Users/hume/Developer/swift-format/.build/debug/swift-format format -i -r /Users/hume/Developer/VationSite/Sources
+
 
 - site deploy
     - https://hackernoon.com/deploy-website-to-remote-server-using-git-da6048805637

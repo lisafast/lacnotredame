@@ -1,14 +1,14 @@
+import CompressPublishPlugin
+import CustomPagesPublishPlugin
+import Files
 import Foundation
 import Plot
 import Publish
-import Files
-import CompressPublishPlugin
-import CustomPagesPublishPlugin
 import SiteCheckPublishPlugin
 
 // This type acts as the configuration for your website.
 public struct LacnotredameSite: Website {
-    public enum SectionID: String, WebsiteSectionID {
+  public enum SectionID: String, WebsiteSectionID {
     // Add the sections that you want your website to contain here:
 
     case about
@@ -16,18 +16,18 @@ public struct LacnotredameSite: Website {
     case water
   }
 
-    public struct ItemMetadata: WebsiteItemMetadata {
+  public struct ItemMetadata: WebsiteItemMetadata {
     // Add any site-specific metadata that you want to use here.
   }
 
   // Update these properties to configure your website:
-    public var url = URL(string: "https://lacnotredame.org")!
-    public var name = "Lac Notre-Dame and Usher Lake Association"
-    public var description =
+  public var url = URL(string: "https://lacnotredame.org")!
+  public var name = "Lac Notre-Dame and Usher Lake Association"
+  public var description =
     "Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada"
-    public var language: Language { .english }
-    public var imagePath: Path? { nil }
-    public var favicon: Favicon? { Favicon(path: "favicon.ico", type: "image/x-icon") }
+  public var language: Language { .english }
+  public var imagePath: Path? { nil }
+  public var favicon: Favicon? { Favicon(path: "favicon.ico", type: "image/x-icon") }
 }
 pathsToMove[Path("404/index.html")] = Path("404.html")
 allowedMailAddresses = [
@@ -65,13 +65,13 @@ if #available(macOS 10.11, *) {
       //                config: config
       //            )
       //        },
-        .installPlugin(.moveWebsitePages),
-      
+      .installPlugin(.moveWebsitePages),
+
       //    .moveWebsitePages(paths: [("404","404.html")]),
-      .generateURISiteMap(excluding: ["main","404"], indentedBy: nil),
+      .generateURISiteMap(excluding: ["main", "404"], indentedBy: nil),
       .if(true, .installPlugin(.pageScan)),
       .if(true, .installPlugin(.compressFiles)),
-      
+
       //        .unwrap(nil, PublishingStep.deploy)
     ],
     file: #file
@@ -93,14 +93,15 @@ if #available(macOS 10.12, *) {
 //  python3 -m http.server
 
 extension PublishingStep where Site == LacnotredameSite {
-    static func add404Page() -> Self {
-        .step(named: "Create 404 page") { ctx in
-            let ct = Content(title: "Page not found",
-                             description: "Use these links to Sections"
+  static func add404Page() -> Self {
+    .step(named: "Create 404 page") { ctx in
+      let ct = Content(
+        title: "Page not found",
+        description: "Use these links to Sections"
 
-            )
-            let pg = Page(path: "404", content: ct)
-            ctx.addPage(pg)
-        }
+      )
+      let pg = Page(path: "404", content: ct)
+      ctx.addPage(pg)
     }
+  }
 }
