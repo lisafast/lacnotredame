@@ -25,6 +25,8 @@
 
 ## custom 404 page
 
+- add a favicon.ico
+
 ## Misc
 
 - run owasp zap
