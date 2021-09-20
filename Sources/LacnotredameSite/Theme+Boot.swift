@@ -12,6 +12,15 @@ import CustomPagesPublishPlugin
 import SiteCheckPublishPlugin
 import Logging
 
+enum HTMLFactoryProduct {
+  case mainIndex
+  case sectionIndex
+  case item
+  case page
+  case tagList
+  case tagDetailsIndex
+}
+
 extension Theme  where Site == LacnotredameSite{
   /// The default "Foundation" theme that Publish ships with, a very
   /// basic theme mostly implemented for demonstration purposes.
@@ -105,18 +114,26 @@ private struct LNDFactory: HTMLFactory {
     context: PublishingContext<LacnotredameSite>
   ) throws -> HTML {
 
-    return HTML(
+    HTML(
       .lang(context.site.language),
-      .head(for: index, on: context.site),
+      .head(for: index, on: context, pagetype: .mainIndex),
       .body(
         .header(for: context, selectedSection: nil),
         .container(
           .id("cont"),
-          .h1(
-            .class("visually-hidden-focusable"),
-            .text((context.pages["main"]?.content.description)!)
+          .h1(.text(index.title)),
+          .p(
+            .class("description"),
+            .text(context.site.description)
           ),
-          .contentBody(context.pages["main"]!.content.body)
+          .h2("Latest content"),
+          .itemList(
+            for: context.allItems(
+              sortedBy: \.date,
+              order: .descending
+            ),
+            on: context.site
+          )
         ),
         .footer(for: context.site)
       )

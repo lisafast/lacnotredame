@@ -14,6 +14,7 @@ public struct LacnotredameSite: Website {
     case about
     case map
     case water
+    case main
   }
 
   public struct ItemMetadata: WebsiteItemMetadata {
@@ -39,7 +40,7 @@ public struct LacnotredameSite: Website {
   public var imagePath: Path? { nil }
   public var favicon: Favicon? { Favicon(path: "favicon.ico", type: "image/x-icon") }
 }
-pathsToMove[Path("404/index.html")] = Path("404.html")
+//pathsToMove[Path("404/index.html")] = Path("404.html")
 allowedMailAddresses = [
   "mailto:gdpr@vation.ca",
   "mailto:support@vation.ca",
@@ -65,7 +66,6 @@ if #available(macOS 10.11, *) {
       },
       .if(true, .installPlugin(.markdownLint)),
       .addMarkdownFiles(),
-      //    .add404Page(),
       .sortItems(by: \.date, order: .descending),
       //        .group(additionalSteps),
       .generateHTML(withTheme: .bootstrap, indentation: nil),
@@ -76,9 +76,7 @@ if #available(macOS 10.11, *) {
       //            )
       //        },
       .installPlugin(.moveWebsitePages),
-
-      //    .moveWebsitePages(paths: [("404","404.html")]),
-      .generateURISiteMap(excluding: ["main", "404"], indentedBy: nil),
+      .generateURISiteMap(excluding: ["main"], indentedBy: nil),
       .if(true, .installPlugin(.pageScan)),
       .if(true, .installPlugin(.compressFiles)),
 
@@ -102,16 +100,3 @@ if #available(macOS 10.12, *) {
 // python -m SimpleHTTPServer 8000
 //  python3 -m http.server
 
-extension PublishingStep where Site == LacnotredameSite {
-  static func add404Page() -> Self {
-    .step(named: "Create 404 page") { ctx in
-      let ct = Content(
-        title: "Page not found",
-        description: "Use these links to Sections"
-
-      )
-      let pg = Page(path: "404", content: ct)
-      ctx.addPage(pg)
-    }
-  }
-}
