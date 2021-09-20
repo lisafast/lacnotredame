@@ -18,6 +18,16 @@ public struct LacnotredameSite: Website {
 
   public struct ItemMetadata: WebsiteItemMetadata {
     // Add any site-specific metadata that you want to use here.
+    var title: String?
+    var type: String?
+    var author: String?
+    var keywords: [String]?
+    var basepath: String?
+    var date: Date?
+    var dateModified: Date?
+    var wordCount: Int?  // future when long posts are an issue
+    var suppresstitle: Bool? = false
+    var draft: Bool? = false
   }
 
   // Update these properties to configure your website:

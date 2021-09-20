@@ -17,6 +17,7 @@
 ## build and deploy
 - cleanup source format
  /Users/hume/Developer/swift-format/.build/debug/swift-format format -i -r /Users/hume/Developer/VationSite/Sources
+- move swift-format to a global config for all repos to use.
 
 
 - site deploy

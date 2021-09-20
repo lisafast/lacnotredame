@@ -2,6 +2,7 @@
 title: Lac Notre-Dame and Usher Lake Association
 description: About Lac Notre-Dame and Usher Lake Association
 date: 2021-03-22T13:10:52-05:00
+basepath:about/index.html
 ---
 ## Join or renew your membership
 

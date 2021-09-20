@@ -3,6 +3,7 @@ title: Homepage
 description: Homepage of the Lac Notre-Dame and Usher Lake Association in La Pêche Québec Canada
 date: 2019-08-01T13:10:52-05:00
 lastmod: 2021-03-22T13:10:52-05:00
+basepath:index.html
 ---
 <div>
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />

@@ -8,8 +8,11 @@
 import Ink
 import Plot
 import Publish
+import CustomPagesPublishPlugin
+import SiteCheckPublishPlugin
+import Logging
 
-extension Theme {
+extension Theme  where Site == LacnotredameSite{
   /// The default "Foundation" theme that Publish ships with, a very
   /// basic theme mostly implemented for demonstration purposes.
   public static var bootstrap: Self {
@@ -96,10 +99,10 @@ extension Node where Context == HTML.DocumentContext {
   }
 }
 
-private struct LNDFactory<Site: Website>: HTMLFactory {
+private struct LNDFactory: HTMLFactory {
   public func makeIndexHTML(
     for index: Index,
-    context: PublishingContext<Site>
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML {
 
     return HTML(
@@ -122,7 +125,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
 
   public func makeSectionHTML(
     for section: Section<Site>,
-    context: PublishingContext<Site>
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML {
     HTML(
       .lang(context.site.language),
@@ -140,21 +143,41 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
   }
 
   public func makeItemHTML(
-    for item: Item<Site>,
-    context: PublishingContext<Site>
+    for item: Item<LacnotredameSite>,
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML {
-    HTML(
+    // a convenient place to collect since all items are generated here.
+    if let newlocation = item.metadata.basepath {
+      if !item.tags.isEmpty {
+        logger.warning("‼️ Warning: Tags are now inconsistent on file \(item.path)")
+      }
+      pathsToMove[item.path.appendingComponent("index.html")] = Path(newlocation)
+    }
+//    let meta = item.metadata.author ?? "vation"
+//    let author = authors[meta]!
+    var showtitle = true
+    if item.metadata.suppresstitle != nil {
+      showtitle = !item.metadata.suppresstitle!
+    }
+    return HTML(
       .lang(context.site.language),
       .head(for: item, on: context.site),
       .body(
-        .class("item-page"),
+//        .class("item-page"),
         .header(for: context, selectedSection: item.sectionID),
-        .main(
-
-          .container(
+        .container(
+          .article(
             .id("cont"),
-            .h1(.text(item.title)),
-            .contentBody(item.body)
+            .if(
+              showtitle && item.metadata.title != nil,
+              .group(
+                .h1(.text(item.metadata.title ?? ""))
+              )
+            ),
+            .div(
+              .class("content"),
+              .contentBody(item.body)
+            )
           )
           //                        .span("Tagged with: "),
           //                        .tagList(for: item, on: context.site)
@@ -167,7 +190,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
 
   public func makePageHTML(
     for page: Page,
-    context: PublishingContext<Site>
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML {
     if page.path == "404" {
       return HTML(
@@ -200,7 +223,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
 
   public func makeTagListHTML(
     for page: TagListPage,
-    context: PublishingContext<Site>
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML? {
     HTML(
       .lang(context.site.language),
@@ -230,7 +253,7 @@ private struct LNDFactory<Site: Website>: HTMLFactory {
 
   public func makeTagDetailsHTML(
     for page: TagDetailsPage,
-    context: PublishingContext<Site>
+    context: PublishingContext<LacnotredameSite>
   ) throws -> HTML? {
     HTML(
       .lang(context.site.language),
