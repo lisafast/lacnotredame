@@ -9,32 +9,28 @@ basepath:index.html
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2021 annual meeting (held August 21, 2021)
+## 2021 annual meeting (on Zoom August 21, 2021)
 
-* [2021 Annual General Meeting Notes](/about/2021BoardReport/)
+* [2021 Annual General Meeting Notes,plans & minutes](/about/2021BoardReport/)
   
-* [2020 Annual General Meeting Notes](/about/2020BoardReport/)
 
-## Blue-green algae warning
+## Blue-green algae watch
 
-In early November 2020, a slick of Blue-green algae (cyanobacteria) was found in the island bay (near Ch. Corbei). Cases like this sometimes happen in the late fall. The cold temperatures cause the bacteria to float to the surface and collect into clusters. Our assisting biologist Paul Hamilton identified it under the microscope and advises us:
+Reminder to watch for slicks (only occurrence so far was in small event in November 2020)
 
-* If you can see a blue-green film on the surface of the water, don't touch it, and don't let your pets either. If it is near your drinking water intake, stop drinking the water. Don't swim or fish.
-* Take a photo of the algae in the water, and collect a sample in a clean jar (with gloves or wash hands well afterwards).
-* Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water, but blue-green will float to the top. If the algae forms into a layer at the surface, it is likely to be blue-green.
-* If it floated to the top, email the photo of the algae with a note about the location,  and a photo of the jar to Lisa at info@lacnotredame.org and we will arrange to drop it off or get it picked up so I can identify it under the microscope. I will then send an email bulletin to lake association members.
+* If you can see a blue-green film on the surface of the water, take a photo to send. 
+* Collect a sample in a clean jar (with gloves or wash hands well afterwards).
+* Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water. If the algae floats in a layer at the surface, it is likely to be blue-green.
+* If it does float, email the photo of the algae and its location,  and a photo of the jar to Lisa at info@lacnotredame.org We will arrange to drop it off or get it picked up so I can identify it under the microscope. If it IS blue-green, I will then send an email warning to all lake association members.
 
-* Fall 2020 was a warning - we must naturalize the shoreline, prevent erosion from boat wakes,  and maintain our septic systems well to keep our lake healthier.  
-
-Learn more: [https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/](https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae/) or [Français](https://www.quebec.ca/sante/conseils-et-prevention/sante-et-environnement/algues-bleu-vert/)
 
 ## [Water testing results](/water/qualityreports/)
 
-The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer and Lake Association member Carole Doré has collected samples for testing for over 15 years. Say Thank You when you see her!
+The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli on a regular basis. Volunteer Carole Doré & Rejean Vaillant collect samples for testing every year. Say Thank You when you see them!
 
-L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré collecte des échantillons pour les analyser depuis plus de 15 ans. Dites-lui merci quand vous la verrez!
+L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré et Rejean Vaillant collectes des échantillons pour les analyser depuis plus de 15 ans. Dites-leurs merci quand vous les verrez!
 
-***2021:***  Water testing at Lac Notre Dame and Usher took place in early August.
+***2021:***  Water testing at Lac Notre Dame and Usher took place in early August. High nutrient levels from heavy July rains are a likely cause of increased milfoil in August. 
 
 * [2021 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -46,13 +42,13 @@ Keep our water clean. Share our tip sheet with your new neighbours and renters -
 
 Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-* [View and print tips to keep our lakes clean](/water/keepclean/) for your family and for your guests.
+* [View and print tips to keep our lakes clean - Consultez et imprimez des conseils pour garder nos lacs propres](/water/keepclean/) 
 
-## [Eurasian Milfoil](/water/lnd-milfoil/) - keep your boats out of the Zombie Weed
+## [Eurasian Milfoil](/water/lnd-milfoil/) - yellow buoys mean stay away!
 
-Some years, invasive Eurasian Milfoil forms a dense carpet on the lake's surface, crowding out the indigenous plant species and harming fish. It was brought in on someone's boat or fishing equipment in the 1990's. It's a Zombie Weed: each tiny piece broken off by waves or boats can turn into a new plant. Avoid areas marked with yellow buoys that mark milfoil close to the surface.
+In 2021, after several years of low weed levels, invasive Eurasian Milfoil once again formed a carpet on the lake's surface. New yellow buoys were purchased to mark areas with milfoil close to the surface. Your wake and motors cut up the weed - each cut piece can grow into a new plant. Stay clear of the buoys.
 
-Certaines années, le myriophylle envahissant forme un tapis dense à la surface du lac, évinçant les espèces végétales indigènes et nuisant aux poissons. Il a été introduit sur le bateau ou l'équipement de pêche de quelqu'un dans les années 1990. Chaque petit morceau brisé par les vagues ou les bateaux peut se transformer en une nouvelle plante.
+En 2021, après plusieurs années de faibles niveaux de mauvaises herbes, le myriophylle en épi envahissant a de nouveau formé un tapis à la surface du lac. De nouvelles bouées jaunes ont été achetées pour marquer les zones où le myriophylle est proche de la surface. Votre sillage et vos moteurs coupent l'herbe - chaque morceau coupé peut donner naissance à une nouvelle plante. Restez à l'écart des bouées.
   
 * [Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
@@ -64,7 +60,7 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 ## [Canada Goose Action Plan](/water/gooseaction/)
 
-An adult goose can produce as much as a kilo of poop every day, and those droppings can contaminate our water - and your property. 6 more geese hatched at the lake in 2020, thankfully fewer than in 2018 and 2019.
+A lawn near the shore attracts geese, nests and goose poop. Prevent geese and erosion by naturalizing your shoreline.
 
 * Get prevention ideas for yourself and your neighbours in the [Goose Action Plan](/water/gooseaction/).
 
