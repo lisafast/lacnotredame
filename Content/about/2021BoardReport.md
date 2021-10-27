@@ -25,7 +25,7 @@ Minutes of the [2020 Annual General Meeting](../2020BoardReport/) meeting were a
 
 * Special thanks to Carolle Perras for her volunteer work last year walking around to add many new members to the association.
 
-Moved by:LiSA  Fast
+Moved by:Lisa  Fast
 
 Seconded by: Don Herweyer
 

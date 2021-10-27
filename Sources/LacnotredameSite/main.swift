@@ -40,10 +40,9 @@ public struct LacnotredameSite: Website {
   public var imagePath: Path? { nil }
   public var favicon: Favicon? { Favicon(path: "favicon.ico", type: "image/x-icon") }
 }
-//pathsToMove[Path("404/index.html")] = Path("404.html")
+pathsToMove[Path("main/index.html")] = Path("") // gets rid of index created that is not needed and main folder
 allowedMailAddresses = [
-  "mailto:gdpr@vation.ca",
-  "mailto:support@vation.ca",
+  "mailto:info@lacnotredame.org"
 ]
 
 baseFolder = try File(path: "\(#file)").parent?.parent?.parent

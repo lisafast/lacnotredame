@@ -76,14 +76,15 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
 
-* President Lisa Fast
-* Treasurer Brian Cook
-* Dave Hayward
-* Robert Boucher
-* Don Herweyer
-* Bryan Watkinson
-* Erin Jamison (Usher Lake)
-* Marie Maisonneuve
+* Lisa Fast, President (elected July 2018)
+* Robert Boucher, Vice-president
+* Brian Cook, Treasurer
+* Dave Hayward, member
+* Bryan Watkinson, member (Usher Lake)
+* Don Herweyer, member
+* Erin Jamison, (Usher Lake representative)
+* Marie Maisonneuve, member
+* Graeme Simpson, member
 
 Contact us by email at info@lacnotredame.org
 

@@ -12,7 +12,7 @@ Some lake owners with lawns near the water are having some success at keeping th
 
 * Geese want to escape into the water easily. They’ll be more likely to avoid your property if there are plants and shrubs that are tall enough to prevent them seeing over them.  
 * Naturalization is good for the entire lake ecosystem! Dense, wide plantings are more effective than thin narrow ones, leave some paths for yourself. P
-* Use native shrubs like Dogwood, Bush Honeysuckle, Ninebark, and Buttonbush. The Ottawa RiverKeeper site has more plant suggestions that you could take to a local garden store: [Shoreline Naturalization at OttawaRiverKeeper.ca](https://www.ottawariverkeeper.ca/publications-2/3_ork_shorelinenature_en_nomarks/)
+* Use native shrubs like Dogwood, Bush Honeysuckle, Ninebark, and Buttonbush. The Ottawa RiverKeeper site has more plant suggestions that you could take to a local garden store: [Shoreline Naturalization at OttawaRiverKeeper.ca](https://eadn-wc01-4092020.nxedge.io/cdn/wp-content/uploads/2018/01/3_ORK_ShorelineNature_EN_nomarks.pdf)
 
 ### 2. PUT UP A GOOSE FENCE OR BARRIERS WHILE YOU NATURALIZE YOUR SHORE LINE.
 
