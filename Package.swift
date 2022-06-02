@@ -1,9 +1,10 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.5
 
 import PackageDescription
 
 let package = Package(
     name: "LacnotredameSite",
+    platforms: [.macOS(.v12)], // Temporary until Xcode 13.2 has been released
     products: [
         .executable(
             name: "LacnotredameSite",
@@ -11,13 +12,13 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0"),
-        .package(name: "CompressPublishPlugin", url: "https://github.com/vation-ca/compresspublishplugin", from: "0.6.0"),
-        .package(name: "CustomPagesPublishPlugin", url: "https://github.com/vation-ca/custompagespublishplugin", from: "0.1.0"),
-        .package(name: "SiteCheckPublishPlugin", url: "https://github.com/vation-ca/sitecheckpublishplugin", from: "0.1.0")
+      .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", .branch("swift-concurrency")), //from: "0.7.0"),
+        .package(name: "CompressPublishPlugin", url: "https://github.com/vation-ca/compresspublishplugin", .branch("main")), // from: "0.6.0"),
+        .package(name: "CustomPagesPublishPlugin", url: "https://github.com/vation-ca/custompagespublishplugin", .branch("main")), //  from: "0.1.0"),
+        .package(name: "SiteCheckPublishPlugin", url: "https://github.com/vation-ca/sitecheckpublishplugin", .branch("main")), //  from: "0.1.0")
     ],
     targets: [
-        .target(
+        .executableTarget(
             name: "LacnotredameSite",
             dependencies: ["Publish",
                            "CompressPublishPlugin",
