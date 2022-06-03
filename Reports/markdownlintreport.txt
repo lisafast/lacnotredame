@@ -1,5 +1,0 @@
-main/main.md:16 MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
-main/main.md:21:86 MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]
-main/main.md:26 MD012/no-multiple-blanks Multiple consecutive blank lines [Expected: 1; Actual: 2]
-main/main.md:33:177 MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]
-main/main.md:45:133 MD009/no-trailing-spaces Trailing spaces [Expected: 0 or 2; Actual: 1]

@@ -12,7 +12,7 @@ let package = Package(
         )
     ],
     dependencies: [
-      .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", .branch("swift-concurrency")), //from: "0.7.0"),
+      .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.9.0"),
         .package(name: "CompressPublishPlugin", url: "https://github.com/vation-ca/compresspublishplugin", .branch("main")), // from: "0.6.0"),
         .package(name: "CustomPagesPublishPlugin", url: "https://github.com/vation-ca/custompagespublishplugin", .branch("main")), //  from: "0.1.0"),
         .package(name: "SiteCheckPublishPlugin", url: "https://github.com/vation-ca/sitecheckpublishplugin", .branch("main")), //  from: "0.1.0")

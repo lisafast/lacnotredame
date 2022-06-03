@@ -13,16 +13,14 @@ basepath:index.html
 
 * [2021 Annual General Meeting Notes,plans & minutes](/about/2021BoardReport/)
   
-
 ## Blue-green algae watch
 
 Reminder to watch for slicks (only occurrence so far was in small event in November 2020)
 
-* If you can see a blue-green film on the surface of the water, take a photo to send. 
+* If you can see a blue-green film on the surface of the water, take a photo to send.
 * Collect a sample in a clean jar (with gloves or wash hands well afterwards).
 * Put the jar in the fridge for a few hours. Common green algae will stay mixed with the water. If the algae floats in a layer at the surface, it is likely to be blue-green.
 * If it does float, email the photo of the algae and its location,  and a photo of the jar to Lisa at info@lacnotredame.org We will arrange to drop it off or get it picked up so I can identify it under the microscope. If it IS blue-green, I will then send an email warning to all lake association members.
-
 
 ## [Water testing results](/water/qualityreports/)
 
@@ -30,7 +28,7 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré et Rejean Vaillant collectes des échantillons pour les analyser depuis plus de 15 ans. Dites-leurs merci quand vous les verrez!
 
-***2021:***  Water testing at Lac Notre Dame and Usher took place in early August. High nutrient levels from heavy July rains are a likely cause of increased milfoil in August. 
+***2021:***  Water testing at Lac Notre Dame and Usher took place in early August. High nutrient levels from heavy July rains are a likely cause of increased milfoil in August.
 
 * [2021 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -42,7 +40,7 @@ Keep our water clean. Share our tip sheet with your new neighbours and renters -
 
 Gardez notre eau propre. Partagez la fiche de conseils avec vos locataires - version de la page du cartable disponible.
 
-* [View and print tips to keep our lakes clean - Consultez et imprimez des conseils pour garder nos lacs propres](/water/keepclean/) 
+* [View and print tips to keep our lakes clean - Consultez et imprimez des conseils pour garder nos lacs propres](/water/keepclean/)
 
 ## [Eurasian Milfoil](/water/lnd-milfoil/) - yellow buoys mean stay away!
 
