@@ -21,8 +21,7 @@ Seconded by: Don Herweyer
 
 ## Approval of previous year’s minutes
 
-Minutes of the [2021 Annual General Meeting](../2021BoardReport/) meeting were approved.
-
+Approval of the minutes of the [2021 Annual General Meeting](../2021BoardReport/)
 
 Moved by:Lisa  Fast
 
