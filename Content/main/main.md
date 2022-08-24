@@ -11,8 +11,8 @@ basepath:index.html
 
 ## 2022 annual meeting on Zoom August 27, 2022
 
-* Zoom link was emailed to all members in August - email info@lacnotredame if you need it
-* [Agenda](/about/2022BoardReport.md)
+* Zoom link was emailed to all members in August - email info@lacnotredame.org if you need it
+* [Agenda](/about/2022BoardReport/)
 * [Notes & plans from 2021 Annual General Meeting minutes](/about/2021BoardReport/)
 
 ## [Eurasian Milfoil](/water/lnd-milfoil/) - stay clear of yellow weed buoys
