@@ -13,7 +13,7 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
-By the time of the meeting, 42? members had paid their membership fees. XX members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
+By the time of the meeting, 42 members had paid their membership fees. 13 members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
 
 Move to open the meeting by: Lisa Fast
 
@@ -23,10 +23,9 @@ Seconded by: Don Herweyer
 
 Approval of the minutes of the [2021 Annual General Meeting](../2021BoardReport/)
 
-Moved by:Lisa  Fast
+Moved by:Bryan Watkinson
 
-Seconded by: Graeme Simpson
-
+Seconded by: Don Herweyer
 ## Approve agenda for 2022 meeting
 
 * Financial report
@@ -38,7 +37,7 @@ Seconded by: Graeme Simpson
 
 Moved by: Lisa Fast
 
-Seconded by: XXX
+Seconded by: Bryan Watkinson
 
 ## Financial Report  
 
@@ -50,9 +49,9 @@ Summary:
 * During the fiscal year, we received a grant from the Muncipality of La Peche for $400. Membership fees brought in $480 of and donations $475 for a total income of $1,370.  
 * Expenses included $600 for water testing in Lac Notre Dame and in Usher, and $456 for purchase of buoys, anchors and ropes to mark heavy milfoil areas by Brian Cook, and $78 for Entreprise Quebec annual registration & one month of Zoom by Lisa Fast. 
 
-Move to accept Treasurer’s report: XXX
+Move to accept Treasurer’s report: Lisa Fast
 
-Seconded by: XXX
+Seconded by: Cathy Kissick
 
 ### Your membership fees support the following:
 
@@ -94,25 +93,23 @@ Seconded by: XXX
 
 Move to accept the board and water testing report: Lisa Fast
 
-Seconded: Jane Hayward
+Seconded: Bryan Watkinson
 
 ## Members open issues
-* ?
+* Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area 
 
 ## Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM.
 
-* Dave Hayward, member will be replaced by Jane Hayward this year
+* Dave Hayward, member will be replaced by Jane Hayward this year - Vote approved
 * Bryan Watkinson, member (Usher Lake)
 * Don Herweyer, member.
 * Brian Cook, treasurer.
 * Lisa Fast, President (elected July 2018)
-* Robert Boucher, Vice-president - has opted out, need a replacement - Jason?
+* Robert Boucher, Vice-president - has opted out, need a replacement - Jason vote approved
 * Marie Maisonneuve, member
 * Graeme Simpson - member
-
-Must Vote in new members
 
 
 ## Proposed Association program for 2022-2022
@@ -121,12 +118,12 @@ Must Vote in new members
 * Add a burlap how-to page on the site
 * Other?
 
-Moved by: Dave Hayward
+Moved by: Lisa Fast
 
-Seconded by: Lisa Fast
+Seconded by: Susan Bowen
 
 ## Move to adjourn
 
-Moved by XXX
+Moved by Lisa Fast
 
-Seconded by Bryan Watkinson
+Seconded by Don Herweyer
