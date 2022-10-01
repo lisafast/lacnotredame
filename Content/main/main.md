@@ -9,15 +9,13 @@ basepath:index.html
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2022 annual meeting on Zoom August 27, 2022
+## 2022 annual meeting was held on Zoom on August 27
 
-* Zoom link was emailed to all members in August - email info@lacnotredame.org if you need it
-* [Agenda](/about/2022BoardReport/)
-* [Notes & plans from 2021 Annual General Meeting minutes](/about/2021BoardReport/)
+* [Meeting notes](/about/2022BoardReport/)
 
 ## [Eurasian Milfoil](/water/lnd-milfoil/) - stay clear of yellow weed buoys
 
-In 2021, Zombie Milfoil once again formed a carpet on the lake's surface. New yellow buoys were purchased to mark areas with milfoil close to the surface. Stay clear so you don't cut and spread it. Remove any cuttings at your shoreline.
+More yellow buoys were purchased to mark areas with milfoil close to the surface. Stay clear so you don't cut and spread it. Remove any cuttings at your shoreline.
 
 En 2021, après plusieurs années de faibles niveaux de mauvaises herbes, le myriophylle en épi envahissant a de nouveau formé un tapis à la surface du lac. De nouvelles bouées jaunes ont été achetées pour marquer les zones où le myriophylle est proche de la surface. Votre sillage et vos moteurs coupent l'herbe - chaque morceau coupé peut donner naissance à une nouvelle plante. Restez à l'écart des bouées.
   
@@ -29,7 +27,7 @@ The Association tests samples of water from the Lakes for phosphorus, nitrogen a
 
 L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré et Rejean Vaillant collectes des échantillons pour les analyser depuis plus de 15 ans. Dites-leurs merci quand vous les verrez!
 
-* [2021 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
+* [2022 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
 * Association membership fees and donations fund the water testing.
 
@@ -49,7 +47,7 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 ## Blue-green algae watch
 
-* If you can see a blue-green film on the surface of the water, take a photo and send it to Lisa at info@lacnotredame.org
+* If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to Lisa at info@lacnotredame.org
 * I may then advise you to collect a sample in a clean jar (with gloves or wash hands well afterwards) so I can identify it under the microscope.
 * If it IS blue-green, I will then send an email warning to all lake association members.
 
