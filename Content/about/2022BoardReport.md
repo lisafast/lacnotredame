@@ -76,7 +76,7 @@ Seconded by: Cathy Kissick
 
 * Imre and the dam volunteers at the Lac Notre Dame outlet have been managing the beavers & dam this spring and summer, trying to keep the water levels within a 20-30 cm range. He has a checklist from Quebec of the rules he must follow. Levels through the summer were fairly normal, dropping lower when there was little rain, and then going up through August. 
 * Don't trespass and go hole the dam at the outlet - email info@lacnotredame.org if you have concerns, and I'll get in touch with the team.  
-* The MRC has a new Waterways manager - he'll be joining a La Peche Lake Associations meeting in September to share their new approach. 
+* The MRC has a new Waterways manager - he'll be joining a La Peche Lake Associations meeting in September to share their new approach.
 * Lisa is continuing to track water levels and work with Lac Bernard's Association to keep the outlet and streams flowing throughout the watershed. 
 
 
@@ -84,12 +84,12 @@ Seconded by: Cathy Kissick
 
 * Buoys: Brian Cook purchased additional anchors, rope and buoys, and placed them with Jason Gunville. 
 * We looked into options for adding buoys to create a 'channel' through the thickest milfoil, but couldn't see how to make that work, as Transport Canada has extensive rules about navigation buoys. We also looked at 'Slow - No Wake' buoys for the side of the island but they are $500 each and seem to only come in English. 
-* Sign idea for island wasn't acted on due to island owner falling ill, not being available. Will try again this fall with the new signs. 
+* Sign idea for island wasn't acted on due to island owner falling ill, not being available. Will try again next spring with the new signs. 
 * A sign order is in progress to buy plastic signs similar to Lac Gauvreau - much much cheaper than metal signs and we can put them by the roads and on people's docks. 
 * Water testing data has been shared with Canadian researchers through the Data Stream program. A data scientist asked us to participate, and I worked with them to groom/prepare the data. They are building up data sets across Canada and focusing on Quebec this year. [See our data on DataStream](https://greatlakesdatastream.ca/explore/#/dataset/2723088c-5c8f-4e0c-84b5-8c323e005f0a/?sort=create_timestamp&active=false&zoom=5.5&lat=47.156899397188376&lng=-72.94184398563701&guideline=&percentiles=&characteristic_media=Surface%2520Water&characteristic_characteristic_name=Total%2520Phosphorus%252C%2520mixed%2520forms&characteristic_method_speciation=as%2520P&characteristic_sample_fraction=Unfiltered&characteristic_field=false&characteristic_unit=mg%252FL&locations=241463,241458,241466,241462,241464,241461,241468,241470,241459,241457,241467,241471,241469,241465,241460)
 * Blue Green Algae Plan: there is less common green algae this summer here (cool in July) and in Ottawa too according to our consulting biologist. No sign of any blue-green here. Reminder to contact Lisa at info@lacnotredame.org if you see a blue or green slick on the surface - microscope is ready.
 * Boaters asking about private ramp access have been referred to Marc from Bishop's Manor Association. 
-* Members asking about burlap have been sent some links on how to do it - key is to use rocks or sand from the lake to weigh down the burlap, rather than bringing in sand that may have invasive seeds/eggs in it. Apparently can order it from ULine. 
+* Members asking about burlap have been sent some links on how to do it - key is to use rocks or sand from the lake to weigh down the burlap, rather than bringing in sand that may have invasive seeds/eggs in it. Apparently can order burlap from ULine. Note though that sediment will collect on top of the burlap and new weeds can grow in the sediment.
 
 Move to accept the board and water testing report: Lisa Fast
 

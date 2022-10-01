@@ -1,44 +1,34 @@
 ---
 title: Water testing results
 description: Lac Notre Dame water testing results
-date: 2020-08-20T13:10:52-05:00
+date: 2022-09-20T13:10:52-05:00
 ---
-Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She collects and delivers the water samples every year at the location on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
+Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She and Rejean Vaillant collect and deliver the water samples every year at the locations on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
-## 2021 water testing results summary - Lac Notre Dame on August 3rd - Usher Lake - August 9th
+## 2022 water testing results summary - Lac Notre Dame on August 16 - Usher Lake on September 12
+
+* Lac Notre Dame 2022 summary: E-coli levels are good, with 5 of 8 locations at or below 10 CFU. Only [Location 4](/map/maps/), between Generations and Symons was higher than usual, at 50 CFU, which is still well within the safe swimming range. Phosphorus levels are back down from their highs last year, and nitrogen levels are within the usual range. Water clarity before the heavy August rains was normal.
+
+* Usher Lake 2022 summary: Usher had a **critical** E coli reading of 1000 CFU at [Location 11](/map/maps/), with nitrogen and phosphorus also too high. However, the other in-lake locations had very low E levels coli and better nitrogen and phosphorus levels than usual. It's possible this was an error, nonetheless it is a cause for concern. Next board meeting, we'll discuss this reading and how to understand/act on it.  
+
+**E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 100 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
+
+Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese. 
 
 **Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content.
 
 Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers and phosphate-containing detergents
 
-* 2021 Phosphorus levels: Lac Notre Dame has **no** sites below the target level of 0.005 (in 2020 there were 4 sites below the target). As usual, one of highest levels is at Ch. des Generation [location 6 off Ch. des Generations](/map/maps/), and also this year, around the island.
-* Usher Lake: **all** Phosphorus levels are higher than the target level
-
 **Nitrogen and nitrates - target levels below 0.5** Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).
 
-* 2021: TKNTP Total Nitrogen levels: Levels increased slightly to 0.25 to 0.33 from 2020's 0.23 to 0.29 on Lac Notre Dame. These levels, especially given the rainfall, are fairly normal for the lake and within the expected range.
-* Usher Lake levels range from 0.33 to 0.39.
-
-**E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. The safety target for e-coli in drinking water is a level of 4 CFU or below (CFU = Colony Forming Units in 100 ml of water). For swimming, the safety limit is 100 - 200 CFU.
-
-* 2021: E-coli levels are lower this year with only 1 location at 10 (in 2020, 4/9 locations had levels above 10), perhaps a combination of the rain, better septic system maintencance & fewer geese.
-
-* Usher Lake: Also lower than last year. Only location 1's sample was below 10.
+Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
 **Transparency/Clarity** is an indicator of lake health - clear, more transparent water is a sign of a healthy lake. Water transparency is tested with a Secchi disk. Poor transparency of less than 3 meters can be a warning sign of eutrophication.
 
-* 2021: Not yet completed but expected to be poor based on high algae levels and rainfall. August 7 2020 were measured at 4.4 meters - down from 2019's 4.75m. Still an improvement over 2017's measurements of 3.75 meters. The rain and high spring water levels brought in a lot of sediment from wash and erosion.
-
 **Eurasian Milfoil** is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface. This association was founded to fight the harm milfoil caused in the early 2000's - it formed such a dense mat on much of the lake that people weren't able to boat through it at all. It's a Zombie weed - each cut bit can form a new weed so we place buoys to keep boats out of the dense areas.
 
-* 2020: Milfoil levels were similar this year to last year. We placed the new yellow buoys in mid July. Unfortunately, it was clear that boat motors were chopping up the milfoil in mid August, as the water was full of floating fragments. Boats need to stay clear of those areas. See [Milfoil tips and history](/water/lnd-milfoil)
+Prevention: Boats need to stay clear of milfoil, particularly in buoyed areas. See [Milfoil tips and history](/water/lnd-milfoil)
 
-Biologist Paul Hamilton says about 2019, when native weeds recolonized previously heavy milfoil patches:
-
-> "the initiation of growth for the milfoil in the spring was stressed by limited sunlight, and colder temperatures (less likely nutrients).
-> The higher water levels will impede the light getting to the bottom of the lake (a requirement for milfoil spring growth).  Then the growth of spring algae further blocked the sunlight and the summer development of the lake started.  Again this is good news."
-
-We continue to encourage people to cut milfoil near your shore and remove the cuttings.
 
 ## View spreadsheet of water testing results by map location
 
