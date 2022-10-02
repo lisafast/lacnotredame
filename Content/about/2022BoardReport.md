@@ -23,7 +23,7 @@ Seconded by: Don Herweyer
 
 Approval of the minutes of the [2021 Annual General Meeting](../2021BoardReport/)
 
-Moved by:Bryan Watkinson
+Moved by: Bryan Watkinson
 
 Seconded by: Don Herweyer
 
@@ -76,7 +76,7 @@ Seconded by: Cathy Kissick
 ## Water level report
 
 * Imre and the dam volunteers at the Lac Notre Dame outlet have been managing the beavers & dam this spring and summer, trying to keep the water levels within a 20-30 cm range. He has a checklist from Quebec of the rules he must follow. Levels through the summer were fairly normal, dropping lower when there was little rain, and then going up through August.
-* Don't trespass and go hole the dam at the outlet - email info@lacnotredame.org if you have concerns, and I'll get in touch with the team.  
+* Don't trespass to damage the dam at the outlet - email info@lacnotredame.org if you have concerns, and I'll get in touch with the team.  
 * The MRC has a new Waterways manager - he'll be joining a La Peche Lake Associations meeting in September to share their new approach.
 * Lisa is continuing to track water levels and work with Lac Bernard's Association to keep the outlet and streams flowing throughout the watershed.
 
@@ -97,7 +97,7 @@ Seconded: Bryan Watkinson
 
 ## Members open issues
 
-* Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their are
+* Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area
 
 ## Current board and election of new members
 

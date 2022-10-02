@@ -5,21 +5,21 @@ date: 2022-09-20T13:10:52-05:00
 ---
 Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She and Rejean Vaillant collect and deliver the water samples every year at the locations on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
-## 2022 water testing results summary - Lac Notre Dame on August 16 - Usher Lake on September 12
+## 2022 water testing results
 
-* Lac Notre Dame 2022 summary: E-coli levels are good, with 5 of 8 locations at or below 10 CFU. Only [Location 4](/map/maps/), between Generations and Symons was higher than usual, at 50 CFU, which is still well within the safe swimming range. Phosphorus levels are back down from their highs last year, and nitrogen levels are within the usual range. Water clarity before the heavy August rains was normal.
+* **Lac Notre Dame August 16th, 2022 summary:** E-coli levels are good, with 5 of 8 locations at or below 10 CFU. Only [Location 4](/map/maps/), between Generations and Symons was higher than usual, at 50 CFU, which is still well within the safe swimming range. Phosphorus levels are back down from their highs last year, and nitrogen levels are within the usual range. Water clarity before the heavy August rains was normal.
 
-* Usher Lake 2022 summary: Usher had a **critical** E coli reading of 1000 CFU at [Location 11](/map/maps/), with nitrogen and phosphorus also too high. However, the other in-lake locations had very low E levels coli and better nitrogen and phosphorus levels than usual. It's possible this was an error, nonetheless it is a cause for concern. Next board meeting, we'll discuss this reading and how to understand/act on it.  
+* **Usher Lake September 12th, 2022 summary:** Usher had a **critical** E coli reading of 1000 CFU at [Location 11](/map/maps/), with nitrogen and phosphorus also too high. However, the other in-lake locations had very low E levels coli and better nitrogen and phosphorus levels than usual. It's possible this was an error, nonetheless it is a cause for concern. Next board meeting, we'll discuss this reading and how to understand/act on it.  
 
-**E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 100 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
+**E.coli bacterium - target levels below 10**. E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 100 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
 
 Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese.
 
-**Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content.
+**Phosphorus/phosphates - target levels are below .005 mg/L**. Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content.
 
 Prevention: naturalized shorelines, reduced boat wakes, restricted use of fertizers and phosphate-containing detergents
 
-**Nitrogen and nitrates - target levels below 0.5** Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).
+**Nitrogen and nitrates - target levels below 0.5**. Nitrogen occurs naturally and from fertilizers leaching into the water. High levels make the water unsafe for drinking and upset the natural ecosystem. We report on Total Kjeldahl Nitrogen (TKN) - the sum of nitrogen in bound in organic substances, nitrogen in ammonia (NH3-N) and in ammonium (NH4+-N).
 
 Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 
