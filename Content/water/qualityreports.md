@@ -13,7 +13,7 @@ Carole Doré has been volunteering as the Association water tester for years. Th
 
 **E.coli bacterium - target levels below 10** E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 100 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
 
-Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese. 
+Prevention: septic system maintenance, and naturalized/protected shoreline to prevent geese.
 
 **Phosphorus/phosphates - target levels are below .005 mg/L** Natural run-off from minerals, erosion and stormwater, and run-off from fertilizers and waste can act as a fertilizer for plants and algae in the lake, and can reduce the oxygen content.
 
@@ -28,7 +28,6 @@ Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 **Eurasian Milfoil** is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface. This association was founded to fight the harm milfoil caused in the early 2000's - it formed such a dense mat on much of the lake that people weren't able to boat through it at all. It's a Zombie weed - each cut bit can form a new weed so we place buoys to keep boats out of the dense areas.
 
 Prevention: Boats need to stay clear of milfoil, particularly in buoyed areas. See [Milfoil tips and history](/water/lnd-milfoil)
-
 
 ## View spreadsheet of water testing results by map location
 
