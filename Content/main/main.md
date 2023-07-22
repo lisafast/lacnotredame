@@ -9,8 +9,8 @@ basepath:index.html
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2023 annual meeting/réunion annuelle Saturday August 26
-* will be either at the lake or on Zoom - check back later
+## 2023 annual meeting in person /réunion annuelle Saturday August 26
+* 4:00 pm at Camp Kallalla main lodge - come by boat or car, stay for a drink afterwards
 * [2022 Notes de réunion/meeting](/about/2022BoardReport/)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
