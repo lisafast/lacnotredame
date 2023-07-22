@@ -10,7 +10,8 @@ basepath:index.html
 </div>
 
 ## 2023 annual meeting in person /réunion annuelle Saturday August 26
-* 4:00 pm at Camp Kallalla main lodge - come by boat or car, stay for a drink afterwards
+* 4:00 pm at Camp Kalalla main lodge - come by boat or car, stay for a drink afterwards
+* Address: 271 Chemin Kalalla Alcove QC J0X 1A0
 * [2022 Notes de réunion/meeting](/about/2022BoardReport/)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
@@ -69,15 +70,15 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 * See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership to fund water testing and water quality
-* **Renew for 2023 after July 1: e-transfer $10** and any donation to info@lacnotredame.org - use 'What is the lake word' as your secret question with the answer: **water22**
+* **Renew for 2023 after July 1: e-transfer $10** and any donation to info@lacnotredame.org - use 'Main lake name' as your secret question with the answer: **notredame**
 * Joining? Email info@lacnotredame.org and we'll get you onto the email list and arrange your payment
 * Members will receive 3-4 emails per year from association@lacnotredame.org - to get the emails, join us, or if you already joined, check your junk mail/spam to make sure the email didn't end up there.
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
- * **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à info@lacnotredame.org - utilisez « Quel est le mot lac » comme question secrète avec la réponse : **water22**
+ * **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à info@lacnotredame.org - utilisez « Nom du lac » comme question secrète avec la réponse : **notredame**
 * Joindre? Envoyez un e-mail à info@lacnotredame.org et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
 * Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là. 
 
-The lake dragon on Chemin du Domaines
+New warning signs to avoid milfoil buoys 
 
 <img src="/assets/img/2023-panneau.png" class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />
