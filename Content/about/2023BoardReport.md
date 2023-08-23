@@ -32,9 +32,9 @@ Seconded by: XXX
 * Financial report
 * Water Testing and water levels report
 * Board report on 2022-23
-* Members Open Issues and questions -
-* Current board and election of new board members
 * Develop and vote on proposed program for 2023 -2024
+* Members Open Issues and questions 
+* Current board and election of new board members
 
 Moved by: Lisa Fast
 
@@ -57,69 +57,70 @@ Seconded by: XXXX
 ### Your membership fees support the following budget for the upcoming year
 
 * Water testing approximately $600 per year
-* Buoys and anchors $500 due to extensive milfoil and replacements of lost/aging buoys
+* Buoys and anchors $500 in July due to extensive milfoil and replacements of lost/aging buoys, expect $200 more in spring
 * Reserve funds to prepare for potential invasive species or milfoil surge; consultation with experts like ABV-7,
 * Quebec non-profit corporation fees ($35/year)
 * Domain name and hosting fees for the web site (every second year)
 * Facility rental for annual meeting: $100 
+* Good news - the Association received over $1,300 in donations this summer (2023) which will go towards this budget.
 
 ### Water testing report
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
 
-* Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame were collected August XX and from Usher August XX 
-* The annual [Water testing report](/water/qualityreports/) is updated with detailed test results.  Brief summary here:
+* Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame and Usher were collected August 16.  
+* The annual [Water testing report](/water/qualityreports/) will be updated with detailed test results when they're received. We added Disolved Organic Compounds to the testing this year, on the advice of our consulting biologist,due to the high milfoil levels and heavy rain in August. Brief summary here:
 * At Lac Notre Dame: NOT UPDATED Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/maps/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
-* On a positive note, NOT UPDATE-Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 1e1 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
-* At Usher: report not available yet
+* On a positive note, NOT UPDATED -Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 1e1 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
 
 ## Water level report
 
-* Water levels were unusually low May through July because no beavers had yet dammed the outlet. This likely contributed to greater milfoil growth. Beavers then began damming in late July  and with constant rain, levels rose to slightly higher than usual August levels. This helps keep the weediest parts of the lake navigable. 
-* Imre and the dam volunteers have been carefully removing parts of the dam on an almost weekly basis. As fast it's holed, it both rains and the beavers repair it, so it's a constant effort. It's important that they manage removal carefully as there is a wetland and road that must be protected behind the dam, and extensive regulations to follow.  
-* Don't trespass to damage the dam at the outlet - email info@lacnotredame.org if you have concerns.  
+* Water levels were unusually low May through July because no beavers had yet dammed the outlet. This contributed to greater milfoil growth. Beavers then began damming in late July  and with constant rain, levels rose to slightly higher than usual August levels. This helps keep the weediest parts of the lake navigable and reduces sunlight to weeds. 
+* Imre and the dam volunteers have been carefully removing parts of the dam on an almost weekly basis. They manage removal carefully as there is a wetland and road that must be protected behind the dam, and extensive regulations to follow.  
 
-## Board report on program that had been planned for 2021-2022
+## Board report on program that had been planned for 2022-2023
 
-* Buoys: Brian Cook purchased additional anchors, rope and buoys, and placed them with Jason Gunville.
-* We looked into options for adding buoys to create a 'channel' through the thickest milfoil, but couldn't see how to make that work, as Transport Canada has extensive rules about navigation buoys. We also looked at 'Slow - No Wake' buoys for the side of the island but they are $500 each and seem to only come in English.
-* Sign idea for island wasn't acted on due to island owner falling ill, not being available. Will try again next spring with the new signs.
-* A sign order is in progress to buy plastic signs similar to Lac Gauvreau - much much cheaper than metal signs and we can put them by the roads and on people's docks.
-* Water testing data has been shared with Canadian researchers through the Data Stream program. A data scientist asked us to participate, and I worked with them to groom/prepare the data. They are building up data sets across Canada and focusing on Quebec this year. [See our data on DataStream](https://greatlakesdatastream.ca/explore/#/dataset/2723088c-5c8f-4e0c-84b5-8c323e005f0a/?sort=create_timestamp&active=false&zoom=5.5&lat=47.156899397188376&lng=-72.94184398563701&guideline=&percentiles=&characteristic_media=Surface%2520Water&characteristic_characteristic_name=Total%2520Phosphorus%252C%2520mixed%2520forms&characteristic_method_speciation=as%2520P&characteristic_sample_fraction=Unfiltered&characteristic_field=false&characteristic_unit=mg%252FL&locations=241463,241458,241466,241462,241464,241461,241468,241470,241459,241457,241467,241471,241469,241465,241460)
-* Blue Green Algae Plan: there is less common green algae this summer here (cool in July) and in Ottawa too according to our consulting biologist. No sign of any blue-green here. Reminder to contact Lisa at info@lacnotredame.org if you see a blue or green slick on the surface - microscope is ready.
-* Boaters asking about private ramp access have been referred to Marc from Bishop's Manor Association.
-* Members asking about burlap have been sent some links on how to do it - key is to use rocks or sand from the lake to weigh down the burlap, rather than bringing in sand that may have invasive seeds/eggs in it. Apparently can order burlap from ULine. Note though that sediment will collect on top of the burlap and new weeds can grow in the sediment.
+* Buoys: We purchased additional anchors, rope and buoys, and placed them with Jason Gunville. Buoys were added later at the west Island channel and bay at the Du Domaine causeway. They were moved as the weed mats grew. 
+* Signs: We purchased signs warning to stay away from the buoys. The design is based on La Peche designs. We placed them on roads, docks, on the island and at the weediest points in the lake. The signs will be removed in the fall and re-used. 
+* Milfoil: We investigated the status of the cutter purchased back in 2004, and attempted to arrange a cutting morning. Unfortunately the weather didn't cooperate, trying for another. A few letters were delivered to property owners boating through the weed-choked island channel.  
+* Water testing: samples were collected and clarity tests conducted on August 16. 
+* In-person board meeting: Rupert Community Centre wasn't available this year, so trying here at Camp Kalalla. Cost $100. Let us know your thoughts. 
+* Missed this: Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area 
 
-Move to accept the board and water testing report: Lisa Fast
+Move to accept the board and water testing report: Don Herweyer
 
-Seconded: Bryan Watkinson
+Seconded: 
+
+## Proposed Association program for 2022-2022
+
+* Develop a boating team/committee for boater education and milfoil cutting
+* Usual buoys, water testing, dam management etc.
+* Member recruitment - use spreadsheet data to identify missing members, add emails to list
+* apply for municipal grant for buoys 
+
+Moved by: Lisa Fast
+
+Seconded by: 
 
 ## Members open issues
 
-* Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area
+*
+* 
+*
 
 ## Current board and election of new members
 
 The Board meets 3-4x times per year plus the AGM.
 
-* Dave Hayward, member will be replaced by Jane Hayward this year - Vote approved
-* Bryan Watkinson, member (Usher Lake)
+* Jane Hayward - Secretary
+* Bryan Watkinson, member (Usher Lake) has resigned - seeking a new Usher Lake rep
 * Don Herweyer, member.
 * Brian Cook, treasurer.
 * Lisa Fast, President (elected July 2018)
-* Robert Boucher, Vice-president - has opted out, need a replacement - Jason vote approved
 * Marie Maisonneuve, member
 * Graeme Simpson - member
 
-## Proposed Association program for 2022-2022
 
-* Deliver/discuss [Goose action plan](/water/gooseaction/) for shoreline restoration around this fall and next summer to anyone with lawn/geese at shoreline
-* Add a burlap how-to page on the site
-* Other?
-
-Moved by: Lisa Fast
-
-Seconded by: Susan Bowen
 
 ## Move to adjourn
 
