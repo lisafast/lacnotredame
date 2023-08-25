@@ -5,11 +5,26 @@ date: 2022-09-20T13:10:52-05:00
 ---
 Carole Doré has been volunteering as the Association water tester for years. Thank her when you see her! She and Rejean Vaillant collect and deliver the water samples every year at the locations on the [map](/map/maps/). Your association membership fees and donations pay for the water testing.
 
-## 2022 water testing results
+## 2023 water testing results
 
-* **Lac Notre Dame August 16th, 2022 summary:** E-coli levels are good, with 5 of 8 locations at or below 10 CFU. Only [Location 4](/map/maps/), between Generations and Symons was higher than usual, at 50 CFU, which is still well within the safe swimming range. Phosphorus levels are back down from their highs last year, and nitrogen levels are within the usual range. Water clarity before the heavy August rains was normal.
+* **Lac Notre Dame August 16th, 2023 summary:** E-coli levels are generally low, with 6 of 8 locations almost undetectable. **Exceptions are [Location 4](/map/maps/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66. **Phosphorus is back down to quite low levels (this is good!), and nitrogen levels are within the usual range. Water clarity amidst the heavy August rains was lower than usual.
 
-* **Usher Lake September 12th, 2022 summary:** Usher had a **critical** E coli reading of 1000 CFU at [Location 11](/map/maps/), with nitrogen and phosphorus also too high. However, the other in-lake locations had very low E levels coli and better nitrogen and phosphorus levels than usual. It's possible this was an error, nonetheless it is a cause for concern. Next board meeting, we'll discuss this reading and how to understand/act on it.  
+* Lac Notre Dame 2022 summary: E-coli levels are good, with 5 of 8 locations at or below 10 CFU. Only [Location 4](/map/maps/), between Generations and Symons was higher than usual, at 50 CFU, which is still well within the safe swimming range. Phosphorus levels are back down from their highs last year, and nitrogen levels are within the usual range. Water clarity before the heavy August rains was normal.
+
+* **Usher Lake August 16th, 2023 summary:** E-coli levels in Usher Lake range from 10 to 26, which is better than many previous years. High levels of phosphates are seen at both inlets - increasing the risk of blue-green algae and nitrogen levels at all locations are higher than in Lac Notre-Dame.
+
+* Usher Lake 2022 summary: Usher had an E coli reading of 1000 CFU at [Location 11](/map/maps/), with nitrogen and phosphorus also too high. However, the other in-lake locations had very low E levels coli and better nitrogen and phosphorus levels than usual. It was determined the e-coli was a testing error.   
+
+
+## View spreadsheet of water testing results by map location
+
+* [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
+
+Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
+
+* [Map of water testing locations](/map/maps/).
+
+## Understanding water testing results
 
 **E.coli bacterium - target levels below 10**. E coli can cause severe illness. The presence of E. coli in water is a strong indication of recent sewage or animal waste (beavers, geese!) contamination. For swimming, the safety limit is below 100 CFU (CFU = Colony Forming Units in 100 ml of water), for drinking water it's below 4 CFU.
 
@@ -28,15 +43,6 @@ Prevention: naturalized shoreline (no lawn) and zero use of fertilizers.
 **Eurasian Milfoil** is an invasive aquatic plant that usually grows at depths of 1 to 4 metres and can form a dense carpet on the lake’s surface. This association was founded to fight the harm milfoil caused in the early 2000's - it formed such a dense mat on much of the lake that people weren't able to boat through it at all. It's a Zombie weed - each cut bit can form a new weed so we place buoys to keep boats out of the dense areas.
 
 Prevention: Boats need to stay clear of milfoil, particularly in buoyed areas. See [Milfoil tips and history](/water/lnd-milfoil)
-
-## View spreadsheet of water testing results by map location
-
-* [All water testing results by date and location for E-coli, phosphates and nitrogen from 2005 (Google Sheet)](https://docs.google.com/spreadsheets/d/1dqcUzW8GyrQA3oEBX0YPA8-FLrunVLlIszOkUb7S9H4/edit?usp=sharing)
-
-Association volunteers collect water samples at specific locations where water enters and exits the lakes. Note these locations are not the same as the Municipality of La Peche's test locations referenced in the ABV-7 report.  
-
-* [Map of water testing locations](/map/maps/).
-
 ## 2014 ABV-7 Report and recommendations
 
 In 2014, the Municipality of La Pêche, with the Association, worked with ABV-7 to produce a report on the shoreline and water of Lac Notre Dame. The report is in French.

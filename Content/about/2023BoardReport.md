@@ -5,7 +5,7 @@ date: 2023-08-22T13:10:52-05:00
 ---
 ## Agenda
 
-Annual General Meeting - August 26, 2022, 16:00 at Camp Kalalla
+Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
 
 Mandate of the association:
 “to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
@@ -27,7 +27,7 @@ Moved by: XXXX
 
 Seconded by: XXX
 
-## Approve agenda for 2022 meeting
+## Approve agenda for 2023 meeting
 
 * Financial report
 * Water Testing and water levels report
@@ -68,10 +68,16 @@ Seconded by: XXXX
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
 
-* Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame and Usher were collected August 16.  
-* The annual [Water testing report](/water/qualityreports/) will be updated with detailed test results when they're received. We added Disolved Organic Compounds to the testing this year, on the advice of our consulting biologist,due to the high milfoil levels and heavy rain in August. Brief summary here:
-* At Lac Notre Dame: NOT UPDATED Phosphorus and nitrogen levels are improved this year. E-Coli warning only at [Location 4](/map/maps/) - level measured was 50 CFU/100ml (safe to swim if below 100, safe to drink below 10). We are missing E-coli measure for location 6, which is often high as well. Water users on Ch des Generations should act as if their measurement is approximately 50 as well, and take suitable precautions.
-* On a positive note, NOT UPDATED -Coli levels were either not detectable or barely detectable at the other locations (2 Canada Geese nests hatched on the lake in the spring for a total of 1e1 geese. Keep them off your property with these ideas: [Goose action plan](/Content/water/gooseaction/)
+* Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame and Usher were collected August 16.
+  
+* **Lac Notre Dame August 16th, 2023 summary:** E-coli levels are generally low, with 6 of 8 locations almost undetectable. **Exceptions are [Location 4](/map/maps/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66. **Phosphorus is back down to quite low levels (this is good!), and nitrogen levels are within the usual range. Water clarity amidst the heavy August rains was lower than usual.
+
+* Recommendation: report the e-coli levels to the municipality given the recurrent e-coli results near locations 4 and 6 over the years. 
+
+* **Usher Lake August 16th, 2023 summary:** E-coli levels in Usher Lake range from 10 to 26, which is better than many previous years. High levels of phosphates are seen at both inlets, which may increase the risk of blue-green algae. 
+
+* Recommendation: Usher lake property owners should watch for and report any possible Blue-Green slicks (floats and looks like paint on the water surface)
+
 
 ## Water level report
 
@@ -91,7 +97,7 @@ Move to accept the board and water testing report: Don Herweyer
 
 Seconded: 
 
-## Proposed Association program for 2022-2022
+## Proposed Association program for 2023-2024
 
 * Develop a boating team/committee for boater education and milfoil cutting
 * Usual buoys, water testing, dam management etc.
@@ -113,7 +119,7 @@ Seconded by:
 The Board meets 3-4x times per year plus the AGM.
 
 * Jane Hayward - Secretary
-* Bryan Watkinson, member (Usher Lake) has resigned - seeking a new Usher Lake rep
+* **Bryan Watkinson, member (Usher Lake) has resigned - seeking a new Usher Lake rep**
 * Don Herweyer, member.
 * Brian Cook, treasurer.
 * Lisa Fast, President (elected July 2018)
