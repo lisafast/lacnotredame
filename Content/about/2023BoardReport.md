@@ -32,7 +32,7 @@ Seconded by: XXX
 * Financial report
 * Water Testing and water levels report
 * Board report on 2022-23
-* Develop and vote on proposed program for 2023 -2024
+* Develop and vote on proposed program for 2023 -2024 including boating/weedcutting team
 * Members Open Issues and questions 
 * Current board and election of new board members
 
@@ -47,9 +47,10 @@ Presented by Brian Cook, treasurer for the fiscal year 2022 - 2023
 Summary:
 
 * The Lake Association has accounts with Desjardins and at June 30, 2023 the chequing account balance was $747 and the savings account was $3,200
-*  Membership fees brought in $440 of and donations $845 for a total income of $1285  
+* Membership fees brought in $440 of and donations $845 for a total income of $1285  
 * Our usual expenses included $470 for water testing in Lac Notre Dame and in Usher, $425 for purchase of buoys, anchors and ropes to mark heavy milfoil areas by Brian Cook, and $78 for Entreprise Quebec annual registration. 
-* A one-time purchase of signs for the milfoil buoys, with the lake association web address, totalled $1,800. We will collect the signs in the fall and put them out again in late spring. There are extras too, so we expect them to last many years. .
+* A one-time purchase of signs for the milfoil buoys, with the lake association web address, totalled $1,800. We will collect the signs in the fall and put them out again in late spring. There are extras too, so we expect them to last many years. 
+
 Move to accept Treasurer’s report: Lisa Fast
 
 Seconded by: XXXX
@@ -57,14 +58,14 @@ Seconded by: XXXX
 ### Your membership fees support the following budget for the upcoming year
 
 * Water testing approximately $600 per year
-* Buoys and anchors $500 in July due to extensive milfoil and replacements of lost/aging buoys, expect $200 more in spring
+* Buoys and anchors $500 in July due to extensive milfoil and replacements of lost/aging buoys, expect $400 more in spring
 * Reserve funds to prepare for potential invasive species or milfoil surge; consultation with experts like ABV-7,
 * Quebec non-profit corporation fees ($35/year)
-* Domain name and hosting fees for the web site (every second year)
+* Domain name and hosting fees for the web site ($30 every second year)
 * Facility rental for annual meeting: $100 
-* Good news - the Association received over $1,300 in donations this summer (2023) which will go towards this budget.
+* Good news - the Association received over $1,400 in donations this summer (2023) which will go towards this budget.
 
-### Water testing report
+## Water testing report
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
 
@@ -78,7 +79,6 @@ Seconded by: XXXX
 
 * Recommendation: Usher lake property owners should watch for and report any possible Blue-Green slicks (floats and looks like paint on the water surface)
 
-
 ## Water level report
 
 * Water levels were unusually low May through July because no beavers had yet dammed the outlet. This contributed to greater milfoil growth. Beavers then began damming in late July  and with constant rain, levels rose to slightly higher than usual August levels. This helps keep the weediest parts of the lake navigable and reduces sunlight to weeds. 
@@ -88,7 +88,7 @@ Seconded by: XXXX
 
 * Buoys: We purchased additional anchors, rope and buoys, and placed them with Jason Gunville. Buoys were added later at the west Island channel and bay at the Du Domaine causeway. They were moved as the weed mats grew. 
 * Signs: We purchased signs warning to stay away from the buoys. The design is based on La Peche designs. We placed them on roads, docks, on the island and at the weediest points in the lake. The signs will be removed in the fall and re-used. 
-* Milfoil: We investigated the status of the cutter purchased back in 2004, and attempted to arrange a cutting morning. Unfortunately the weather didn't cooperate, trying for another. A few letters were delivered to property owners boating through the weed-choked island channel.  
+* Milfoil: We investigated the status of the cutter purchased back in 2004, and attempted to arrange a cutting morning in mid-August. Unfortunately the weather didn't cooperate. A few letters were delivered to property owners boating through the weed-choked island channel.  
 * Water testing: samples were collected and clarity tests conducted on August 16. 
 * In-person board meeting: Rupert Community Centre wasn't available this year, so trying here at Camp Kalalla. Cost $100. Let us know your thoughts. 
 * Missed this: Problem with someone cutting weeds without raking, and so many floated in - we could drop a hand-out next summer - have someone in each area walk them around - Bernard and Susan on Shaw volunteer to do that for their area 
@@ -125,8 +125,6 @@ The Board meets 3-4x times per year plus the AGM.
 * Lisa Fast, President (elected July 2018)
 * Marie Maisonneuve, member
 * Graeme Simpson - member
-
-
 
 ## Move to adjourn
 

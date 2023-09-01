@@ -108,7 +108,7 @@ The Board meets 3-4x times per year plus the AGM.
 * Don Herweyer, member.
 * Brian Cook, treasurer.
 * Lisa Fast, President (elected July 2018)
-* Robert Boucher, Vice-president - has opted out, need a replacement - Jason vote approved
+* Robert Boucher, Vice-president - has opted out, need a replacement 
 * Marie Maisonneuve, member
 * Graeme Simpson - member
 

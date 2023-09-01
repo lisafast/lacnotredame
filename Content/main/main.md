@@ -16,7 +16,7 @@ basepath:index.html
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
-Low water and high temperatures this year signal a bad milfoil summer. Volunteers have placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
+Low water and high temperatures this year signaled a bad milfoil summer. Volunteers have placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
 Les basses eaux et les températures élevées cette année signalent un mauvais été pour le myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
@@ -24,9 +24,9 @@ Les basses eaux et les températures élevées cette année signalent un mauvais
 
 ## [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
-The Association tests samples of water from the Lakes for phosphorus, nitrogen and E-coli in early August. Volunteers Carole Doré & Rejean Vaillant collect the samples every year. Say Thank You when you see them!
+With financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) and our members, we test samples of water from the lakes in early August. Volunteers Carole Doré & Rejean Vaillant collect the samples every year. Thank you to all for the support!
 
-L'association analyse régulièrement des échantillons d'eau des lacs pour le phosphore, l'azote et l'E-coli. Carole Doré et Rejean Vaillant collectes des échantillons pour les analyser depuis plus de 15 ans. Dites-leurs merci quand vous les verrez!
+Avec le soutien financier du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) et de nos membres, nous analysons des échantillons d'eau des lacs au début du mois d'août. Les bénévoles Carole Doré et Réjean Vaillant collectent les échantillons chaque année. Merci à tous pour votre soutien !
 
 * [2023 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
