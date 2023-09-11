@@ -9,10 +9,8 @@ basepath:index.html
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2023 annual meeting - join us! /réunion annuelle Saturday August 26
-* 4:00 pm at Camp Kalalla main lodge - come by boat or car
-* Address: 271 Chemin Kalalla Alcove QC J0X 1A0
-* [2023 Agenda de réunion/meeting](/about/2023BoardReport/)
+## 2023 annual meeting was August 26 /la réunion annuelle s'est tenue en août
+* [2023 notes de réunion/meeting](/about/2023BoardReport/)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
@@ -64,7 +62,7 @@ Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les
 
 * Get prevention ideas in our[Goose Action Plan](/water/gooseaction/)[plan d'action pour les bernaches](/water/gooseaction/).
 
-## [Joignez-vous - Join the Lake Association](/about/)
+## Joignez-vous - Join the Lake Association
 
 Join the Association to help fund water testing, protect the quality of our water, get updates on water quality initiatives and contribute to Association activities like placing buoys to alert boaters of heavy milfoil weed areas.
 

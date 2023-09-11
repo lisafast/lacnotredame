@@ -55,7 +55,9 @@ Move to accept Treasurer’s report: Lisa Fast
 
 Seconded by: XXXX
 
-### Your membership fees support the following budget for the upcoming year
+### Budget plans / Plans budgétaires
+
+With support and donations from our members, and financial suppport from the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we plan to spend: 
 
 * Water testing approximately $600 per year
 * Buoys and anchors $500 in July due to extensive milfoil and replacements of lost/aging buoys, expect $400 more in spring
@@ -64,6 +66,16 @@ Seconded by: XXXX
 * Domain name and hosting fees for the web site ($30 every second year)
 * Facility rental for annual meeting: $100 
 * Good news - the Association received over $1,400 in donations this summer (2023) which will go towards this budget.
+
+Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), nous envisageons de:
+
+* Analyse de l'eau : environ 600 $ par an
+* Bouées et ancres 500 $ en juillet en raison de l'étendue du myriophylle et du remplacement des bouées perdues/vieillissantes, prévoir 400 $ de plus au printemps.
+* Fonds de réserve pour se préparer à une éventuelle invasion d'espèces ou de myriophylle ; consultation d'experts comme ABV-7,
+* Frais de constitution d'une société à but non lucratif au Québec (35 $/an)
+* Nom de domaine et frais d'hébergement pour le site Web (30 $ tous les deux ans)
+* Location des locaux pour la réunion annuelle : 100 
+* Bonne nouvelle - l'Association a reçu plus de 1 400 $ en dons cet été (2023) qui seront affectés à ce budget.
 
 ## Water testing report
 
