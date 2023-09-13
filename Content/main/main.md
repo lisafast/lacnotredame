@@ -10,6 +10,7 @@ basepath:index.html
 </div>
 
 ## 2023 annual meeting was August 26 /la réunion annuelle s'est tenue en août
+
 * [2023 notes de réunion/meeting](/about/2023BoardReport/)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
@@ -46,11 +47,11 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 ## Algue bleu-vert - Blue-green algae watch
 
-* If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to Lisa at info@lacnotredame.org
+* If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to Lisa at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 * I may then advise you to collect a sample in a clean jar (with gloves or wash hands well afterwards) so I can identify it under the microscope.
 * If it IS blue-green, I will then send an email warning to all lake association members.
 
-* Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à Lisa à info@lacnotredame.org.
+* Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à Lisa à [info@lacnotredame.org](mailto:info@lacnotredame.org).
 * Je vous conseillerai alors de prélever un échantillon dans un bocal propre afin que je puisse l'identifier au microscope.
 * S'il s'agit d'une eau bleu-vert, j'enverrai alors un avertissement par courriel à tous les membres de l'association du lac.
 
@@ -68,15 +69,16 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 * See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership to fund water testing and water quality
-* **Renew for 2023 after July 1: e-transfer $10** and any donation to info@lacnotredame.org - use 'lake word' as your secret question with the answer: **water22**
-* Joining? Email info@lacnotredame.org and we'll get you onto the email list and arrange your payment
+* **Renew for 2023 after July 1: e-transfer $10** and any donation to [info@lacnotredame.org](mailto:info@lacnotredame.org) - use 'lake word' as your secret question with the answer: **water22**
+* Joining? Email [info@lacnotredame.org](mailto:info@lacnotredame.org) and we'll get you onto the email list and arrange your payment
 * Members will receive 3-4 emails per year from association@lacnotredame.org - to get the emails, join us, or if you already joined, check your junk mail/spam to make sure the email didn't end up there.
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
- * **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à info@lacnotredame.org - utilisez « mot du lac » comme question secrète avec la réponse : **water22**
-* Joindre? Envoyez un e-mail à info@lacnotredame.org et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
-* Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là. 
 
-New warning signs to avoid milfoil buoys 
+* **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) - utilisez « mot du lac » comme question secrète avec la réponse : **water22**
+* Joindre? Envoyez un e-mail à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
+* Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là.
+
+New warning signs to avoid milfoil buoys
 
 <img src="/assets/img/2023-panneau.png" class="img-fluid py-3" alt="sign warning stay clear of yellow buoy - restez loins des bouees" />

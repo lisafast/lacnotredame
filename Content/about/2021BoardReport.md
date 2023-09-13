@@ -92,7 +92,7 @@ Seconded by: Dave Hayward
 * More buoys should be purchased and placed with signs - in areas with high boat traffic
 * Lots of milfoil is close to shore, no point says Don
 
-* Blue Green Algae Plan: monitoring is underway - several people have sent photos and jar tests were performed. It turns out there is a LOT of common green algae this year due to the rain. Members are asked to watch and contact Lisa at info@lacnotredame.org if they see a blue or green slick on the surface.
+* Blue Green Algae Plan: monitoring is underway - several people have sent photos and jar tests were performed. It turns out there is a LOT of common green algae this year due to the rain. Members are asked to watch and contact Lisa at [info@lacnotredame.org](mailto:info@lacnotredame.org) if they see a blue or green slick on the surface.
 
 * Additional funding: a letter was sent to the municipality requesting funding similar to that received by other lake associations for environmental work. We expect to receive a cheque for $400 although it has not arrived yet.
 

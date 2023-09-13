@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Debug LacnotredameSite",
+            "program": "${workspaceFolder:lacnotredame}/.build/debug/LacnotredameSite",
+            "args": [],
+            "cwd": "${workspaceFolder:lacnotredame}",
+            "preLaunchTask": "swift: Build Debug LacnotredameSite"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "sourceLanguages": [
+                "swift"
+            ],
+            "name": "Release LacnotredameSite",
+            "program": "${workspaceFolder:lacnotredame}/.build/release/LacnotredameSite",
+            "args": [],
+            "cwd": "${workspaceFolder:lacnotredame}",
+            "preLaunchTask": "swift: Build Release LacnotredameSite"
+        }
+    ]
+}

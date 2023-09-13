@@ -83,7 +83,7 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 * Thank you to Carole Doré and Rejean Vaillant for their continued volunteer work on water testing. Water testing samples on Lac Notre Dame and Usher were collected August 16.
   
-* **Lac Notre Dame August 16th, 2023 summary:** E-coli levels are generally low, with 6 of 8 locations almost undetectable. **Exceptions are [Location 4](/map/maps/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66. **Phosphorus is back down to quite low levels (this is good!), and nitrogen levels are within the usual range. Water clarity amidst the heavy August rains was lower than usual.
+* **Lac Notre Dame August 16th, 2023 summary:** E-coli levels are generally low, with 6 of 8 locations almost undetectable. **Exceptions are [Location 4](/map/maps/), between Generations and Symons very high at 230 CFU/100ml - swimming is not recommended above 200 CFU, drinking water should have 0. [Location 6](/map/maps/)at Generations was also higher than the rest of the lake at 66.** Phosphorus is back down to quite low levels (this is good!), and nitrogen levels are within the usual range. Water clarity amidst the heavy August rains was lower than usual.
 
 * Recommendation: report the e-coli levels to the municipality given the recurrent e-coli results near locations 4 and 6 over the years. 
 
@@ -107,23 +107,23 @@ Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https:/
 
 Move to accept the board and water testing report: Don Herweyer
 
-Seconded: 
+Seconded:
 
 ## Proposed Association program for 2023-2024
 
 * Develop a boating team/committee for boater education and milfoil cutting
 * Usual buoys, water testing, dam management etc.
 * Member recruitment - use spreadsheet data to identify missing members, add emails to list
-* apply for municipal grant for buoys 
+* apply for municipal grant for buoys
 
 Moved by: Lisa Fast
 
-Seconded by: 
+Seconded by:
 
 ## Members open issues
 
 *
-* 
+*
 *
 
 ## Current board and election of new members

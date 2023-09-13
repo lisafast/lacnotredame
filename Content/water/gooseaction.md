@@ -25,7 +25,7 @@ Some lake owners with lawns near the water are having some success at keeping th
 
 * The adults are likely to leave early in the Spring, before they moult, if their nesting is not successful.
 * We searched for nests in May and early June but they were well hidden – two nests did succeed this year. Please watch for them next spring – the male goose stands sentinel.
-* Contact us at info@lacnotredame.org for help if you spot a nest and want help.
+* Contact us at [info@lacnotredame.org](mailto:info@lacnotredame.org) for help if you spot a nest and want help.
 
 ## PLAN D'ACTION POUR LA GESTION DES BERNACHES
 
@@ -49,6 +49,6 @@ Certains propriétaires riverains avec des pelouses près de l'eau réussissent 
 
 * Les adultes vont probablement partir tôt au printemps, avant leur mue, si leur nidification n’est pas réussie.
 * Nous avons cherché des nids en mai et au début de juin, mais ils étaient bien cachés - deux nids ont réussi cette année. Surveillez-les au printemps prochain – la bernache mâle est la sentinelle.
-* Contactez-nous à info@lacnotredame.org si vous repérez un nid et que vous souhaitez obtenir de l'aide.
+* Contactez-nous à [info@lacnotredame.org](mailto:info@lacnotredame.org) si vous repérez un nid et que vous souhaitez obtenir de l'aide.
 
 Printable version in English and French (PDF): [Goose-Action-Plan](/assets/docs/water/Goose-Action-Plan-EN-FR-23Aug2019.pdf)

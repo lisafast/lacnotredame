@@ -40,7 +40,7 @@ Les procès-verbaux et les notes approuvés chaque année constituent un compte 
 * Marie Maisonneuve, member
 * Graeme Simpson, member
 
-Contact us by email at info@lacnotredame.org
+Contact us by email at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 
 3.1 The affairs of the Association shall be managed by a Board of Directors consisting of seven (7) persons, each of whom at the time of his/her election, or within ten (10) days thereafter and throughout his/her term of office, shall be a member in good standing of the Association.  If a person ceases to be a member in good standing of the Association then he/she shall no longer qualify to be a Director and must resign forthwith.
 
@@ -97,8 +97,8 @@ Each Director shall act upon the business of the Board in a thoughtful, conscien
 
 7. communiquer avec l'Association et solliciter son aide et sa participation.
 
-7. communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association
+8. communiquer avec les agences gouvernementales et privées et solliciter leur assistance et leur participation au nom des membres, si cela est nécessaire à la réalisation de la mission et des objectifs de l'Association
 
-8. recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association ;
+9. recevoir des biens immobiliers ou personnels, des subventions, des dons, des héritages et d'autres contributions monétaires de nature similaire (collectivement, les "dons") et administrer ces dons, organiser des activités de collecte de fonds dans le but d'atteindre les objectifs de l'Association ;
 
-9. d'une manière générale, poursuivre la réalisation des objectifs de l'Association.
+10. d'une manière générale, poursuivre la réalisation des objectifs de l'Association.
