@@ -75,7 +75,7 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
 
-* **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) - utilisez « mot du lac » comme question secrète avec la réponse en Anglais : **water22**
+* **Renouvellement pour 2024 après 1 juillet : 10 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) - utilisez « mot du lac » comme question secrète avec la réponse en Anglais : **water22**
 * Joindre? Envoyez un e-mail à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
 * Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là.
 
