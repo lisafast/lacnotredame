@@ -26,7 +26,7 @@ Seconded by: Marie Maisonneuve
 
 **Approval of previous year\rquote s minutes**
 
-2022 Minutes approved - posted online
+2022 Minutes approved - [posted online](../2022BoardReport/)
 
 Moved by: Don Herweyer
 
