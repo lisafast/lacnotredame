@@ -3,9 +3,8 @@ title: 2023 Annual General Meeting of the Lac Notre Dame and Usher Lake Associat
 description: AGM Lac Notre-Dame and Usher Lake Association
 date: 2023-08-22T13:10:52-05:00
 ---
-## Agenda
 
-Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
+## Annual General Meeting - August 26, 2023, 16:00 at Camp Kalalla
 
 Mandate of the association:
 “to promote, protect and preserve the quality of Lac Notre Dame and Usher Lake and the watershed environment of the Lakes to ensure their continued use and enjoyment by all”.
@@ -13,7 +12,7 @@ Mandate of the association:
 ## Constitution of the meeting - quorum based on registered members
 
 Lisa Fast, president, opened the meeting.  
-By the time of the meeting, 48 members had paid their membership fees. 21 members joined the online meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
+By the time of the meeting, 48 members had paid their membership fees. 21 members attended the meeting. Quorum requires at least 25% of members be present - so quorum was reached. Bylaws require that only members who've paid the $10 fee can vote.
 
 Move to open the meeting by: Lisa Fast
 
@@ -42,16 +41,14 @@ Seconded by: Marie Maisonneuve
 
 ## Financial Report  
 
-Presented by Brian Cook, treasurer for the fiscal year 2022 - 2023
+Presented by Brian Cook, treasurer for the fiscal year July 2022 through June 2023
 
 Summary:
 
-* The Lake Association has accounts with Desjardins and at June 30, 2023 the chequing account balance was $747 and the savings account was $3,200
+* The Lake Association has accounts with Desjardins. At June 30, 2023 the chequing account balance was $747 and the savings account was $3,200
 * Membership fees during the summer and fall of 2022 brought in $440 of and donations $845 for a total income of $1285  
 * Our usual expenses included $470 for water testing in Lac Notre Dame and in Usher, $425 for purchase of buoys, anchors and ropes to mark heavy milfoil areas by Brian Cook, and $78 for Entreprise Quebec annual registration. 
 * A one-time purchase of signs for the milfoil buoys, with the lake association web address, totalled $1,800. We will collect the signs in the fall and put them out again in late spring. There are extras too, so we expect them to last many years. 
-* Good news - the Association received over $1,400 in donations this
-summer (2023) which will go towards this budget 
 
 Move to accept Treasurer’s report: Lisa Fast
 
@@ -69,16 +66,6 @@ Your membership fees support the following budget for the upcoming year:
 * Facility rental for annual meeting: $100 
 * Good news - the Association received over $1,400 in donations this summer (2023) which will go towards this budget.
 
-Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), nous envisageons de:
-
-* Analyse de l'eau : environ 600 $ par an
-* Bouées et ancres 500 $ en juillet en raison de l'étendue du myriophylle et du remplacement des bouées perdues/vieillissantes, prévoir 400 $ de plus au printemps.
-* Fonds de réserve pour se préparer à une éventuelle invasion d'espèces ou de myriophylle ; consultation d'experts comme ABV-7,
-* Frais de constitution d'une société à but non lucratif au Québec (35 $/an)
-* Nom de domaine et frais d'hébergement pour le site Web (30 $ tous les deux ans)
-* Location des locaux pour la réunion annuelle : 100 
-* Bonne nouvelle - l'Association a reçu plus de 1 400 $ en dons cet été (2023) qui seront affectés à ce budget.
-
 ## Water testing report
 
 [Water testing report](/water/qualityreports/) presented by Lisa Fast
@@ -93,9 +80,7 @@ Lac Notre Dame August 16th, 2023 summary:
 
 * Recommendation: Lisa to report the e-coli levels to the municipality given the recurrent e-coli results near locations 4 and 6 over the years. 
 
-**Question from the floor**
-
-Do we send out flyer/ advise people? Lisa will email.
+**Question from the floor** Do we send out flyer/ advise people? Lisa will email.
 
 **Action**: plan to test twice in July 2024: e-coli only
 
@@ -108,7 +93,7 @@ Do we send out flyer/ advise people? Lisa will email.
 ## Water level report
 
 * Water levels were unusually low May through July because no beavers had yet dammed the outlet. This likely contributed to greater milfoil growth. Beavers then began damming in late July  and with constant rain, levels rose to slightly higher than usual August levels. This helps keep the weediest parts of the lake navigable and reduces sunlight to weeds. 
-* Imre and the dam volunteers have been removing parts of the dam on an almost weekly basis. They manage removal carefully as there is a wetland and road that must be protected behind the dam, and extensive regulations to follow.  
+* Imre and the dam team volunteers (Marcel, Graeme and Denis) have been removing parts of the dam on an almost weekly basis. They manage removal carefully as there is a wetland and road that must be protected behind the dam, and extensive regulations to follow.  
 * no cost
 * thanks to dam team
 
@@ -128,7 +113,7 @@ Seconded: Dave Hayward
 
 ## Proposed Association program for 2023-2024
 
-* Develop a boating team/committee for boater education and milfoil cutting
+* Develop a weed team and plan for milfoil cutting
 * Usual buoys, water testing, dam management etc.
 * Member recruitment - use MRC assessment to  data to identify missing members, add emails to list
 
@@ -138,9 +123,8 @@ Seconded by: John Calvert
 
 ## Members open issues
 
-* Rob Farley retiring from Camp Kalalla \endash  looking for replacement
-* Proposed coordinate Weed cutting: Marie and Gaston, Graeme.
-* Mary Lee: more weeds impacting use and enjoyment.
+* Proposed coordinate Weed cutting: Jane,Marie and Gaston, Graeme.
+* Merilee: more weeds impacting use and enjoyment.
 * Proposed cutting strategy: plan to do a different section each year. What section is the priority?
 * Bob Scott provided back ground on how to organize successful weed
 cutting with cutter and barge. Minimum 10 people. Contact Bob Scott, Rob
