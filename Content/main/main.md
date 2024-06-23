@@ -9,23 +9,23 @@ basepath:index.html
 <img src="/assets/img/lake-assoc-photo.jpg" class="img-fluid py-3" alt="view of still water of lake says Preserve and protect the quality of the lakes and watershed to ensure their continued use and enjoyment by all with title Lac Notre-Dame and Usher Lake Association" />
 </div>
 
-## 2023 annual meeting was August 26 /la réunion annuelle s'est tenue en août
+## 2024 annual meeting planned for August 24/la réunion annuelle s'est tenue en août
 
 * [2023 notes de réunion/meeting](/about/2023BoardReport/)
 
 ## [Myriophylle - Milfoil control](/water/lnd-milfoil/) - restez loin des bouées, stay clear of buoys
 
-Low water and high temperatures this year signaled a bad milfoil summer. Volunteers have placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
+In 2023, Lac Notre Dame had a bad milfoil summer. Volunteers placed yellow buoys to mark areas with milfoil close to the surface. Every bit of weed cut by your motor forms new weeds. Stay clear and raise your motor if you see weed below. Remove any cuttings at your shoreline.
 
-Les basses eaux et les températures élevées cette année signalent un mauvais été pour le myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
+En 2023, le lac Notre Dame a connu un mauvais été pour le myriophylle. Des bénévoles ont placé des bouées jaunes pour marquer les zones de myriophylle près de la surface. Chaque morceau de mauvaise herbe coupé par votre moteur forme de nouvelles mauvaises herbes. Restez à l'écart et soulevez votre moteur si vous voyez de l'herbe ci-dessous. Enlevez toutes les boutures de votre rivage.
   
 * [Conseils pour réduire le myriophylle en épi - Reduce Eurasian Milfoil - tips and history](/water/lnd-milfoil/)
 
 ## [Résultats des analyses d'eau - Water testing results](/water/qualityreports/)
 
-With financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) and our members, we test samples of water from the lakes in early August. Volunteers Carole Doré & Rejean Vaillant collect the samples every year. Thank you to all for the support!
+With financial support from our members and occasional financial support the [La Pêche Green Fund](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/), we test samples of water from the lakes in early August. Thank you to all for the support!
 
-Avec le soutien financier du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) et de nos membres, nous analysons des échantillons d'eau des lacs au début du mois d'août. Les bénévoles Carole Doré et Réjean Vaillant collectent les échantillons chaque année. Merci à tous pour votre soutien !
+Avec le soutien financier de nos membres et du [Fonds vert de La Pêche](https://www.villelapeche.qc.ca/citoyens/subventions/fonds-vert/) , nous analysons des échantillons d'eau des lacs au début du mois d'août.  Merci à tous pour votre soutien !
 
 * [2023 results highlights and all water data back to 2004](/water/qualityreports/) and a 2014 study of the Lake ecosystem by ABV-7
 * [Map of lake with water testing locations](/map/maps/)
@@ -49,7 +49,7 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to Lisa at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 * I may then advise you to collect a sample in a clean jar (with gloves or wash hands well afterwards) so I can identify it under the microscope.
-* If it IS blue-green, I will then send an email warning to all lake association members.
+* If it IS toxic blue-green algae, I will then send an email warning to all lake association members.
 
 * Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à Lisa à [info@lacnotredame.org](mailto:info@lacnotredame.org).
 * Je vous conseillerai alors de prélever un échantillon dans un bocal propre afin que je puisse l'identifier au microscope.
@@ -57,7 +57,7 @@ La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués.
 
 ## [Plan d'action pour les bernaches - Canada Goose Action Plan](/water/gooseaction/)
 
-A lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent geese and erosion.
+A grass lawn near the shore attracts geese and goose poop. Naturalize your shoreline to prevent contamination and erosion.
 
 Une pelouse près du rivage attire les oies, et les crottes d'oie. Prévenez les oies et l'érosion en naturalisant votre rivage.
 
@@ -69,13 +69,13 @@ Join the Association to help fund water testing, protect the quality of our wate
 
 * See [About the  Association](/about/) for previous meeting notes/minutes, financial reports, board members and objectives
 * Join or renew your membership to fund water testing and water quality
-* **Renew for 2023 after July 1: e-transfer $10** and any donation to [info@lacnotredame.org](mailto:info@lacnotredame.org) - use 'lake word' as your secret question with the answer: **water22**
+* **Renew for 2024 after July 1: e-transfer $10** and any donation to [info@lacnotredame.org](mailto:info@lacnotredame.org) - use 'lake word' as your secret question with the answer: **water22**
 * Joining? Email [info@lacnotredame.org](mailto:info@lacnotredame.org) and we'll get you onto the email list and arrange your payment
 * Members will receive 3-4 emails per year from association@lacnotredame.org - to get the emails, join us, or if you already joined, check your junk mail/spam to make sure the email didn't end up there.
 
 Joignez-vous à l'Association pour aider à financer les analyses d'eau, protéger la qualité de notre eau, obtenir des mises à jour sur les initiatives de qualité de l'eau et contribuer aux activités de l'Association comme placer des bouées pour alerter les plaisanciers des zones de mauvaises herbes à myriophylle.
 
-* **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) - utilisez « mot du lac » comme question secrète avec la réponse : **water22**
+* **Renouvellement pour 2023 après 1 juillet : 10 $ par virement électronique** et tout don à [info@lacnotredame.org](mailto:info@lacnotredame.org) - utilisez « mot du lac » comme question secrète avec la réponse en Anglais : **water22**
 * Joindre? Envoyez un e-mail à [info@lacnotredame.org](mailto:info@lacnotredame.org) et nous vous mettrons sur la liste de diffusion et organiserons votre paiement
 * Les membres recevront 3-4 e-mails par an de association@lacnotredame.org - pour recevoir les e-mails, rejoignez-nous, ou si vous êtes déjà inscrit, vérifiez vos courriers indésirables/spam pour vous assurer que l'e-mail n'est pas arrivé là.
 
