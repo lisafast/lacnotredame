@@ -17,6 +17,7 @@ Approved minutes and notes for each year act as a formal record of the meeting, 
 
 Les procès-verbaux et les notes approuvés chaque année constituent un compte rendu officiel de la réunion et comprennent le rapport annuel du trésorier sur les finances de l'association.
 
+* [2024 notes](2024BoardReport/)
 * [2023 notes](2023BoardReport/)
 * [2022 notes](2022BoardReport/)
 * [2021 notes](2021BoardReport/)
@@ -30,15 +31,21 @@ Les procès-verbaux et les notes approuvés chaque année constituent un compte 
 * [2007 AGM (English)](/assets/docs/minutes/AGM_Minutes_2007.pdf) [- AGA (Français)](/assets/docs/minutes/fr/AGA_proces_2007.pdf)
 * [2006 AGM (English)](/assets/docs/minutes/AGM_Minutes_2006.pdf) [- AGA (Français)](/assets/docs/minutes/fr/AGA_proces_2006.pdf)
 
-## Board of Directors
+## Current board of directors
 
-* Lisa Fast, President (elected July 2018)
-* Brian Cook, Treasurer
-* Jane Hayward, Secretary
-* searching (Usher Lake representative)
-* Don Herweyer, member
-* Marie Maisonneuve, member
-* Graeme Simpson, member
+The Board meets 4-5 x times, usually online, per year plus the AGM. Current bylaws require board members to serve for a maximum of 6 years. 
+
+Lisa Fast has served in the President role since 2016\. She will be stepping down after the 2025 AGM, but remain on the board in the Past-President role to assist with the transition.
+
+Current Board Members 
+
+* Jane Hayward \- Secretary (elected 2023\)  
+* Don Herweyer, member (elected 2020\)  
+* Brian Cook, treasurer (elected 2020\)  
+* Lisa Fast, President (elected 2016\) \- term extended one year  
+* Graeme Simpson \- member (elected 2022\)
+* William Hebert \- member (elected 2024\)  
+* Jim Thompson \- member (elected 2024\)
 
 Contact us by email at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 
