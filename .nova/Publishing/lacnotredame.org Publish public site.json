@@ -1,0 +1,5 @@
+{
+  "identifier" : "396893C3-C827-4E6D-89A2-80FDF5541DA9",
+  "server" : "nw publish tailscale lnd",
+  "usesPublishing" : false
+}

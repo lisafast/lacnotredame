@@ -6,5 +6,6 @@
   "MD007": { "indent": 4 },
   "no-hard-tabs": true,
   "no-trailing-punctuation": false,
+  "no-trailing-spaces": false,
   "whitespace": true
 }

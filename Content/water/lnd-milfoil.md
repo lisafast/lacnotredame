@@ -50,7 +50,7 @@ While we enjoyed the community effort, it's clear that managing the weeds oursel
 
 **Motion: Based on the pilot, move to create a separate Management fund of up to $10,000  for managing shared areas/channels after July 15 end of fish spawning season. Any funds tagged for this fund would be pre-approved to spend on managing the shared areas of the lake shown in the image below. Do a Fundraising drive.** 
 
-<img src="/Resources/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
+<img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
 
 ## History of Milfoil in Lac Notre-Dame and Usher
 

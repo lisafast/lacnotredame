@@ -39,7 +39,8 @@ Approve agenda for 2024 meeting
 Moved by: Lisa Fast  
 Seconded by: William Hebert
 
-## Financial Report, presented by Lisa Fast 
+## Financial Report, presented by Lisa Fast
+ 
 (Brian Cook, Treasurer was unable to attend)
 
 Summary:
@@ -79,7 +80,8 @@ Extra E-coli testing in July on Generations:
 * Good news that E-coli at all locations is either below detectable levels or just at the detectable level of 10 CFU (Quebec requires below 200 CFU for swimming). Nitrogen and phosphorus levels surprisingly are at the same levels as previous years.   
 * From Paul Hamilton, consulting biologist: “I suspect the increase in milfoil is related to the spring weather conditions (especially light and water temperature) and nutrients in the sediments. The good news is your nutrient levels do not seem to be bad at all (therefore the washed-in sediments are likely mainly inorganic particles).  Stressing the plants (harvesting in the late summer, early fall and in the spring) is the best way to control the growth. Also, poor weather conditions can do the same. For example the water clarity problem you report has two sides, 1\) a problem with more nutrients in the lake (with possible blue-green algae) and 2\) the visibility will stress the milfoil which may help to control the milfoil later this year (and possibly next year ?) .”
 
-**Usher Lake August 15, 2024 summary**   
+**Usher Lake August 15, 2024 summary**
+  
 * Usher continues to have high nutrient and bacteria levels, with e-coli at 110 CFU [at location 11](https://lacnotredame.org/map/maps/) (below the 200 CFU limit for swimming but well above drinking water recommendations). 
 
 Phosphorus levels at location 11 have been higher than the target level of 0.01 mg/l of an uncontaminated lake for the last 5 years. The higher nitrogen and phosphorus levels are somewhat expected given the small size of Usher, but do increase the risk of toxic Blue-Green Algae.
@@ -157,11 +159,13 @@ Current Board Members
 - Vote: Passed
 
 **Motion to elect Jim Thompson as a Board member to focus on water quality and nutrients. He has begun a communication and action plan.**   
+
 - Moved by: Lisa Fast  
 - Seconded by: William Hebert   
 - Vote: Passed
 
-**Elect new president or move to extend Lisa Fast’s term for one additional year**   
+**Elect new president or move to extend Lisa Fast’s term for one additional year** 
+  
 - Moved by: Jane  
 - Seconded by: Graeme  
 - Vote: Passed
