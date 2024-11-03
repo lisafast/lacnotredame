@@ -43,12 +43,8 @@ While we enjoyed the community effort, it's clear that managing the weeds oursel
 2. Two-canoe apparatus: Robert shared ideas from the camp, using a setup between two canoes   
 3. Flat-fronted boat (like a Jon boat) with an electric motor for more effective removal.  
 4. More equipment: Large rakes and collection mats are essential but costly.  
-5. We must shift the lake's culture to prevent milfoil spread through a public awareness campaign.  
-6. Explore and pilot-test alternatives, including getting ministry permission for non-manual methods  
-   * William Hebert will contact Quebec government re permissions.   
+5. We must shift the lake's culture to prevent milfoil spread through a public awareness campaign.    
    * Question on whether or not to pull up weeds. Yes, manually pulling up the weeds by the roots is more effective than cutting for small areas.  Easiest in shallow water, equipment available at CanadianPond.  Should be done only in early spring or after mid-July after spawning season. Try not to disturb the bottom too much to reduce dispersion of sediment.
-
-**Motion: Based on the pilot, move to create a separate Management fund of up to $10,000  for managing shared areas/channels after July 15 end of fish spawning season. Any funds tagged for this fund would be pre-approved to spend on managing the shared areas of the lake shown in the image below. Do a Fundraising drive.** 
 
 <img src="/assets/img/weedteam2024.jpeg" class="img-fluid py-3" alt="weed team at work" />
 

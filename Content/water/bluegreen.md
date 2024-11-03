@@ -4,10 +4,11 @@ Alarmingly, Lac Notre Dame and other area lakes have had some recent blue-green 
 
 Dense blue-green algal blooms can look like green pea soup or solid-looking mats of turquoise paint. Blooms can also be other colours such as yellow, purple, red or brown.
 
-[pics from https://www.ontario.ca/page/blue-green-algae#section-1]
+ <img src="/assets/img/algae-2020Nov.jpg" class="img-fluid py-3" alt="blue-green algae on lac Notre Dame in 2020" />
  
 Blue green algae can grow into substantial blooms that consume large amounts of oxygen in the water when they die and decompose, placing fish at risk too.
  
+  <img src="/assets/img/MECP-Blue-green-algae.jpg" class="img-fluid py-3" alt="thick layer of turquoise blue-green algae on water" />
 Fresh blooms smell like freshly mowed grass but older blooms can smell like rotting garbage.
 
 ## Blue-green algae can be poisonous
@@ -16,8 +17,6 @@ Not all types of blue-green algae make us sick, but some produce toxins that can
  
 Imagine coming to the lake but being unable to swim, fish or otherwise enjoy the water. Thankfully, we are not there yet but we need to do all we can to avoid this future.
 
-
- 
 ## Prevent blue-green algae in our lakes 
  
 Blue green algae (and other species of algae) grow in the presence of nutrients like nitrogen and phosphorous.  Sources of these nutrients include leaking septic systems, lawn fertilizers, and animal waste, among others. Runoff from rainfall magnifies the harmful impact of these sources.
@@ -38,19 +37,18 @@ If you see a blue-green film (looks like paint or pollen) floating on the surfac
 1. Take a photo and send it to info@lacnotredame.org, tell us where it is - avoid swimming near the bloom, keep children and pets away, and if it is within 3m of your water intake, stop drinking the water
 2. Use a clean jar and fill it about 3/4 full with water from the film and just below it, use gloves and wash your hands and wipe the outside of the jar afterwards
 3. Place the jar in the fridge to let the contents settle
-4. After two hours, take a look at the jar in the fridge - if the algae has floated up to the surface and is forming a ring, or is in a layer at the top, it is likely blue-green algae. Send another email to report the results of your test. We'll send an email to warn all members. 
+4. After two hours, take a look at the jar in the fridge - if the algae has floated up to the surface and is forming a ring, or is in a layer at the top, it is likely blue-green algae. Send another email to report the results of your test. We'll send an email to warn all members to stay at 3 meters away until 24 hours after the bloom has disappeared. 
 
-## Positive jar test - Jar with ring of blue-green algae at the surface - Lac Notre Dame, 2020
-
-
-## Negative jar test - Jar with regular non-toxic algae that has not floated up to the surface  - Lac Notre Dame, 2021
+## Photo of jar tests from Lac Notre Dame: 
+In 2021, regular algae stayed mixed in water after 2-4 hours in fridge, versus a jar in 2020 where Blue-green algae floated to form a layer at the top 
+ <img src="/assets/img/jarsAfter2Hours.png" class="img-fluid py-3" alt="jar of regular algae stayed mixed in water and jar of blue-green algae floated to layer at top of water" />
 
 5. Follow Quebec's advice on how long to avoid the area, and what to do if you have symptoms of exposure. 
 
 https://www.quebec.ca/sante/conseils-et-prevention/sante-et-environnement/algues-bleu-vert
 
-https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae
+[Quebec health advice and prevention for blue-green algae](https://www.quebec.ca/en/health/advice-and-prevention/health-and-environment/preventing-health-problems-associated-with-blue-green-algae)
 
 
-For more information here is a great article on blue green algae published by Watersheds Canada https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/
+Learn more about blue-green algae in this [great article by Watersheds Canada](https://watersheds.ca/why-is-blue-green-algae-cyanobacteria-becoming-more-prominent/)
  
