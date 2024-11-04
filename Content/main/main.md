@@ -44,13 +44,13 @@ The map shows all inlets and outlets into the lakes. Lots are marked. Water test
 
 La carte montre toutes les entrées et sorties des lacs. Les lots sont marqués. Les lieux d'analyse de l'eau sont indiqués.
 
-## [Algue bleu-vert - Blue-green algae](/Content/water/bluegreen.md)
+## [Algue bleu-vert - Blue-green algae](/water/bluegreen/)
 
 * If you see a blue-green film (looks like paint or pollen) floating on the surface of the water, take a photo and send it to [info@lacnotredame.org](mailto:info@lacnotredame.org)
-* [Steps you can take to prevent blue-geren algae and how to do a jar test ](/Content/water/bluegreen.md)
+* [Steps you can take to prevent blue-green algae and how to do a jar test](/water/bluegreen/)
 
 * Si vous voyez un film bleu-vert à la surface de l'eau, prenez une photo et envoyez-la à [info@lacnotredame.org](mailto:info@lacnotredame.org).
-* [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/Content/water/bluegreen.md)
+* [Pour en savoir plus sur la prévention des algues bleues et sur le test du bocal](/water/bluegreen/)
 
 ## [Plan d'action pour les bernaches - Canada Goose Action Plan](/water/gooseaction/)
 
