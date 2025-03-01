@@ -49,6 +49,10 @@ Current Board Members
 
 Contact us by email at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 
+[Constitution(PDF)](/assets/docs/Association_Constitution.pdf) 
+[Bylaws(PDF)](/assets/docs/Association_By-Laws_en.pdf)
+[Lettres Patentes](/assets/docs/Lettres%20patentes.pdf)
+
 3.1 The affairs of the Association shall be managed by a Board of Directors consisting of seven (7) persons, each of whom at the time of his/her election, or within ten (10) days thereafter and throughout his/her term of office, shall be a member in good standing of the Association.  If a person ceases to be a member in good standing of the Association then he/she shall no longer qualify to be a Director and must resign forthwith.
 
 3.2 The election of Directors at the Annual General Meeting of members may be by a show of hands, but if more than the required number of Directors are nominated and stand for election, the vote shall be conducted by secret ballot. The members of the Association may, by resolution passed by at least two-thirds (67%) of the votes cast at a Meeting of members of which notice specifying the intention to pass such a resolution has been given, remove any Director before the expiration of his/her term of office, and may, by a majority of the votes cast at the meeting, elect a person in his/her stead for the remainder of his/her term.
@@ -58,8 +62,6 @@ Contact us by email at [info@lacnotredame.org](mailto:info@lacnotredame.org)
 Each Director shall act upon the business of the Board in a thoughtful, conscientious, financially-responsible and transparent manner. Directors are expected to take an active role in the promotion and development of the Objectives of the Association.  Each Director, excluding the President and Vice President, shall serve as a liaison for a specific area of the Lakes, and his/her responsibilities shall include coordinating activities and communications between the Association and its members of the sector he/she represents.
 
 3.4 The Board should to the extent possible have representation from all sectors of Lac Notre-Dame and at least one representative from Usher Lake.
-
-[Constitution(PDF)](/assets/docs/Association_Constitution.pdf) and [Bylaws(PDF)](/assets/docs/Association_By-Laws_en.pdf)
 
 3.1 Les affaires de l'Association sont gérées par un conseil d'administration composé de sept (7) personnes qui, au moment de leur élection ou dans les dix (10) jours qui suivent et pendant toute la durée de leur mandat, doivent être membres en règle de l'Association.  Si une personne cesse d'être membre en règle de l'Association, elle ne remplit plus les conditions requises pour être administrateur et doit démissionner immédiatement.
 
